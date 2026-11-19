@@ -1,0 +1,1 @@
+{"unit": 0.04174, "frames": 12, "modes": {"idle": {"file": "clamperl-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.75, "cycle": 2.0}, "walk": {"file": "clamperl-walk.png", "cell": 160, "scale": 6.6783, "foot": 0.6085, "cycle": 0.75}, "run": {"file": "clamperl-run.png", "cell": 160, "scale": 6.6783, "foot": 0.6085, "cycle": 0.417}}, "src": "fallback-v4"}

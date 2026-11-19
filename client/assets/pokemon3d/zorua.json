@@ -1,0 +1,1 @@
+{"unit": 0.04364, "frames": 12, "modes": {"idle": {"file": "zorua-idle.png", "cell": 160, "scale": 7.0621, "foot": 0.841, "cycle": 2.0}, "walk": {"file": "zorua-walk.png", "cell": 160, "scale": 6.9818, "foot": 0.8316, "cycle": 1.0}, "run": {"file": "zorua-run.png", "cell": 160, "scale": 6.9818, "foot": 0.8316, "cycle": 0.556}}, "src": "fallback-v4"}

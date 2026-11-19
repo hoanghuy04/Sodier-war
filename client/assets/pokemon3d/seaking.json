@@ -1,0 +1,1 @@
+{"unit": 0.01536, "frames": 12, "modes": {"idle": {"file": "seaking-idle.png", "cell": 160, "scale": 2.6256, "foot": 0.6329, "cycle": 4.0}, "walk": {"file": "seaking-walk.png", "cell": 160, "scale": 2.4576, "foot": 0.6283, "cycle": 1.5}, "run": {"file": "seaking-run.png", "cell": 160, "scale": 2.4576, "foot": 0.6283, "cycle": 0.833}}, "src": "fallback-v4"}

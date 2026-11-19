@@ -1,0 +1,1 @@
+{"unit": 0.0256, "frames": 12, "modes": {"idle": {"file": "beartic-idle.png", "cell": 160, "scale": 4.1235, "foot": 0.8344, "cycle": 2.0}, "walk": {"file": "beartic-walk.png", "cell": 160, "scale": 4.096, "foot": 0.829, "cycle": 1.0}, "run": {"file": "beartic-run.png", "cell": 160, "scale": 4.096, "foot": 0.829, "cycle": 0.556}}, "src": "fallback-v4"}

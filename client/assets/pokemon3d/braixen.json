@@ -1,0 +1,1 @@
+{"unit": 0.0191, "frames": 12, "modes": {"idle": {"file": "braixen-idle.png", "cell": 160, "scale": 3.167, "foot": 0.9176, "cycle": 2.0}, "walk": {"file": "braixen-walk.png", "cell": 160, "scale": 3.0567, "foot": 0.8912, "cycle": 0.8}, "run": {"file": "braixen-run.png", "cell": 160, "scale": 3.0567, "foot": 0.8912, "cycle": 0.444}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.00881, "frames": 12, "modes": {"idle": {"file": "mamoswine-idle.png", "cell": 160, "scale": 1.4222, "foot": 0.604, "cycle": 4.0}, "walk": {"file": "mamoswine-walk.png", "cell": 160, "scale": 1.4092, "foot": 0.603, "cycle": 1.5}, "run": {"file": "mamoswine-run.png", "cell": 160, "scale": 1.4092, "foot": 0.6074, "cycle": 1.0}}, "src": "fallback-v4"}

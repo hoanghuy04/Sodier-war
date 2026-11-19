@@ -1,0 +1,1 @@
+{"unit": 0.02087, "frames": 12, "modes": {"idle": {"file": "gigalith-idle.png", "cell": 160, "scale": 3.1418, "foot": 0.6454, "cycle": 4.0}, "walk": {"file": "gigalith-walk.png", "cell": 160, "scale": 3.0052, "foot": 0.6464, "cycle": 8.0}, "run": {"file": "gigalith-run.png", "cell": 160, "scale": 3.0052, "foot": 0.6464, "cycle": 4.444}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02977, "frames": 12, "modes": {"idle": {"file": "lurantis-idle.png", "cell": 160, "scale": 4.8762, "foot": 0.8764, "cycle": 4.0}, "walk": {"file": "lurantis-walk.png", "cell": 160, "scale": 4.8762, "foot": 0.8535, "cycle": 1.75}, "run": {"file": "lurantis-run.png", "cell": 160, "scale": 4.8762, "foot": 0.8535, "cycle": 0.972}}, "src": "fallback-v4"}

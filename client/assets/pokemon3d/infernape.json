@@ -1,0 +1,1 @@
+{"unit": 0.01438, "frames": 12, "modes": {"idle": {"file": "infernape-idle.png", "cell": 160, "scale": 2.285, "foot": 0.6462, "cycle": 2.0}, "walk": {"file": "infernape-walk.png", "cell": 160, "scale": 2.4359, "foot": 0.7637, "cycle": 1.0}, "run": {"file": "infernape-run.png", "cell": 160, "scale": 2.1105, "foot": 0.6116, "cycle": 0.5}}, "src": "fallback-v4"}

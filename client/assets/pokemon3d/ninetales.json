@@ -1,0 +1,1 @@
+{"unit": 0.01011, "frames": 12, "modes": {"idle": {"file": "ninetales-idle.png", "cell": 160, "scale": 1.6168, "foot": 0.5339, "cycle": 2.0}, "walk": {"file": "ninetales-walk.png", "cell": 160, "scale": 1.6168, "foot": 0.5339, "cycle": 1.0}, "run": {"file": "ninetales-run.png", "cell": 160, "scale": 1.6168, "foot": 0.5339, "cycle": 0.556}}, "src": "fallback-v4"}

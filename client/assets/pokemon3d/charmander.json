@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "charmander-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.6247, "cycle": 4.0}, "walk": {"file": "charmander-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 1.0}, "run": {"file": "charmander-run.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03765, "frames": 12, "modes": {"idle": {"file": "tepig-idle.png", "cell": 160, "scale": 6.0235, "foot": 0.7391, "cycle": 2.0}, "walk": {"file": "tepig-walk.png", "cell": 160, "scale": 6.0235, "foot": 0.7485, "cycle": 0.667}, "run": {"file": "tepig-run.png", "cell": 160, "scale": 6.0235, "foot": 0.7485, "cycle": 0.37}}, "src": "fallback-v4"}

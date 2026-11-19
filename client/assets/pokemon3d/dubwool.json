@@ -1,0 +1,1 @@
+{"unit": 0.02122, "frames": 12, "modes": {"idle": {"file": "dubwool-idle.png", "cell": 160, "scale": 4.9152, "foot": 0.8448, "cycle": 2.0}, "walk": {"file": "dubwool-walk.png", "cell": 160, "scale": 4.8378, "foot": 0.8318, "cycle": 2.667}, "run": {"file": "dubwool-run.png", "cell": 160, "scale": 3.3945, "foot": 0.7594, "cycle": 1.0}}, "src": "fallback-v4"}

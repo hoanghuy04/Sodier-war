@@ -1,0 +1,1 @@
+{"unit": 0.01455, "frames": 12, "modes": {"idle": {"file": "dartrix-idle.png", "cell": 160, "scale": 2.3273, "foot": 0.5087, "cycle": 2.0}, "walk": {"file": "dartrix-walk.png", "cell": 160, "scale": 2.3273, "foot": 0.5087, "cycle": 1.0}, "run": {"file": "dartrix-run.png", "cell": 160, "scale": 2.3273, "foot": 0.5087, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.0331, "frames": 12, "modes": {"idle": {"file": "tinkatink-idle.png", "cell": 160, "scale": 6.6783, "foot": 0.5981, "cycle": 2.0}, "walk": {"file": "tinkatink-walk.png", "cell": 160, "scale": 6.4, "foot": 0.604, "cycle": 1.0}, "run": {"file": "tinkatink-run.png", "cell": 160, "scale": 5.2966, "foot": 0.553, "cycle": 0.75}}, "src": "fallback-v4"}

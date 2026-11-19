@@ -1,0 +1,1 @@
+{"unit": 0.0211, "frames": 12, "modes": {"idle": {"file": "annihilape-idle.png", "cell": 160, "scale": 3.4712, "foot": 0.8303, "cycle": 2.0}, "walk": {"file": "annihilape-walk.png", "cell": 160, "scale": 3.4133, "foot": 0.8168, "cycle": 1.5}, "run": {"file": "annihilape-run.png", "cell": 160, "scale": 3.4324, "foot": 0.832, "cycle": 0.75}}, "src": "fallback-v4"}

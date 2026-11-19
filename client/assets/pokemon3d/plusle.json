@@ -1,0 +1,1 @@
+{"unit": 0.03254, "frames": 12, "modes": {"idle": {"file": "plusle-idle.png", "cell": 160, "scale": 4.8505, "foot": 0.8188, "cycle": 4.0}, "walk": {"file": "plusle-walk.png", "cell": 160, "scale": 4.6861, "foot": 0.8137, "cycle": 1.0}, "run": {"file": "plusle-run.png", "cell": 160, "scale": 4.6861, "foot": 0.8137, "cycle": 0.556}}, "src": "fallback-v4"}

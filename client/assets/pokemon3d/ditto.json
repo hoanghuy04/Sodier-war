@@ -1,0 +1,1 @@
+{"unit": 0.06095, "frames": 12, "modes": {"idle": {"file": "ditto-idle.png", "cell": 160, "scale": 10.5931, "foot": 0.7383, "cycle": 4.0}, "walk": {"file": "ditto-walk.png", "cell": 160, "scale": 9.7524, "foot": 0.6813, "cycle": 2.0}, "run": {"file": "ditto-run.png", "cell": 160, "scale": 9.7524, "foot": 0.6813, "cycle": 1.111}}, "src": "fallback-v4"}

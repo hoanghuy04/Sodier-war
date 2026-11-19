@@ -1,0 +1,1 @@
+{"unit": 0.05053, "frames": 12, "modes": {"idle": {"file": "whismur-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.7956, "cycle": 2.0}, "walk": {"file": "whismur-walk.png", "cell": 160, "scale": 8.0842, "foot": 0.7956, "cycle": 1.0}, "run": {"file": "whismur-run.png", "cell": 160, "scale": 8.0842, "foot": 0.7956, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02053, "frames": 12, "modes": {"idle": {"file": "manectric-idle.png", "cell": 160, "scale": 3.3211, "foot": 0.8368, "cycle": 2.0}, "walk": {"file": "manectric-walk.png", "cell": 160, "scale": 3.2856, "foot": 0.828, "cycle": 1.0}, "run": {"file": "manectric-run.png", "cell": 160, "scale": 3.2856, "foot": 0.828, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,48 @@
+{
+ "zz-test": {
+  "best": 0,
+  "lives": 1,
+  "hero": "thach-lam"
+ },
+ "HHD": {
+  "best": 90,
+  "lives": 1,
+  "hero": "lam-nguyet"
+ },
+ "xuanho": {
+  "best": 35,
+  "lives": 1,
+  "hero": "lam-nguyet"
+ },
+ "tôi đẹp trai": {
+  "best": 31,
+  "lives": 3,
+  "hero": "phong-vu"
+ },
+ "mlem": {
+  "best": 3214,
+  "lives": 6,
+  "hero": "kim-ha"
+ },
+ "Hoàng": {
+  "best": 414,
+  "lives": 1,
+  "hero": "phong-vu"
+ },
+ "Hthw": {
+  "best": 2241,
+  "lives": 7,
+  "hero": "hoa-ky"
+ },
+ "DHH": {
+  "best": 2347,
+  "lives": 7,
+  "hero": "hoa-ky"
+ },
+ "Hthw101": {
+  "best": 28,
+  "lives": 1,
+  "wins": 1,
+  "hero": "phong-vu"
+ }
+}

@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "froakie-idle.png", "cell": 160, "scale": 7.0621, "foot": 0.7637, "cycle": 2.0}, "walk": {"file": "froakie-walk.png", "cell": 160, "scale": 4.3268, "foot": 0.665, "cycle": 1.0}, "run": {"file": "froakie-run.png", "cell": 160, "scale": 4.3268, "foot": 0.665, "cycle": 0.556}}, "src": "fallback-v4"}

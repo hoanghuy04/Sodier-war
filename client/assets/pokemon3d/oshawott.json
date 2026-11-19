@@ -1,0 +1,1 @@
+{"unit": 0.03254, "frames": 12, "modes": {"idle": {"file": "oshawott-idle.png", "cell": 160, "scale": 5.2068, "foot": 0.7229, "cycle": 2.0}, "walk": {"file": "oshawott-walk.png", "cell": 160, "scale": 5.2068, "foot": 0.7229, "cycle": 1.0}, "run": {"file": "oshawott-run.png", "cell": 160, "scale": 5.2068, "foot": 0.7229, "cycle": 0.556}}, "src": "fallback-v4"}

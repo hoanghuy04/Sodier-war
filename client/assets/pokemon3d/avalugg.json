@@ -1,0 +1,1 @@
+{"unit": 0.00881, "frames": 12, "modes": {"idle": {"file": "avalugg-idle.png", "cell": 160, "scale": 1.4092, "foot": 0.5942, "cycle": 4.0}, "walk": {"file": "avalugg-walk.png", "cell": 160, "scale": 1.4222, "foot": 0.604, "cycle": 8.0}, "run": {"file": "avalugg-run.png", "cell": 160, "scale": 1.4222, "foot": 0.604, "cycle": 4.444}}, "src": "fallback-v4"}

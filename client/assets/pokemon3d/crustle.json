@@ -1,0 +1,1 @@
+{"unit": 0.01761, "frames": 12, "modes": {"idle": {"file": "crustle-idle.png", "cell": 160, "scale": 3.1347, "foot": 0.644, "cycle": 4.0}, "walk": {"file": "crustle-walk.png", "cell": 160, "scale": 2.8444, "foot": 0.5907, "cycle": 3.0}, "run": {"file": "crustle-run.png", "cell": 160, "scale": 2.8183, "foot": 0.581, "cycle": 2.0}}, "src": "fallback-v4"}

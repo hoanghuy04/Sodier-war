@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "gimmighoul-idle.png", "cell": 160, "scale": 5.5855, "foot": 0.7391, "cycle": 4.0}, "walk": {"file": "gimmighoul-walk.png", "cell": 160, "scale": 5.6367, "foot": 0.7633, "cycle": 1.458}, "run": {"file": "gimmighoul-run.png", "cell": 160, "scale": 5.5855, "foot": 0.678, "cycle": 0.667}}, "src": "fallback-v4"}

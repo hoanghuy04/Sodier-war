@@ -1,0 +1,1 @@
+{"unit": 0.01561, "frames": 12, "modes": {"idle": {"file": "zebstrika-idle.png", "cell": 160, "scale": 2.5388, "foot": 0.6603, "cycle": 2.667}, "walk": {"file": "zebstrika-walk.png", "cell": 160, "scale": 2.6483, "foot": 0.7086, "cycle": 1.0}, "run": {"file": "zebstrika-run.png", "cell": 160, "scale": 2.4976, "foot": 0.685, "cycle": 0.533}}, "src": "fallback-v4"}

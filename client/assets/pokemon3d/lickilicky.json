@@ -1,0 +1,1 @@
+{"unit": 0.016, "frames": 12, "modes": {"idle": {"file": "lickilicky-idle.png", "cell": 160, "scale": 2.7429, "foot": 0.7289, "cycle": 4.0}, "walk": {"file": "lickilicky-walk.png", "cell": 160, "scale": 2.7186, "foot": 0.7311, "cycle": 1.333}, "run": {"file": "lickilicky-run.png", "cell": 160, "scale": 2.56, "foot": 0.8016, "cycle": 0.792}}, "src": "fallback-v4"}

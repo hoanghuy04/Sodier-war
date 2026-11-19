@@ -1,0 +1,1 @@
+{"unit": 0.0526, "frames": 12, "modes": {"idle": {"file": "wishiwashi-idle.png", "cell": 160, "scale": 8.9043, "foot": 0.7073, "cycle": 0.5}, "walk": {"file": "wishiwashi-walk.png", "cell": 160, "scale": 8.4164, "foot": 0.7091, "cycle": 0.5}, "run": {"file": "wishiwashi-run.png", "cell": 160, "scale": 8.4164, "foot": 0.7091, "cycle": 0.278}}, "src": "fallback-v4"}

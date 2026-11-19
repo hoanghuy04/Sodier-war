@@ -1,0 +1,1 @@
+{"unit": 0.048, "frames": 12, "modes": {"idle": {"file": "foongus-idle.png", "cell": 160, "scale": 7.68, "foot": 0.7808, "cycle": 2.0}, "walk": {"file": "foongus-walk.png", "cell": 160, "scale": 7.68, "foot": 0.7808, "cycle": 2.0}, "run": {"file": "foongus-walk.png", "cell": 160, "scale": 7.68, "foot": 0.7808, "cycle": 2.0}}, "src": "fallback-v4"}

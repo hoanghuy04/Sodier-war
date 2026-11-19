@@ -1,0 +1,1 @@
+{"unit": 0.02341, "frames": 12, "modes": {"idle": {"file": "muk-idle.png", "cell": 160, "scale": 3.7463, "foot": 0.6838, "cycle": 2.0}, "walk": {"file": "muk-idle.png", "cell": 160, "scale": 3.7463, "foot": 0.6838, "cycle": 2.0}, "run": {"file": "muk-idle.png", "cell": 160, "scale": 3.7463, "foot": 0.6838, "cycle": 2.0}}, "src": "fallback-v4"}

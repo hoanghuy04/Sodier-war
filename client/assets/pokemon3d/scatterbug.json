@@ -1,0 +1,1 @@
+{"unit": 0.05408, "frames": 12, "modes": {"idle": {"file": "scatterbug-idle.png", "cell": 160, "scale": 9.1701, "foot": 0.8424, "cycle": 2.0}, "walk": {"file": "scatterbug-walk.png", "cell": 160, "scale": 9.3091, "foot": 0.7676, "cycle": 1.0}, "run": {"file": "scatterbug-run.png", "cell": 160, "scale": 9.3091, "foot": 0.7676, "cycle": 0.556}}, "src": "fallback-v4"}

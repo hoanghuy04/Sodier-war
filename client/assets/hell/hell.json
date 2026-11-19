@@ -1,0 +1,2716 @@
+{
+ "meta": {
+  "note": "Hell mode sprites (tools/spriteimport/hell.mjs). Paths are relative to /assets/hell/.",
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "dirsNote": "monster sheets: one row per (state, dir): row = states[s].row + dirIndex, dirIndex in dirs order (clockwise from S, same as client/assets/units/atlas.json). The AI sheet columns (S,SE,E,NE,N,NW,W,SW) were reordered.",
+  "teamRecolor": false
+ },
+ "monsters": {
+  "quy-tro": {
+   "size": [
+    84,
+    57
+   ],
+   "anchor": [
+    42,
+    50
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "quy-tro.jpg",
+   "artScale": 2.25,
+   "teamRecolor": false,
+   "src": "mon/quy-tro.png",
+   "kind": "swarm"
+  },
+  "doi-than": {
+   "size": [
+    90,
+    63
+   ],
+   "anchor": [
+    45,
+    54
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "doi-than.jpg",
+   "artScale": 2.1,
+   "teamRecolor": false,
+   "src": "mon/doi-than.png",
+   "kind": "swarm"
+  },
+  "quy-vuong-nham": {
+   "size": [
+    188,
+    156
+   ],
+   "anchor": [
+    94,
+    152
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "skill": {
+     "row": 24,
+     "frames": 1
+    },
+    "hit": {
+     "row": 32,
+     "frames": 1
+    },
+    "roar": {
+     "row": 40,
+     "frames": 1
+    },
+    "death": {
+     "row": 48,
+     "frames": 1
+    }
+   },
+   "source": "boss-quy-vuong-nham.jpg",
+   "artScale": 1.04,
+   "teamRecolor": false,
+   "src": "mon/quy-vuong-nham.png",
+   "kind": "boss"
+  },
+  "sau-dung-nham": {
+   "size": [
+    90,
+    57
+   ],
+   "anchor": [
+    45,
+    53
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "sau-dung-nham.jpg",
+   "artScale": 2.27,
+   "teamRecolor": false,
+   "src": "mon/sau-dung-nham.png",
+   "kind": "swarm"
+  },
+  "cot-than": {
+   "size": [
+    56,
+    57
+   ],
+   "anchor": [
+    28,
+    53
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "cot-than.jpg",
+   "artScale": 2.77,
+   "teamRecolor": false,
+   "src": "mon/cot-than.png",
+   "kind": "swarm"
+  },
+  "nhay-dung-nham": {
+   "size": [
+    70,
+    55
+   ],
+   "anchor": [
+    35,
+    44
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "nhay-dung-nham.jpg",
+   "artScale": 2.9,
+   "teamRecolor": false,
+   "src": "mon/nhay-dung-nham.png",
+   "kind": "swarm"
+  },
+  "qua-lua": {
+   "size": [
+    94,
+    54
+   ],
+   "anchor": [
+    47,
+    49
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "qua-lua.jpg",
+   "artScale": 2.33,
+   "teamRecolor": false,
+   "src": "mon/qua-lua.png",
+   "kind": "swarm"
+  },
+  "bo-luu-huynh": {
+   "size": [
+    56,
+    50
+   ],
+   "anchor": [
+    28,
+    46
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "bo-luu-huynh.jpg",
+   "artScale": 3.17,
+   "teamRecolor": false,
+   "src": "mon/bo-luu-huynh.png",
+   "kind": "swarm"
+  },
+  "den-oan-hon": {
+   "size": [
+    60,
+    53
+   ],
+   "anchor": [
+    30,
+    45
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "den-oan-hon.jpg",
+   "artScale": 3.2,
+   "teamRecolor": false,
+   "src": "mon/den-oan-hon.png",
+   "kind": "swarm"
+  },
+  "khuyen-bazan": {
+   "size": [
+    104,
+    62
+   ],
+   "anchor": [
+    52,
+    58
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "khuyen-bazan.jpg",
+   "artScale": 2.24,
+   "teamRecolor": false,
+   "src": "mon/khuyen-bazan.png",
+   "kind": "medium"
+  },
+  "ke-keo-xich": {
+   "size": [
+    104,
+    60
+   ],
+   "anchor": [
+    52,
+    56
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "ke-keo-xich.jpg",
+   "artScale": 2.54,
+   "teamRecolor": false,
+   "src": "mon/ke-keo-xich.png",
+   "kind": "medium"
+  },
+  "thay-cung-sung": {
+   "size": [
+    96,
+    61
+   ],
+   "anchor": [
+    48,
+    57
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "thay-cung-sung.jpg",
+   "artScale": 2.58,
+   "teamRecolor": false,
+   "src": "mon/thay-cung-sung.png",
+   "kind": "medium"
+  },
+  "ve-binh-nguc": {
+   "size": [
+    76,
+    59
+   ],
+   "anchor": [
+    38,
+    55
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "ve-binh-nguc.jpg",
+   "artScale": 2.6,
+   "teamRecolor": false,
+   "src": "mon/ve-binh-nguc.png",
+   "kind": "medium"
+  },
+  "cu-nham": {
+   "size": [
+    102,
+    81
+   ],
+   "anchor": [
+    51,
+    75
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "cu-nham.jpg",
+   "artScale": 1.92,
+   "teamRecolor": false,
+   "src": "mon/cu-nham.png",
+   "kind": "big"
+  },
+  "hoa-te": {
+   "size": [
+    128,
+    83
+   ],
+   "anchor": [
+    64,
+    75
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "hoa-te.jpg",
+   "artScale": 1.86,
+   "teamRecolor": false,
+   "src": "mon/hoa-te.png",
+   "kind": "big"
+  },
+  "cai-nguc": {
+   "size": [
+    154,
+    104
+   ],
+   "anchor": [
+    77,
+    94
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "cai-nguc.jpg",
+   "artScale": 1.65,
+   "teamRecolor": false,
+   "src": "mon/cai-nguc.png",
+   "kind": "elite"
+  },
+  "phu-thuy-huyet": {
+   "size": [
+    108,
+    96
+   ],
+   "anchor": [
+    54,
+    85
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "phu-thuy-huyet.jpg",
+   "artScale": 1.75,
+   "teamRecolor": false,
+   "src": "mon/phu-thuy-huyet.png",
+   "kind": "elite"
+  },
+  "lo-ren-song": {
+   "size": [
+    124,
+    88
+   ],
+   "anchor": [
+    62,
+    84
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "lo-ren-song.jpg",
+   "artScale": 1.81,
+   "teamRecolor": false,
+   "src": "mon/lo-ren-song.png",
+   "kind": "elite"
+  },
+  "ret-dung-nham": {
+   "size": [
+    118,
+    89
+   ],
+   "anchor": [
+    59,
+    85
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "hit": {
+     "row": 24,
+     "frames": 1
+    },
+    "death": {
+     "row": 32,
+     "frames": 1
+    }
+   },
+   "source": "ret-dung-nham.jpg",
+   "artScale": 1.77,
+   "teamRecolor": false,
+   "src": "mon/ret-dung-nham.png",
+   "kind": "elite"
+  },
+  "mau-hau-tro": {
+   "size": [
+    206,
+    169
+   ],
+   "anchor": [
+    103,
+    143
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "skill": {
+     "row": 24,
+     "frames": 1
+    },
+    "hit": {
+     "row": 32,
+     "frames": 1
+    },
+    "roar": {
+     "row": 40,
+     "frames": 1
+    },
+    "death": {
+     "row": 48,
+     "frames": 1
+    }
+   },
+   "source": "boss-mau-hau-tro.jpg",
+   "artScale": 1.03,
+   "teamRecolor": false,
+   "src": "mon/mau-hau-tro.png",
+   "kind": "boss"
+  },
+  "nguc-chu": {
+   "size": [
+    170,
+    144
+   ],
+   "anchor": [
+    85,
+    140
+   ],
+   "dirs": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+   ],
+   "states": {
+    "idle": {
+     "row": 0,
+     "frames": 1
+    },
+    "walk": {
+     "row": 8,
+     "frames": 1
+    },
+    "attack": {
+     "row": 16,
+     "frames": 1
+    },
+    "skill": {
+     "row": 24,
+     "frames": 1
+    },
+    "hit": {
+     "row": 32,
+     "frames": 1
+    },
+    "roar": {
+     "row": 40,
+     "frames": 1
+    },
+    "death": {
+     "row": 48,
+     "frames": 1
+    }
+   },
+   "source": "boss-nguc-chu.jpg",
+   "artScale": 1.08,
+   "teamRecolor": false,
+   "src": "mon/nguc-chu.png",
+   "kind": "boss"
+  }
+ },
+ "fx": {
+  "fx-01": {
+   "src": "fx/fx-01.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     111
+    ],
+    [
+     111,
+     91
+    ],
+    [
+     202,
+     100
+    ],
+    [
+     302,
+     132
+    ]
+   ],
+   "names": [
+    "Sword King Slash",
+    "Mountain-Splitting Stone Wave",
+    "Flying Pickaxe",
+    "Golden Vein Burst"
+   ]
+  },
+  "fx-02": {
+   "src": "fx/fx-02.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     66
+    ],
+    [
+     66,
+     104
+    ],
+    [
+     170,
+     69
+    ],
+    [
+     239,
+     142
+    ]
+   ],
+   "names": [
+    "Charging Lance",
+    "Thunder Hooves",
+    "Star Bolt",
+    "Lunar Eclipse"
+   ]
+  },
+  "fx-03": {
+   "src": "fx/fx-03.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     78
+    ],
+    [
+     78,
+     121
+    ],
+    [
+     199,
+     124
+    ],
+    [
+     323,
+     87
+    ]
+   ],
+   "names": [
+    "Fire Whip",
+    "Fire Dragon Whip",
+    "Orbiting Sickle",
+    "Wheel of Rebirth"
+   ]
+  },
+  "fx-04": {
+   "src": "fx/fx-04.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     60
+    ],
+    [
+     60,
+     75
+    ],
+    [
+     135,
+     98
+    ],
+    [
+     233,
+     130
+    ]
+   ],
+   "names": [
+    "Lightning Needle",
+    "Nine Heavens Thunder Net",
+    "Demon-Sealing Ward",
+    "Vajra Diamond Formation"
+   ]
+  },
+  "fx-05": {
+   "src": "fx/fx-05.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     71
+    ],
+    [
+     71,
+     115
+    ],
+    [
+     186,
+     88
+    ],
+    [
+     274,
+     137
+    ]
+   ],
+   "names": [
+    "Silver Throwing Knife",
+    "Silver Knife Storm",
+    "Flying Sword",
+    "Heavenly Sword Formation"
+   ]
+  },
+  "fx-06": {
+   "src": "fx/fx-06.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     138
+    ],
+    [
+     138,
+     150
+    ],
+    [
+     288,
+     141
+    ],
+    [
+     429,
+     148
+    ]
+   ],
+   "names": [
+    "Soul-Sucking Gourd",
+    "Heaven-Swallowing Gourd",
+    "Ice Arrow Rain",
+    "Soul-Calming Bell"
+   ]
+  },
+  "fx-07": {
+   "src": "fx/fx-07.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     112
+    ],
+    [
+     112,
+     105
+    ],
+    [
+     217,
+     160
+    ],
+    [
+     377,
+     146
+    ]
+   ],
+   "names": [
+    "Earthquake Fist",
+    "Palm-Leaf Fan Gust",
+    "Heaven's Thunder",
+    "Flying Talisman"
+   ]
+  },
+  "fx-08": {
+   "src": "fx/fx-08.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     146
+    ],
+    [
+     146,
+     114
+    ],
+    [
+     260,
+     83
+    ],
+    [
+     343,
+     122
+    ]
+   ],
+   "names": [
+    "Spawn Crack",
+    "Demon Death Burst",
+    "Wailing Ember Bolt",
+    "Sulfur Blast"
+   ]
+  },
+  "fx-09": {
+   "src": "fx/fx-09.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     159
+    ],
+    [
+     159,
+     71
+    ],
+    [
+     230,
+     71
+    ],
+    [
+     301,
+     155
+    ]
+   ],
+   "names": [
+    "Hex Rune Circle",
+    "Chain Hook",
+    "Charge Warning",
+    "Molten Ingot Impact"
+   ]
+  },
+  "fx-10": {
+   "src": "fx/fx-10.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     145
+    ],
+    [
+     145,
+     104
+    ],
+    [
+     249,
+     142
+    ],
+    [
+     391,
+     91
+    ],
+    [
+     482,
+     94
+    ]
+   ],
+   "names": [
+    "Burrow Eruption",
+    "Lava Wave Cleave",
+    "Lava Meteor",
+    "Burning Scale",
+    "Chain Sweep"
+   ]
+  },
+  "fx-11": {
+   "src": "fx/fx-11.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     151
+    ],
+    [
+     151,
+     113
+    ],
+    [
+     264,
+     140
+    ],
+    [
+     404,
+     144
+    ]
+   ],
+   "names": [
+    "Lava Geyser",
+    "Fire Wall",
+    "Exit Portal",
+    "Hell Gate Vortex"
+   ]
+  },
+  "fx-12": {
+   "src": "fx/fx-12.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     66
+    ],
+    [
+     66,
+     116
+    ],
+    [
+     182,
+     107
+    ],
+    [
+     289,
+     111
+    ],
+    [
+     400,
+     82
+    ]
+   ],
+   "names": [
+    "Purge Beam",
+    "Fire Rune Mine",
+    "Spirit Soldier",
+    "Ball Lightning",
+    "Frost Nova"
+   ]
+  },
+  "fx-13": {
+   "src": "fx/fx-13.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     131
+    ],
+    [
+     131,
+     152
+    ],
+    [
+     283,
+     100
+    ],
+    [
+     383,
+     64
+    ]
+   ],
+   "names": [
+    "Wind God Tornado",
+    "Golden Palm Strike",
+    "Stone Spear Ring",
+    "Spirit Firefly"
+   ]
+  },
+  "fx-14": {
+   "src": "fx/fx-14.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     148
+    ],
+    [
+     148,
+     106
+    ],
+    [
+     254,
+     137
+    ],
+    [
+     391,
+     66
+    ]
+   ],
+   "names": [
+    "Phoenix Dash",
+    "Holy Water Flask",
+    "Heaven Net",
+    "Moon Disc"
+   ]
+  },
+  "fx-15": {
+   "src": "fx/fx-15.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     98
+    ],
+    [
+     98,
+     105
+    ],
+    [
+     203,
+     122
+    ],
+    [
+     325,
+     78
+    ]
+   ],
+   "names": [
+    "Demon Mirror Beam",
+    "Paper Crane",
+    "Water Dragon Wave",
+    "Repeating Crossbow Bolt"
+   ]
+  },
+  "fx-16": {
+   "src": "fx/fx-16.png",
+   "w": 160,
+   "frames": 8,
+   "rows": [
+    [
+     0,
+     120
+    ],
+    [
+     120,
+     80
+    ],
+    [
+     200,
+     94
+    ],
+    [
+     294,
+     120
+    ]
+   ],
+   "names": [
+    "Spirit Barrier",
+    "Mirage Step",
+    "Frost Bite",
+    "Killing Intent Aura"
+   ]
+  }
+ },
+ "grids": {
+  "vat-pham": {
+   "src": "vat-pham.png",
+   "cols": 8,
+   "rows": 3,
+   "cell": [
+    26,
+    26
+   ],
+   "rects": [
+    [
+     7,
+     7,
+     11,
+     12
+    ],
+    [
+     32,
+     5,
+     14,
+     16
+    ],
+    [
+     56,
+     3,
+     18,
+     20
+    ],
+    [
+     83,
+     4,
+     16,
+     17
+    ],
+    [
+     111,
+     6,
+     12,
+     14
+    ],
+    [
+     133,
+     6,
+     20,
+     14
+    ],
+    [
+     161,
+     3,
+     16,
+     19
+    ],
+    [
+     185,
+     5,
+     20,
+     16
+    ],
+    [
+     4,
+     31,
+     17,
+     16
+    ],
+    [
+     30,
+     27,
+     17,
+     24
+    ],
+    [
+     58,
+     29,
+     14,
+     19
+    ],
+    [
+     83,
+     30,
+     16,
+     17
+    ],
+    [
+     107,
+     31,
+     19,
+     16
+    ],
+    [
+     133,
+     31,
+     20,
+     16
+    ],
+    [
+     160,
+     30,
+     18,
+     18
+    ],
+    [
+     186,
+     30,
+     17,
+     18
+    ],
+    [
+     3,
+     56,
+     19,
+     17
+    ],
+    [
+     28,
+     55,
+     22,
+     19
+    ],
+    [
+     55,
+     56,
+     20,
+     17
+    ],
+    [
+     81,
+     55,
+     19,
+     20
+    ],
+    [
+     105,
+     53,
+     24,
+     23
+    ],
+    [
+     133,
+     55,
+     19,
+     20
+    ],
+    [
+     159,
+     55,
+     19,
+     20
+    ],
+    [
+     185,
+     55,
+     19,
+     20
+    ]
+   ],
+   "names": [
+    "Blue soul gem",
+    "Green soul gem",
+    "Blood soul gem",
+    "Soul Ember",
+    "Gold coin",
+    "Gold pile",
+    "Blood flask",
+    "Hell ticket",
+    "Soul magnet",
+    "Blast talisman",
+    "Frost hourglass",
+    "Holy orb",
+    "Hell chest",
+    "Elite chest",
+    "Exit sigil",
+    "Ghost soldier",
+    "Chest opening: closed",
+    "Chest opening: shaking",
+    "Chest opening: lid cracks",
+    "Chest opening: lid flies open",
+    "Chest opening: loot pops out",
+    "Chest opening: light shrinks",
+    "Chest opening: open glowing",
+    "Chest opening: open empty"
+   ],
+   "ids": [
+    "blue-soul-gem",
+    "green-soul-gem",
+    "blood-soul-gem",
+    "soul-ember",
+    "gold-coin",
+    "gold-pile",
+    "blood-flask",
+    "hell-ticket",
+    "soul-magnet",
+    "blast-talisman",
+    "frost-hourglass",
+    "holy-orb",
+    "hell-chest",
+    "elite-chest",
+    "exit-sigil",
+    "ghost-soldier",
+    "chest-opening-closed",
+    "chest-opening-shaking",
+    "chest-opening-lid-cracks",
+    "chest-opening-lid-flies-open",
+    "chest-opening-loot-pops-out",
+    "chest-opening-light-shrinks",
+    "chest-opening-open-glowing",
+    "chest-opening-open-empty"
+   ]
+  },
+  "icon-ky-nang": {
+   "src": "icon-ky-nang.png",
+   "cols": 8,
+   "rows": 5,
+   "cell": [
+    32,
+    32
+   ],
+   "rects": [
+    [
+     1,
+     2,
+     30,
+     27
+    ],
+    [
+     33,
+     1,
+     30,
+     29
+    ],
+    [
+     65,
+     1,
+     30,
+     30
+    ],
+    [
+     97,
+     2,
+     30,
+     27
+    ],
+    [
+     129,
+     1,
+     30,
+     30
+    ],
+    [
+     161,
+     1,
+     30,
+     29
+    ],
+    [
+     194,
+     1,
+     28,
+     30
+    ],
+    [
+     225,
+     1,
+     30,
+     30
+    ],
+    [
+     1,
+     34,
+     30,
+     27
+    ],
+    [
+     34,
+     33,
+     28,
+     30
+    ],
+    [
+     65,
+     34,
+     30,
+     27
+    ],
+    [
+     97,
+     33,
+     30,
+     29
+    ],
+    [
+     129,
+     35,
+     30,
+     26
+    ],
+    [
+     161,
+     34,
+     30,
+     28
+    ],
+    [
+     193,
+     33,
+     30,
+     29
+    ],
+    [
+     225,
+     33,
+     30,
+     30
+    ],
+    [
+     1,
+     65,
+     30,
+     29
+    ],
+    [
+     33,
+     66,
+     30,
+     27
+    ],
+    [
+     65,
+     66,
+     30,
+     27
+    ],
+    [
+     97,
+     67,
+     30,
+     26
+    ],
+    [
+     129,
+     65,
+     29,
+     30
+    ],
+    [
+     161,
+     65,
+     29,
+     30
+    ],
+    [
+     193,
+     65,
+     29,
+     30
+    ],
+    [
+     225,
+     67,
+     30,
+     26
+    ],
+    [
+     1,
+     98,
+     30,
+     28
+    ],
+    [
+     33,
+     97,
+     30,
+     29
+    ],
+    [
+     65,
+     98,
+     30,
+     28
+    ],
+    [
+     97,
+     98,
+     30,
+     28
+    ],
+    [
+     129,
+     97,
+     30,
+     29
+    ],
+    [
+     161,
+     98,
+     30,
+     28
+    ],
+    [
+     193,
+     98,
+     30,
+     28
+    ],
+    [
+     225,
+     98,
+     30,
+     28
+    ],
+    [
+     1,
+     129,
+     30,
+     29
+    ],
+    [
+     33,
+     129,
+     30,
+     29
+    ],
+    [
+     65,
+     129,
+     30,
+     30
+    ],
+    [
+     97,
+     129,
+     30,
+     30
+    ],
+    [
+     129,
+     129,
+     30,
+     30
+    ],
+    [
+     161,
+     130,
+     30,
+     27
+    ],
+    [
+     193,
+     129,
+     29,
+     30
+    ],
+    [
+     225,
+     129,
+     29,
+     30
+    ]
+   ],
+   "names": [
+    "Trảm Kiếm Vương",
+    "Cuốc Bay",
+    "Giáo Xung Phong",
+    "Tinh Đạn",
+    "Roi Lửa",
+    "Lưỡi Liềm Xoay",
+    "Lôi Châm",
+    "Bùa Trấn Tà",
+    "Phi Đao Bạc",
+    "Mưa Băng Tiễn",
+    "Chuông Trấn Hồn",
+    "Ngự Kiếm",
+    "Địa Chấn Quyền",
+    "Hồ Lô Hút Hồn",
+    "Quạt Ba Tiêu",
+    "Thiên Lôi Giáng",
+    "Lá Bùa Bay",
+    "Tâm Thép",
+    "Giáp Hắc Thạch",
+    "Giày Gió",
+    "Nam Châm Hồn",
+    "Tụ Lực",
+    "Tốc Pháp",
+    "Khai Không",
+    "Song Ảnh",
+    "Linh Khế",
+    "Bánh Xe Luân Hồi",
+    "Lưới Sấm Cửu Thiên",
+    "Kim Cang Trận",
+    "Bão Đao Bạc",
+    "Thiên Kiếm Trận",
+    "Hồ Lô Thôn Thiên",
+    "Thạch Kiếm Phá Sơn",
+    "Cuốc Vàng Đào Mạch",
+    "Vó Ngựa Sấm Rền",
+    "Nguyệt Thực",
+    "Roi Long Hỏa",
+    "Đổi bài (nút)",
+    "Bỏ qua (nút)",
+    "Hồi sinh (nút)"
+   ],
+   "ids": [
+    "tram-kiem-vuong",
+    "cuoc-bay",
+    "giao-xung-phong",
+    "tinh-dan",
+    "roi-lua",
+    "luoi-liem-xoay",
+    "loi-cham",
+    "bua-tran-ta",
+    "phi-dao-bac",
+    "mua-bang-tien",
+    "chuong-tran-hon",
+    "ngu-kiem",
+    "dia-chan-quyen",
+    "ho-lo-hut-hon",
+    "quat-ba-tieu",
+    "thien-loi-giang",
+    "la-bua-bay",
+    "tam-thep",
+    "giap-hac-thach",
+    "giay-gio",
+    "nam-cham-hon",
+    "tu-luc",
+    "toc-phap",
+    "khai-khong",
+    "song-anh",
+    "linh-khe",
+    "banh-xe-luan-hoi",
+    "luoi-sam-cuu-thien",
+    "kim-cang-tran",
+    "bao-dao-bac",
+    "thien-kiem-tran",
+    "ho-lo-thon-thien",
+    "thach-kiem-pha-son",
+    "cuoc-vang-dao-mach",
+    "vo-ngua-sam-ren",
+    "nguyet-thuc",
+    "roi-long-hoa",
+    "doi-bai",
+    "bo-qua",
+    "hoi-sinh"
+   ]
+  },
+  "the-ky-nang": {
+   "src": "the-ky-nang.png",
+   "cols": 5,
+   "rows": 1,
+   "cell": [
+    98,
+    200
+   ],
+   "rects": [
+    [
+     1,
+     20,
+     96,
+     179
+    ],
+    [
+     99,
+     5,
+     96,
+     194
+    ],
+    [
+     197,
+     4,
+     95,
+     195
+    ],
+    [
+     295,
+     1,
+     96,
+     198
+    ],
+    [
+     393,
+     20,
+     96,
+     179
+    ]
+   ],
+   "names": [
+    "Active skill",
+    "Passive",
+    "Hero weapon",
+    "Evolution",
+    "Locked"
+   ],
+   "ids": [
+    "active-skill",
+    "passive",
+    "hero-weapon",
+    "evolution",
+    "locked"
+   ]
+  },
+  "vat-the-1": {
+   "src": "vat-the-1.png",
+   "cols": 6,
+   "rows": 3,
+   "cell": [
+    65,
+    71
+   ],
+   "rects": [
+    [
+     9,
+     3,
+     46,
+     67
+    ],
+    [
+     70,
+     5,
+     54,
+     65
+    ],
+    [
+     132,
+     34,
+     61,
+     36
+    ],
+    [
+     210,
+     4,
+     34,
+     66
+    ],
+    [
+     265,
+     15,
+     55,
+     55
+    ],
+    [
+     328,
+     6,
+     58,
+     64
+    ],
+    [
+     10,
+     84,
+     44,
+     57
+    ],
+    [
+     70,
+     76,
+     55,
+     65
+    ],
+    [
+     131,
+     106,
+     63,
+     35
+    ],
+    [
+     204,
+     78,
+     47,
+     63
+    ],
+    [
+     268,
+     80,
+     49,
+     61
+    ],
+    [
+     332,
+     72,
+     51,
+     69
+    ],
+    [
+     7,
+     170,
+     50,
+     42
+    ],
+    [
+     69,
+     174,
+     56,
+     38
+    ],
+    [
+     134,
+     186,
+     57,
+     26
+    ],
+    [
+     204,
+     173,
+     46,
+     39
+    ],
+    [
+     266,
+     183,
+     53,
+     29
+    ],
+    [
+     332,
+     165,
+     50,
+     47
+    ]
+   ],
+   "names": [
+    "Obsidian pillar Variant A",
+    "Chain post Variant A",
+    "Bone pile Variant A",
+    "Skull stake Variant A",
+    "Lava rock Variant A",
+    "Demon statue Variant A",
+    "Obsidian pillar Variant B",
+    "Chain post Variant B",
+    "Bone pile Variant B",
+    "Skull stake Variant B",
+    "Lava rock Variant B",
+    "Demon statue Variant B",
+    "Obsidian pillar Variant C",
+    "Chain post Variant C",
+    "Bone pile Variant C",
+    "Skull stake Variant C",
+    "Lava rock Variant C",
+    "Demon statue Variant C"
+   ],
+   "ids": [
+    "obsidian-pillar-variant-a",
+    "chain-post-variant-a",
+    "bone-pile-variant-a",
+    "skull-stake-variant-a",
+    "lava-rock-variant-a",
+    "demon-statue-variant-a",
+    "obsidian-pillar-variant-b",
+    "chain-post-variant-b",
+    "bone-pile-variant-b",
+    "skull-stake-variant-b",
+    "lava-rock-variant-b",
+    "demon-statue-variant-b",
+    "obsidian-pillar-variant-c",
+    "chain-post-variant-c",
+    "bone-pile-variant-c",
+    "skull-stake-variant-c",
+    "lava-rock-variant-c",
+    "demon-statue-variant-c"
+   ]
+  },
+  "vat-the-2": {
+   "src": "vat-the-2.png",
+   "cols": 5,
+   "rows": 2,
+   "cell": [
+    102,
+    82
+   ],
+   "rects": [
+    [
+     26,
+     10,
+     50,
+     71
+    ],
+    [
+     128,
+     1,
+     49,
+     80
+    ],
+    [
+     219,
+     37,
+     72,
+     44
+    ],
+    [
+     307,
+     7,
+     100,
+     74
+    ],
+    [
+     431,
+     5,
+     56,
+     76
+    ],
+    [
+     15,
+     113,
+     72,
+     50
+    ],
+    [
+     118,
+     83,
+     70,
+     80
+    ],
+    [
+     219,
+     96,
+     72,
+     67
+    ],
+    [
+     307,
+     88,
+     100,
+     75
+    ],
+    [
+     424,
+     107,
+     69,
+     56
+    ]
+   ],
+   "names": [
+    "Brazier intact",
+    "Soul cage intact",
+    "Lava vent dormant",
+    "Altar dormant",
+    "Anchor pillar intact",
+    "Brazier broken",
+    "Soul cage broken",
+    "Lava vent active",
+    "Altar active",
+    "Anchor pillar broken"
+   ],
+   "ids": [
+    "brazier-intact",
+    "soul-cage-intact",
+    "lava-vent-dormant",
+    "altar-dormant",
+    "anchor-pillar-intact",
+    "brazier-broken",
+    "soul-cage-broken",
+    "lava-vent-active",
+    "altar-active",
+    "anchor-pillar-broken"
+   ],
+   "footprint": [
+    "1×1 tile",
+    "1×1 tile",
+    "2×2 tiles, flat",
+    "3×3 tiles, low and wide",
+    "1×1 tile, tall"
+   ]
+  },
+  "icon-ky-nang-2": {
+   "src": "icon-ky-nang-2.png",
+   "cols": 5,
+   "rows": 2,
+   "cell": [
+    32,
+    32
+   ],
+   "rects": [
+    [
+     1,
+     2,
+     30,
+     28
+    ],
+    [
+     33,
+     3,
+     30,
+     26
+    ],
+    [
+     65,
+     1,
+     30,
+     30
+    ],
+    [
+     97,
+     1,
+     29,
+     30
+    ],
+    [
+     129,
+     1,
+     30,
+     29
+    ],
+    [
+     2,
+     33,
+     28,
+     30
+    ],
+    [
+     34,
+     33,
+     27,
+     30
+    ],
+    [
+     65,
+     33,
+     30,
+     29
+    ],
+    [
+     97,
+     33,
+     30,
+     29
+    ],
+    [
+     129,
+     33,
+     29,
+     30
+    ]
+   ],
+   "names": [
+    "Tia Phá Ma",
+    "Mìn Lưu Hỏa",
+    "Âm Binh",
+    "Lôi Cầu",
+    "Băng Phong Hoàn",
+    "Bạo Kích",
+    "Huyết Ẩm",
+    "Hộ Mệnh Phù",
+    "Gai Phản",
+    "Vận May"
+   ],
+   "ids": [
+    "tia-pha-ma",
+    "min-luu-hoa",
+    "am-binh",
+    "loi-cau",
+    "bang-phong-hoan",
+    "bao-kich",
+    "huyet-am",
+    "ho-menh-phu",
+    "gai-phan",
+    "van-may"
+   ]
+  },
+  "icon-ky-nang-3": {
+   "src": "icon-ky-nang-3.png",
+   "cols": 4,
+   "rows": 5,
+   "cell": [
+    32,
+    32
+   ],
+   "rects": [
+    [
+     1,
+     1,
+     30,
+     30
+    ],
+    [
+     33,
+     1,
+     29,
+     30
+    ],
+    [
+     65,
+     1,
+     29,
+     30
+    ],
+    [
+     97,
+     2,
+     30,
+     28
+    ],
+    [
+     1,
+     33,
+     30,
+     30
+    ],
+    [
+     33,
+     33,
+     30,
+     29
+    ],
+    [
+     65,
+     34,
+     30,
+     27
+    ],
+    [
+     97,
+     33,
+     30,
+     29
+    ],
+    [
+     2,
+     65,
+     27,
+     30
+    ],
+    [
+     33,
+     66,
+     30,
+     27
+    ],
+    [
+     65,
+     65,
+     30,
+     29
+    ],
+    [
+     97,
+     67,
+     30,
+     25
+    ],
+    [
+     1,
+     98,
+     30,
+     28
+    ],
+    [
+     33,
+     100,
+     30,
+     24
+    ],
+    [
+     65,
+     97,
+     29,
+     30
+    ],
+    [
+     97,
+     97,
+     30,
+     30
+    ],
+    [
+     3,
+     129,
+     25,
+     30
+    ],
+    [
+     34,
+     129,
+     28,
+     30
+    ],
+    [
+     66,
+     129,
+     27,
+     30
+    ],
+    [
+     97,
+     131,
+     30,
+     25
+    ]
+   ],
+   "names": [
+    "Phong Thần Lốc",
+    "Kim Cương Chưởng",
+    "Thạch Thương Trận",
+    "Linh Hỏa Đom Đóm",
+    "Phượng Hoàng Hỏa",
+    "Thánh Thủy Bình",
+    "Thiên La Võng",
+    "Nguyệt Luân",
+    "Kính Chiếu Yêu",
+    "Hạc Giấy Thần",
+    "Thủy Long Ba",
+    "Liên Nỏ",
+    "Khiên Linh Quang",
+    "Ảo Ảnh Bộ",
+    "Đồ Long",
+    "Hàn Khí",
+    "Hỏa Ấn",
+    "Sát Ý",
+    "Cuồng Nộ",
+    "Phong Tiễn"
+   ],
+   "ids": [
+    "phong-than-loc",
+    "kim-cuong-chuong",
+    "thach-thuong-tran",
+    "linh-hoa-dom-dom",
+    "phuong-hoang-hoa",
+    "thanh-thuy-binh",
+    "thien-la-vong",
+    "nguyet-luan",
+    "kinh-chieu-yeu",
+    "hac-giay-than",
+    "thuy-long-ba",
+    "lien-no",
+    "khien-linh-quang",
+    "ao-anh-bo",
+    "do-long",
+    "han-khi",
+    "hoa-an",
+    "sat-y",
+    "cuong-no",
+    "phong-tien"
+   ]
+  }
+ },
+ "ground": {
+  "src": "ground.png",
+  "src16": "ground16.png",
+  "tile": 32,
+  "tile16": 16,
+  "cols": 8,
+  "rows": 3,
+  "names": [
+   "Basalt",
+   "Crimson rock",
+   "Obsidian",
+   "Ash",
+   "Bone field",
+   "Lava-veined crust",
+   "Scorched ground",
+   "Prison slabs",
+   "Flowing lava 1",
+   "Flowing lava 2",
+   "Flowing lava 3",
+   "Flowing lava 4",
+   "Flowing lava 5",
+   "Flowing lava 6",
+   "Flowing lava 7",
+   "Flowing lava 8",
+   "Lava shore, straight",
+   "Lava shore, outer corner",
+   "Lava shore, inner corner",
+   "Cliff face",
+   "Cliff top edge",
+   "Small lava pool",
+   "Altar floor",
+   "Bone bridge"
+  ],
+  "ids": [
+   "basalt",
+   "crimson-rock",
+   "obsidian",
+   "ash",
+   "bone-field",
+   "lava-veined-crust",
+   "scorched-ground",
+   "prison-slabs",
+   "flowing-lava-1",
+   "flowing-lava-2",
+   "flowing-lava-3",
+   "flowing-lava-4",
+   "flowing-lava-5",
+   "flowing-lava-6",
+   "flowing-lava-7",
+   "flowing-lava-8",
+   "lava-shore-straight",
+   "lava-shore-outer-corner",
+   "lava-shore-inner-corner",
+   "cliff-face",
+   "cliff-top-edge",
+   "small-lava-pool",
+   "altar-floor",
+   "bone-bridge"
+  ],
+  "lava": {
+   "first": 8,
+   "frames": 8
+  }
+ },
+ "gate": {
+  "src": "cong-dia-nguc.png",
+  "size": [
+   198,
+   314
+  ],
+  "anchor": [
+   99,
+   310
+  ],
+  "tiles": [
+   6,
+   10
+  ],
+  "facing": "W"
+ }
+}

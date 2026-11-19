@@ -1,0 +1,1 @@
+{"unit": 0.03097, "frames": 12, "modes": {"idle": {"file": "mareanie-idle.png", "cell": 160, "scale": 5.2513, "foot": 0.7535, "cycle": 2.0}, "walk": {"file": "mareanie-walk.png", "cell": 160, "scale": 4.9548, "foot": 0.7354, "cycle": 2.0}, "run": {"file": "mareanie-run.png", "cell": 160, "scale": 4.9548, "foot": 0.7354, "cycle": 1.111}}, "src": "fallback-v4"}

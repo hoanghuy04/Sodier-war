@@ -1,0 +1,1 @@
+{"unit": 0.03148, "frames": 12, "modes": {"idle": {"file": "flaaffy-idle.png", "cell": 160, "scale": 5.2068, "foot": 0.7799, "cycle": 2.0}, "walk": {"file": "flaaffy-walk.png", "cell": 160, "scale": 5.0361, "foot": 0.7628, "cycle": 2.0}, "run": {"file": "flaaffy-run.png", "cell": 160, "scale": 5.0361, "foot": 0.7628, "cycle": 1.111}}, "src": "fallback-v4"}

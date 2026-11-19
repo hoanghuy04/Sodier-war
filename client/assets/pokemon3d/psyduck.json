@@ -1,0 +1,1 @@
+{"unit": 0.04465, "frames": 12, "modes": {"idle": {"file": "psyduck-idle.png", "cell": 160, "scale": 7.4927, "foot": 0.8091, "cycle": 1.333}, "walk": {"file": "psyduck-walk.png", "cell": 160, "scale": 7.1442, "foot": 0.817, "cycle": 1.0}, "run": {"file": "psyduck-run.png", "cell": 160, "scale": 7.1442, "foot": 0.817, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03959, "frames": 12, "modes": {"idle": {"file": "squawkabilly-idle.png", "cell": 160, "scale": 6.334, "foot": 0.8454, "cycle": 2.0}, "walk": {"file": "squawkabilly-walk.png", "cell": 160, "scale": 6.334, "foot": 0.8454, "cycle": 1.0}, "run": {"file": "squawkabilly-run.png", "cell": 160, "scale": 6.334, "foot": 0.8454, "cycle": 0.556}}, "src": "fallback-v4"}

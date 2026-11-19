@@ -1,0 +1,1 @@
+{"unit": 0.01043, "frames": 12, "modes": {"idle": {"file": "falinks-idle.png", "cell": 160, "scale": 1.7162, "foot": 0.434, "cycle": 2.0}, "walk": {"file": "falinks-walk.png", "cell": 160, "scale": 1.6972, "foot": 0.4374, "cycle": 1.0}, "run": {"file": "falinks-run.png", "cell": 160, "scale": 1.6696, "foot": 0.4254, "cycle": 0.5}}, "src": "fallback-v4"}

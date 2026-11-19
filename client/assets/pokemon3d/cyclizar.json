@@ -1,0 +1,1 @@
+{"unit": 0.01239, "frames": 12, "modes": {"idle": {"file": "cyclizar-idle.png", "cell": 160, "scale": 2.0211, "foot": 0.4918, "cycle": 8.0}, "walk": {"file": "cyclizar-walk.png", "cell": 160, "scale": 1.9819, "foot": 0.4858, "cycle": 1.0}, "run": {"file": "cyclizar-run.png", "cell": 160, "scale": 2.8183, "foot": 0.6207, "cycle": 0.417}}, "src": "fallback-v4"}

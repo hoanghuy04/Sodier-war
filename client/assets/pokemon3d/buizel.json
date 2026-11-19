@@ -1,0 +1,1 @@
+{"unit": 0.02783, "frames": 12, "modes": {"idle": {"file": "buizel-idle.png", "cell": 160, "scale": 4.4522, "foot": 0.7254, "cycle": 4.0}, "walk": {"file": "buizel-walk.png", "cell": 160, "scale": 4.9152, "foot": 0.8218, "cycle": 1.0}, "run": {"file": "buizel-run.png", "cell": 160, "scale": 4.9152, "foot": 0.8218, "cycle": 0.556}}, "src": "fallback-v4"}

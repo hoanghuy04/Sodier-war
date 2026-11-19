@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "sandygast-idle.png", "cell": 160, "scale": 4.6545, "foot": 0.7284, "cycle": 2.0}, "walk": {"file": "sandygast-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.7321, "cycle": 2.0}, "run": {"file": "sandygast-run.png", "cell": 160, "scale": 4.5851, "foot": 0.7321, "cycle": 1.111}}, "src": "fallback-v4"}

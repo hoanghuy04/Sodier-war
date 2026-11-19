@@ -1,0 +1,1 @@
+{"unit": 0.0167, "frames": 12, "modes": {"idle": {"file": "cloyster-idle.png", "cell": 160, "scale": 2.7066, "foot": 0.7914, "cycle": 3.0}, "walk": {"file": "cloyster-walk.png", "cell": 160, "scale": 2.683, "foot": 0.7972, "cycle": 1.5}, "run": {"file": "cloyster-run.png", "cell": 160, "scale": 2.683, "foot": 0.7972, "cycle": 0.833}}, "src": "fallback-v4"}

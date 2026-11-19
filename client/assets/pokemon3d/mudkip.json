@@ -1,0 +1,1 @@
+{"unit": 0.03765, "frames": 12, "modes": {"idle": {"file": "mudkip-idle.png", "cell": 160, "scale": 6.0235, "foot": 0.7767, "cycle": 2.0}, "walk": {"file": "mudkip-walk.png", "cell": 160, "scale": 6.0235, "foot": 0.7767, "cycle": 1.0}, "run": {"file": "mudkip-run.png", "cell": 160, "scale": 6.0235, "foot": 0.7767, "cycle": 0.556}}, "src": "fallback-v4"}

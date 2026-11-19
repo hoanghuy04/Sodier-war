@@ -1,0 +1,1 @@
+{"unit": 0.02087, "frames": 12, "modes": {"idle": {"file": "lumineon-idle.png", "cell": 160, "scale": 3.3391, "foot": 0.6117, "cycle": 1.0}, "walk": {"file": "lumineon-walk.png", "cell": 160, "scale": 3.3391, "foot": 0.6586, "cycle": 0.542}, "run": {"file": "lumineon-run.png", "cell": 160, "scale": 3.3391, "foot": 0.6586, "cycle": 0.301}}, "src": "fallback-v4"}

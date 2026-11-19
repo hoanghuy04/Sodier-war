@@ -1,0 +1,1 @@
+{"unit": 0.02145, "frames": 12, "modes": {"idle": {"file": "bayleef-idle.png", "cell": 160, "scale": 3.6355, "foot": 0.8573, "cycle": 2.0}, "walk": {"file": "bayleef-walk.png", "cell": 160, "scale": 3.4324, "foot": 0.8534, "cycle": 1.583}, "run": {"file": "bayleef-run.png", "cell": 160, "scale": 3.4324, "foot": 0.8534, "cycle": 0.88}}, "src": "fallback-v4"}

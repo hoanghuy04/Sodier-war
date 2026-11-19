@@ -1,0 +1,1 @@
+{"unit": 0.03148, "frames": 12, "modes": {"idle": {"file": "vulpix-idle.png", "cell": 160, "scale": 5.0361, "foot": 0.7077, "cycle": 2.0}, "walk": {"file": "vulpix-walk.png", "cell": 160, "scale": 5.0361, "foot": 0.7077, "cycle": 1.0}, "run": {"file": "vulpix-run.png", "cell": 160, "scale": 5.0361, "foot": 0.7077, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "mareep-idle.png", "cell": 160, "scale": 5.2966, "foot": 0.7185, "cycle": 2.0}, "walk": {"file": "mareep-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 1.5}, "run": {"file": "mareep-run.png", "cell": 160, "scale": 4.5851, "foot": 0.553, "cycle": 0.5}}, "src": "fallback-v4"}

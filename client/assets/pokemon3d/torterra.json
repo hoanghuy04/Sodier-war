@@ -1,0 +1,1 @@
+{"unit": 0.01263, "frames": 12, "modes": {"idle": {"file": "torterra-idle.png", "cell": 160, "scale": 2.0211, "foot": 0.7381, "cycle": 4.0}, "walk": {"file": "torterra-walk.png", "cell": 160, "scale": 2.0211, "foot": 0.7381, "cycle": 2.0}, "run": {"file": "torterra-run.png", "cell": 160, "scale": 2.0211, "foot": 0.7381, "cycle": 1.111}}, "src": "fallback-v4"}

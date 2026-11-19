@@ -1,0 +1,1 @@
+{"unit": 0.03048, "frames": 12, "modes": {"idle": {"file": "perrserker-idle.png", "cell": 160, "scale": 4.9152, "foot": 0.8679, "cycle": 2.0}, "walk": {"file": "perrserker-walk.png", "cell": 160, "scale": 4.8762, "foot": 0.8611, "cycle": 1.0}, "run": {"file": "perrserker-run.png", "cell": 160, "scale": 4.8762, "foot": 0.8611, "cycle": 0.556}}, "src": "fallback-v4"}

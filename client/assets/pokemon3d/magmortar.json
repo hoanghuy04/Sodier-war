@@ -1,0 +1,1 @@
+{"unit": 0.01524, "frames": 12, "modes": {"idle": {"file": "magmortar-idle.png", "cell": 160, "scale": 2.2297, "foot": 0.6555, "cycle": 2.0}, "walk": {"file": "magmortar-walk.png", "cell": 160, "scale": 2.1943, "foot": 0.6797, "cycle": 1.0}, "run": {"file": "magmortar-run.png", "cell": 160, "scale": 2.1943, "foot": 0.6762, "cycle": 0.556}}, "src": "fallback-v4"}

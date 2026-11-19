@@ -1,0 +1,1 @@
+{"unit": 0.016, "frames": 12, "modes": {"idle": {"file": "chesnaught-idle.png", "cell": 160, "scale": 2.56, "foot": 0.7576, "cycle": 2.0}, "walk": {"file": "chesnaught-walk.png", "cell": 160, "scale": 2.56, "foot": 0.7576, "cycle": 1.0}, "run": {"file": "chesnaught-run.png", "cell": 160, "scale": 2.56, "foot": 0.7576, "cycle": 0.556}}, "src": "fallback-v4"}

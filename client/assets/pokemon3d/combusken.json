@@ -1,0 +1,1 @@
+{"unit": 0.02763, "frames": 12, "modes": {"idle": {"file": "combusken-idle.png", "cell": 160, "scale": 4.4847, "foot": 0.8497, "cycle": 2.0}, "walk": {"file": "combusken-walk.png", "cell": 160, "scale": 4.4201, "foot": 0.8377, "cycle": 1.0}, "run": {"file": "combusken-run.png", "cell": 160, "scale": 4.4201, "foot": 0.8377, "cycle": 0.556}}, "src": "fallback-v4"}

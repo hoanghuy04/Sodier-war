@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "wiglett-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.5463, "cycle": 2.0}, "walk": {"file": "wiglett-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.5463, "cycle": 2.0}, "run": {"file": "wiglett-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.5463, "cycle": 2.0}}, "src": "fallback-v4"}

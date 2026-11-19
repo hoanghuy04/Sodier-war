@@ -1,0 +1,1 @@
+{"unit": 0.03048, "frames": 12, "modes": {"idle": {"file": "treecko-idle.png", "cell": 160, "scale": 4.8762, "foot": 0.6859, "cycle": 2.0}, "walk": {"file": "treecko-walk.png", "cell": 160, "scale": 4.8762, "foot": 0.6859, "cycle": 1.0}, "run": {"file": "treecko-run.png", "cell": 160, "scale": 4.8762, "foot": 0.6859, "cycle": 0.556}}, "src": "fallback-v4"}

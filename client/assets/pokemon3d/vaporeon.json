@@ -1,0 +1,1 @@
+{"unit": 0.01178, "frames": 12, "modes": {"idle": {"file": "vaporeon-idle.png", "cell": 160, "scale": 1.8847, "foot": 0.4835, "cycle": 2.0}, "walk": {"file": "vaporeon-walk.png", "cell": 160, "scale": 1.8847, "foot": 0.4835, "cycle": 1.0}, "run": {"file": "vaporeon-run.png", "cell": 160, "scale": 1.8847, "foot": 0.4835, "cycle": 0.556}}, "src": "fallback-v4"}

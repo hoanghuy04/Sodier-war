@@ -1,0 +1,1 @@
+{"unit": 0.02743, "frames": 12, "modes": {"idle": {"file": "finneon-idle.png", "cell": 160, "scale": 4.3886, "foot": 0.4959, "cycle": 0.542}, "walk": {"file": "finneon-walk.png", "cell": 160, "scale": 4.4522, "foot": 0.5654, "cycle": 0.667}, "run": {"file": "finneon-run.png", "cell": 160, "scale": 4.4522, "foot": 0.5654, "cycle": 0.37}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02543, "frames": 12, "modes": {"idle": {"file": "bellibolt-idle.png", "cell": 160, "scale": 4.8378, "foot": 0.794, "cycle": 2.0}, "walk": {"file": "bellibolt-walk.png", "cell": 160, "scale": 4.4201, "foot": 0.7618, "cycle": 1.0}, "run": {"file": "bellibolt-run.png", "cell": 160, "scale": 4.0689, "foot": 0.7727, "cycle": 0.583}}, "src": "fallback-v4"}

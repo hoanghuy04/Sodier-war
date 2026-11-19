@@ -1,0 +1,1 @@
+{"unit": 0.03765, "frames": 12, "modes": {"idle": {"file": "pineco-idle.png", "cell": 160, "scale": 7.3143, "foot": 0.8017, "cycle": 2.0}, "walk": {"file": "pineco-walk.png", "cell": 160, "scale": 6.0235, "foot": 0.8238, "cycle": 2.0}, "run": {"file": "pineco-run.png", "cell": 160, "scale": 6.0235, "foot": 0.8238, "cycle": 1.111}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02685, "frames": 12, "modes": {"idle": {"file": "loudred-idle.png", "cell": 160, "scale": 4.3886, "foot": 0.8045, "cycle": 2.0}, "walk": {"file": "loudred-walk.png", "cell": 160, "scale": 4.2965, "foot": 0.788, "cycle": 1.0}, "run": {"file": "loudred-run.png", "cell": 160, "scale": 4.2965, "foot": 0.788, "cycle": 0.556}}, "src": "fallback-v4"}

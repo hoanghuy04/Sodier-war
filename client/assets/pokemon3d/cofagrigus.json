@@ -1,0 +1,1 @@
+{"unit": 0.00828, "frames": 12, "modes": {"idle": {"file": "cofagrigus-idle.png", "cell": 160, "scale": 1.4491, "foot": 0.6739, "cycle": 2.0}, "walk": {"file": "cofagrigus-walk.png", "cell": 160, "scale": 1.3241, "foot": 0.4727, "cycle": 2.0}, "run": {"file": "cofagrigus-run.png", "cell": 160, "scale": 1.4222, "foot": 0.6796, "cycle": 2.0}}, "src": "fallback-v4"}

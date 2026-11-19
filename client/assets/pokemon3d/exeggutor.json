@@ -1,0 +1,1 @@
+{"unit": 0.00914, "frames": 12, "modes": {"idle": {"file": "exeggutor-idle.png", "cell": 160, "scale": 1.5835, "foot": 0.8434, "cycle": 4.0}, "walk": {"file": "exeggutor-walk.png", "cell": 160, "scale": 1.4629, "foot": 0.8081, "cycle": 4.792}, "run": {"file": "exeggutor-run.png", "cell": 160, "scale": 1.4629, "foot": 0.8081, "cycle": 2.662}}, "src": "fallback-v4"}

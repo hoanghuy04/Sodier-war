@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "furfrou-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.8396, "cycle": 2.0}, "walk": {"file": "furfrou-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.8396, "cycle": 1.0}, "run": {"file": "furfrou-run.png", "cell": 160, "scale": 4.5851, "foot": 0.8396, "cycle": 0.556}}, "src": "fallback-v4"}

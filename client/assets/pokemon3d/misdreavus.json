@@ -1,0 +1,1 @@
+{"unit": 0.02909, "frames": 12, "modes": {"idle": {"file": "misdreavus-idle.png", "cell": 160, "scale": 4.6545, "foot": 0.7865, "cycle": 3.125}, "walk": {"file": "misdreavus-walk.png", "cell": 160, "scale": 4.6545, "foot": 0.772, "cycle": 3.333}, "run": {"file": "misdreavus-run.png", "cell": 160, "scale": 4.6545, "foot": 0.772, "cycle": 1.852}}, "src": "fallback-v4"}

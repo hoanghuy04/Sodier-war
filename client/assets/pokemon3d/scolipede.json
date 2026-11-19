@@ -1,0 +1,1 @@
+{"unit": 0.00671, "frames": 12, "modes": {"idle": {"file": "scolipede-idle.png", "cell": 160, "scale": 1.5515, "foot": 0.7735, "cycle": 2.0}, "walk": {"file": "scolipede-walk.png", "cell": 160, "scale": 1.3128, "foot": 0.6986, "cycle": 2.0}, "run": {"file": "scolipede-run.png", "cell": 160, "scale": 1.0741, "foot": 0.602, "cycle": 0.583}}, "src": "fallback-v4"}

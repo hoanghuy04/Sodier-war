@@ -1,0 +1,1 @@
+{"unit": 0.04174, "frames": 12, "modes": {"idle": {"file": "staryu-idle.png", "cell": 160, "scale": 7.3143, "foot": 0.7903, "cycle": 2.0}, "walk": {"file": "staryu-walk.png", "cell": 160, "scale": 6.6783, "foot": 0.7963, "cycle": 1.6}, "run": {"file": "staryu-run.png", "cell": 160, "scale": 6.8267, "foot": 0.6109, "cycle": 2.0}}, "src": "fallback-v4"}

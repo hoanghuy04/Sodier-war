@@ -1,0 +1,1 @@
+{"unit": 0.01297, "frames": 12, "modes": {"idle": {"file": "hatterene-idle.png", "cell": 160, "scale": 2.0757, "foot": 0.8853, "cycle": 2.0}, "walk": {"file": "hatterene-walk.png", "cell": 160, "scale": 2.0757, "foot": 0.8853, "cycle": 1.0}, "run": {"file": "hatterene-run.png", "cell": 160, "scale": 2.0757, "foot": 0.8853, "cycle": 0.556}}, "src": "fallback-v4"}

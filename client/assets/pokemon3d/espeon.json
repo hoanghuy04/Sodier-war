@@ -1,0 +1,1 @@
+{"unit": 0.02356, "frames": 12, "modes": {"idle": {"file": "espeon-idle.png", "cell": 160, "scale": 3.8161, "foot": 0.8631, "cycle": 2.0}, "walk": {"file": "espeon-walk.png", "cell": 160, "scale": 3.7693, "foot": 0.8528, "cycle": 1.0}, "run": {"file": "espeon-run.png", "cell": 160, "scale": 3.7693, "foot": 0.8528, "cycle": 0.556}}, "src": "fallback-v4"}

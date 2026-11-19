@@ -1,0 +1,1 @@
+{"unit": 0.03918, "frames": 12, "modes": {"idle": {"file": "skrelp-idle.png", "cell": 160, "scale": 5.6424, "foot": 0.7905, "cycle": 2.0}, "walk": {"file": "skrelp-walk.png", "cell": 160, "scale": 6.144, "foot": 0.859, "cycle": 1.0}, "run": {"file": "skrelp-run.png", "cell": 160, "scale": 6.2836, "foot": 0.8781, "cycle": 0.556}}, "src": "fallback-v4"}

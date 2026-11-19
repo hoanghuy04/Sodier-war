@@ -1,0 +1,1 @@
+{"unit": 0.02494, "frames": 12, "modes": {"idle": {"file": "trubbish-idle.png", "cell": 160, "scale": 3.9896, "foot": 0.5835, "cycle": 2.0}, "walk": {"file": "trubbish-walk.png", "cell": 160, "scale": 3.9896, "foot": 0.5835, "cycle": 1.0}, "run": {"file": "trubbish-run.png", "cell": 160, "scale": 3.9896, "foot": 0.5835, "cycle": 0.556}}, "src": "fallback-v4"}

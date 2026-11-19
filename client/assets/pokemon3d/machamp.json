@@ -1,0 +1,1 @@
+{"unit": 0.02272, "frames": 12, "modes": {"idle": {"file": "machamp-idle.png", "cell": 160, "scale": 3.8886, "foot": 0.867, "cycle": 1.0}, "walk": {"file": "machamp-walk.png", "cell": 160, "scale": 3.6355, "foot": 0.8289, "cycle": 1.0}, "run": {"file": "machamp-run.png", "cell": 160, "scale": 3.6355, "foot": 0.8289, "cycle": 0.556}}, "src": "fallback-v4"}

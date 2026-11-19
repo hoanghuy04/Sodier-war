@@ -1,0 +1,1 @@
+{"unit": 0.01524, "frames": 12, "modes": {"idle": {"file": "rampardos-idle.png", "cell": 160, "scale": 2.4774, "foot": 0.7222, "cycle": 4.0}, "walk": {"file": "rampardos-walk.png", "cell": 160, "scale": 2.4976, "foot": 0.7357, "cycle": 2.0}, "run": {"file": "rampardos-run.png", "cell": 160, "scale": 2.4381, "foot": 0.7225, "cycle": 1.0}}, "src": "fallback-v4"}

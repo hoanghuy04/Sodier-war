@@ -1,0 +1,1 @@
+{"unit": 0.01684, "frames": 12, "modes": {"idle": {"file": "toxicroak-idle.png", "cell": 160, "scale": 3.3211, "foot": 0.8264, "cycle": 2.0}, "walk": {"file": "toxicroak-walk.png", "cell": 160, "scale": 3.2681, "foot": 0.8084, "cycle": 1.0}, "run": {"file": "toxicroak-run.png", "cell": 160, "scale": 2.6947, "foot": 0.6196, "cycle": 0.5}}, "src": "fallback-v4"}

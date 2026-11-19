@@ -1,0 +1,1 @@
+{"unit": 0.02313, "frames": 12, "modes": {"idle": {"file": "grotle-idle.png", "cell": 160, "scale": 3.7012, "foot": 0.6585, "cycle": 4.0}, "walk": {"file": "grotle-walk.png", "cell": 160, "scale": 3.7926, "foot": 0.6742, "cycle": 1.333}, "run": {"file": "grotle-run.png", "cell": 160, "scale": 3.7926, "foot": 0.6742, "cycle": 0.741}}, "src": "fallback-v4"}

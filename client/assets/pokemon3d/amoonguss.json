@@ -1,0 +1,1 @@
+{"unit": 0.03227, "frames": 12, "modes": {"idle": {"file": "amoonguss-idle.png", "cell": 160, "scale": 5.163, "foot": 0.7896, "cycle": 2.0}, "walk": {"file": "amoonguss-walk.png", "cell": 160, "scale": 5.163, "foot": 0.7896, "cycle": 2.0}, "run": {"file": "amoonguss-walk.png", "cell": 160, "scale": 5.163, "foot": 0.7896, "cycle": 2.0}}, "src": "fallback-v4"}

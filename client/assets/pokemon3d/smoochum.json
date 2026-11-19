@@ -1,0 +1,1 @@
+{"unit": 0.05053, "frames": 12, "modes": {"idle": {"file": "smoochum-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.8461, "cycle": 2.0}, "walk": {"file": "smoochum-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.8461, "cycle": 2.0}, "run": {"file": "smoochum-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.8461, "cycle": 2.0}}, "src": "fallback-v4"}

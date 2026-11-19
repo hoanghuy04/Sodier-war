@@ -1,0 +1,1 @@
+{"unit": 0.04414, "frames": 12, "modes": {"idle": {"file": "capsakid-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.8714, "cycle": 2.0}, "walk": {"file": "capsakid-walk.png", "cell": 160, "scale": 7.4927, "foot": 0.8325, "cycle": 1.0}, "run": {"file": "capsakid-run.png", "cell": 160, "scale": 7.2282, "foot": 0.8603, "cycle": 0.75}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02122, "frames": 12, "modes": {"idle": {"file": "quaxwell-idle.png", "cell": 160, "scale": 3.7693, "foot": 0.8705, "cycle": 2.0}, "walk": {"file": "quaxwell-walk.png", "cell": 160, "scale": 3.3945, "foot": 0.8124, "cycle": 1.167}, "run": {"file": "quaxwell-run.png", "cell": 160, "scale": 3.5514, "foot": 0.849, "cycle": 0.5}}, "src": "fallback-v4"}

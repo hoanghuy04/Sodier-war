@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "skorupi-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 2.0}, "walk": {"file": "skorupi-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 1.0}, "run": {"file": "skorupi-run.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 0.556}}, "src": "fallback-v4"}

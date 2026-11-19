@@ -1,0 +1,1 @@
+{"unit": 0.05818, "frames": 12, "modes": {"idle": {"file": "fletchling-idle.png", "cell": 160, "scale": 9.3091, "foot": 0.7531, "cycle": 2.0}, "walk": {"file": "fletchling-walk.png", "cell": 160, "scale": 9.3091, "foot": 0.7531, "cycle": 1.0}, "run": {"file": "fletchling-run.png", "cell": 160, "scale": 9.3091, "foot": 0.7531, "cycle": 0.556}}, "src": "fallback-v4"}

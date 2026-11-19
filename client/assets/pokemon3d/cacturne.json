@@ -1,0 +1,1 @@
+{"unit": 0.02977, "frames": 12, "modes": {"idle": {"file": "cacturne-idle.png", "cell": 160, "scale": 5.12, "foot": 0.8552, "cycle": 4.0}, "walk": {"file": "cacturne-walk.png", "cell": 160, "scale": 4.7628, "foot": 0.8565, "cycle": 2.0}, "run": {"file": "cacturne-run.png", "cell": 160, "scale": 4.7628, "foot": 0.8565, "cycle": 1.111}}, "src": "fallback-v4"}

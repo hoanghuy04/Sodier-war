@@ -1,0 +1,1 @@
+{"unit": 0.01157, "frames": 12, "modes": {"idle": {"file": "regidrago-idle.png", "cell": 160, "scale": 1.9819, "foot": 0.8029, "cycle": 2.0}, "walk": {"file": "regidrago-walk.png", "cell": 160, "scale": 1.8506, "foot": 0.7452, "cycle": 2.0}, "run": {"file": "regidrago-run.png", "cell": 160, "scale": 1.8506, "foot": 0.7452, "cycle": 1.111}}, "src": "fallback-v4"}

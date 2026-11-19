@@ -1,0 +1,1 @@
+{"unit": 0.01714, "frames": 12, "modes": {"idle": {"file": "garganacl-idle.png", "cell": 160, "scale": 2.7927, "foot": 0.8247, "cycle": 5.33}, "walk": {"file": "garganacl-walk.png", "cell": 160, "scale": 2.7676, "foot": 0.8088, "cycle": 2.292}, "run": {"file": "garganacl-run.png", "cell": 160, "scale": 2.7676, "foot": 0.8088, "cycle": 1.273}}, "src": "fallback-v4"}

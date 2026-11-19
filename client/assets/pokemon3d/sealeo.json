@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "sealeo-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.5974, "cycle": 2.0}, "walk": {"file": "sealeo-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.5974, "cycle": 2.0}, "run": {"file": "sealeo-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.5974, "cycle": 2.0}}, "src": "fallback-v4"}

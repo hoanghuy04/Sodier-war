@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "spinarak-idle.png", "cell": 160, "scale": 6.144, "foot": 0.3982, "cycle": 1.333}, "walk": {"file": "spinarak-walk.png", "cell": 160, "scale": 5.6889, "foot": 0.3791, "cycle": 1.0}, "run": {"file": "spinarak-run.png", "cell": 160, "scale": 5.4857, "foot": 0.3834, "cycle": 0.5}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02887, "frames": 12, "modes": {"idle": {"file": "eiscue-idle.png", "cell": 160, "scale": 4.9152, "foot": 0.8832, "cycle": 2.0}, "walk": {"file": "eiscue-walk.png", "cell": 160, "scale": 4.6195, "foot": 0.8891, "cycle": 1.958}, "run": {"file": "eiscue-run.png", "cell": 160, "scale": 4.6195, "foot": 0.8891, "cycle": 1.088}}, "src": "fallback-v4"}

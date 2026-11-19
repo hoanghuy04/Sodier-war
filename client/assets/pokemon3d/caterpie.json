@@ -1,0 +1,1 @@
+{"unit": 0.024, "frames": 12, "modes": {"idle": {"file": "caterpie-idle.png", "cell": 160, "scale": 3.9385, "foot": 0.4348, "cycle": 1.0}, "walk": {"file": "caterpie-walk.png", "cell": 160, "scale": 3.84, "foot": 0.4304, "cycle": 1.0}, "run": {"file": "caterpie-run.png", "cell": 160, "scale": 3.84, "foot": 0.4304, "cycle": 0.556}}, "src": "fallback-v4"}

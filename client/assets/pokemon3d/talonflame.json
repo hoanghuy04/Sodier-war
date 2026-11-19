@@ -1,0 +1,1 @@
+{"unit": 0.0237, "frames": 12, "modes": {"idle": {"file": "talonflame-idle.png", "cell": 160, "scale": 3.7926, "foot": 0.6564, "cycle": 2.0}, "walk": {"file": "talonflame-walk.png", "cell": 160, "scale": 3.7926, "foot": 0.6564, "cycle": 1.0}, "run": {"file": "talonflame-run.png", "cell": 160, "scale": 3.7926, "foot": 0.6564, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03692, "frames": 12, "modes": {"idle": {"file": "petilil-idle.png", "cell": 160, "scale": 6.4, "foot": 0.914, "cycle": 4.0}, "walk": {"file": "petilil-walk.png", "cell": 160, "scale": 6.0235, "foot": 0.8896, "cycle": 1.333}, "run": {"file": "petilil-run.png", "cell": 160, "scale": 5.965, "foot": 0.8998, "cycle": 2.0}}, "src": "fallback-v4"}

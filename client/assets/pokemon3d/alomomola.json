@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "alomomola-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.3743, "cycle": 1.333}, "walk": {"file": "alomomola-walk.png", "cell": 160, "scale": 4.3268, "foot": 0.5974, "cycle": 0.75}, "run": {"file": "alomomola-run.png", "cell": 160, "scale": 4.3268, "foot": 0.5974, "cycle": 0.417}}, "src": "fallback-v4"}

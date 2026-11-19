@@ -1,0 +1,1 @@
+{"unit": 0.01506, "frames": 12, "modes": {"idle": {"file": "cinderace-idle.png", "cell": 160, "scale": 2.4285, "foot": 0.8791, "cycle": 2.0}, "walk": {"file": "cinderace-walk.png", "cell": 160, "scale": 2.4189, "foot": 0.8832, "cycle": 1.0}, "run": {"file": "cinderace-run.png", "cell": 160, "scale": 2.4189, "foot": 0.8832, "cycle": 0.556}}, "src": "fallback-v4"}

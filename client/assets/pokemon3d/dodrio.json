@@ -1,0 +1,1 @@
+{"unit": 0.02341, "frames": 12, "modes": {"idle": {"file": "dodrio-idle.png", "cell": 160, "scale": 3.9896, "foot": 0.783, "cycle": 1.333}, "walk": {"file": "dodrio-walk.png", "cell": 160, "scale": 3.7463, "foot": 0.7072, "cycle": 1.333}, "run": {"file": "dodrio-run.png", "cell": 160, "scale": 3.7463, "foot": 0.7072, "cycle": 0.741}}, "src": "fallback-v4"}

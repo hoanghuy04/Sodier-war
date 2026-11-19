@@ -1,0 +1,1 @@
+{"unit": 0.00636, "frames": 12, "modes": {"idle": {"file": "wailord-idle.png", "cell": 160, "scale": 1.0593, "foot": 0.6106, "cycle": 8.0}, "walk": {"file": "wailord-walk.png", "cell": 160, "scale": 1.0172, "foot": 0.5903, "cycle": 8.0}, "run": {"file": "wailord-run.png", "cell": 160, "scale": 1.0172, "foot": 0.5903, "cycle": 4.444}}, "src": "fallback-v4"}

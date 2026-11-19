@@ -1,0 +1,1 @@
+{"unit": 0.00711, "frames": 12, "modes": {"idle": {"file": "dewgong-idle.png", "cell": 160, "scale": 1.1378, "foot": 0.2952, "cycle": 2.0}, "walk": {"file": "dewgong-walk.png", "cell": 160, "scale": 1.1549, "foot": 0.4365, "cycle": 1.0}, "run": {"file": "dewgong-run.png", "cell": 160, "scale": 1.1549, "foot": 0.4365, "cycle": 0.556}}, "src": "fallback-v4"}

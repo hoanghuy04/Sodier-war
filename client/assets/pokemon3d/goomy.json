@@ -1,0 +1,1 @@
+{"unit": 0.03879, "frames": 12, "modes": {"idle": {"file": "goomy-idle.png", "cell": 160, "scale": 6.2061, "foot": 0.7221, "cycle": 2.0}, "walk": {"file": "goomy-idle.png", "cell": 160, "scale": 6.2061, "foot": 0.7221, "cycle": 2.0}, "run": {"file": "goomy-idle.png", "cell": 160, "scale": 6.2061, "foot": 0.7221, "cycle": 2.0}}, "src": "fallback-v4"}

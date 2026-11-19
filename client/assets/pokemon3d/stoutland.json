@@ -1,0 +1,1 @@
+{"unit": 0.01587, "frames": 12, "modes": {"idle": {"file": "stoutland-idle.png", "cell": 160, "scale": 2.5388, "foot": 0.6444, "cycle": 2.0}, "walk": {"file": "stoutland-walk.png", "cell": 160, "scale": 2.5388, "foot": 0.6444, "cycle": 1.0}, "run": {"file": "stoutland-run.png", "cell": 160, "scale": 2.5388, "foot": 0.6444, "cycle": 0.556}}, "src": "fallback-v4"}

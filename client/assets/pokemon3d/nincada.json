@@ -1,0 +1,1 @@
+{"unit": 0.02783, "frames": 12, "modes": {"idle": {"file": "nincada-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.4599, "cycle": 2.0}, "walk": {"file": "nincada-walk.png", "cell": 160, "scale": 4.4522, "foot": 0.4471, "cycle": 1.0}, "run": {"file": "nincada-run.png", "cell": 160, "scale": 4.4522, "foot": 0.4471, "cycle": 0.5}}, "src": "fallback-v4"}

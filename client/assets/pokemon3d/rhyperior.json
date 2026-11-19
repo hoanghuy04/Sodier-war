@@ -1,0 +1,1 @@
+{"unit": 0.0096, "frames": 12, "modes": {"idle": {"file": "rhyperior-idle.png", "cell": 160, "scale": 1.536, "foot": 0.5499, "cycle": 8.0}, "walk": {"file": "rhyperior-walk.png", "cell": 160, "scale": 1.6, "foot": 0.582, "cycle": 5.333}, "run": {"file": "rhyperior-run.png", "cell": 160, "scale": 1.634, "foot": 0.6093, "cycle": 4.0}}, "src": "fallback-v4"}

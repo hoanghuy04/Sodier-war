@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "slugma-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.692, "cycle": 4.0}, "walk": {"file": "slugma-walk.png", "cell": 160, "scale": 5.5855, "foot": 0.6955, "cycle": 2.0}, "run": {"file": "slugma-run.png", "cell": 160, "scale": 5.5855, "foot": 0.6955, "cycle": 1.111}}, "src": "fallback-v4"}

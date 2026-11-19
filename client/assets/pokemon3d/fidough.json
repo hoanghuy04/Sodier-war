@@ -1,0 +1,1 @@
+{"unit": 0.02824, "frames": 12, "modes": {"idle": {"file": "fidough-idle.png", "cell": 160, "scale": 4.5176, "foot": 0.7287, "cycle": 2.0}, "walk": {"file": "fidough-walk.png", "cell": 160, "scale": 4.5176, "foot": 0.7358, "cycle": 1.0}, "run": {"file": "fidough-run.png", "cell": 160, "scale": 4.5176, "foot": 0.7358, "cycle": 0.556}}, "src": "fallback-v4"}

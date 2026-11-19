@@ -1,0 +1,1 @@
+{"unit": 0.02954, "frames": 12, "modes": {"idle": {"file": "eevee-idle.png", "cell": 160, "scale": 4.7262, "foot": 0.7245, "cycle": 2.0}, "walk": {"file": "eevee-walk.png", "cell": 160, "scale": 4.7262, "foot": 0.7245, "cycle": 1.0}, "run": {"file": "eevee-run.png", "cell": 160, "scale": 4.7262, "foot": 0.7245, "cycle": 0.556}}, "src": "fallback-v4"}

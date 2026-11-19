@@ -1,0 +1,1 @@
+{"unit": 0.02157, "frames": 12, "modes": {"idle": {"file": "azumarill-idle.png", "cell": 160, "scale": 3.4517, "foot": 0.6478, "cycle": 2.0}, "walk": {"file": "azumarill-walk.png", "cell": 160, "scale": 3.4517, "foot": 0.6478, "cycle": 1.0}, "run": {"file": "azumarill-run.png", "cell": 160, "scale": 3.4517, "foot": 0.6478, "cycle": 0.556}}, "src": "fallback-v4"}

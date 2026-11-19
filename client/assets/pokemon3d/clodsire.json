@@ -1,0 +1,1 @@
+{"unit": 0.01939, "frames": 12, "modes": {"idle": {"file": "clodsire-idle.png", "cell": 160, "scale": 3.103, "foot": 0.5213, "cycle": 2.0}, "walk": {"file": "clodsire-walk.png", "cell": 160, "scale": 3.103, "foot": 0.5213, "cycle": 1.0}, "run": {"file": "clodsire-run.png", "cell": 160, "scale": 3.103, "foot": 0.5213, "cycle": 0.556}}, "src": "fallback-v4"}

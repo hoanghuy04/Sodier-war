@@ -1,0 +1,1 @@
+{"unit": 0.02157, "frames": 12, "modes": {"idle": {"file": "whirlipede-idle.png", "cell": 160, "scale": 3.4517, "foot": 0.6046, "cycle": 2.0}, "walk": {"file": "whirlipede-walk.png", "cell": 160, "scale": 3.7926, "foot": 0.8046, "cycle": 1.6}, "run": {"file": "whirlipede-run.png", "cell": 160, "scale": 4.2965, "foot": 0.8149, "cycle": 1.0}}, "src": "fallback-v4"}

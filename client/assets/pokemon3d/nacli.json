@@ -1,0 +1,1 @@
+{"unit": 0.08, "frames": 12, "modes": {"idle": {"file": "nacli-idle.png", "cell": 160, "scale": 12.0209, "foot": 0.7225, "cycle": 2.0}, "walk": {"file": "nacli-walk.png", "cell": 160, "scale": 11.52, "foot": 0.6932, "cycle": 1.0}, "run": {"file": "nacli-run.png", "cell": 160, "scale": 11.52, "foot": 0.6932, "cycle": 0.556}}, "src": "fallback-v4"}

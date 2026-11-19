@@ -1,0 +1,1 @@
+{"unit": 0.0251, "frames": 12, "modes": {"idle": {"file": "kabutops-idle.png", "cell": 160, "scale": 4.1514, "foot": 0.8658, "cycle": 4.0}, "walk": {"file": "kabutops-walk.png", "cell": 160, "scale": 4.0689, "foot": 0.8363, "cycle": 1.333}, "run": {"file": "kabutops-run.png", "cell": 160, "scale": 4.0689, "foot": 0.8363, "cycle": 0.741}}, "src": "fallback-v4"}

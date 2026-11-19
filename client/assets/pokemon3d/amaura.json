@@ -1,0 +1,1 @@
+{"unit": 0.0192, "frames": 12, "modes": {"idle": {"file": "amaura-idle.png", "cell": 160, "scale": 3.3758, "foot": 0.8872, "cycle": 4.0}, "walk": {"file": "amaura-walk.png", "cell": 160, "scale": 3.3211, "foot": 0.8783, "cycle": 1.333}, "run": {"file": "amaura-run.png", "cell": 160, "scale": 3.072, "foot": 0.8523, "cycle": 1.333}}, "src": "fallback-v4"}

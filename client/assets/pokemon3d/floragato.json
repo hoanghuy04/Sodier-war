@@ -1,0 +1,1 @@
+{"unit": 0.0251, "frames": 12, "modes": {"idle": {"file": "floragato-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.8813, "cycle": 4.0}, "walk": {"file": "floragato-walk.png", "cell": 160, "scale": 4.1796, "foot": 0.8585, "cycle": 1.0}, "run": {"file": "floragato-run.png", "cell": 160, "scale": 4.0157, "foot": 0.8507, "cycle": 0.5}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02259, "frames": 12, "modes": {"idle": {"file": "charmeleon-idle.png", "cell": 160, "scale": 3.6141, "foot": 0.6547, "cycle": 4.0}, "walk": {"file": "charmeleon-walk.png", "cell": 160, "scale": 3.6571, "foot": 0.6623, "cycle": 1.5}, "run": {"file": "charmeleon-run.png", "cell": 160, "scale": 3.6571, "foot": 0.6623, "cycle": 0.833}}, "src": "fallback-v4"}

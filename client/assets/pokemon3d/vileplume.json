@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "vileplume-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.6318, "cycle": 2.0}, "walk": {"file": "vileplume-walk.png", "cell": 160, "scale": 4.7262, "foot": 0.658, "cycle": 2.0}, "run": {"file": "vileplume-run.png", "cell": 160, "scale": 4.5851, "foot": 0.6533, "cycle": 1.0}}, "src": "fallback-v4"}

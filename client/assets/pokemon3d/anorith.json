@@ -1,0 +1,1 @@
+{"unit": 0.04267, "frames": 12, "modes": {"idle": {"file": "anorith-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.4152, "cycle": 2.0}, "walk": {"file": "anorith-walk.png", "cell": 160, "scale": 6.8267, "foot": 0.4083, "cycle": 1.583}, "run": {"file": "anorith-run.png", "cell": 160, "scale": 6.8267, "foot": 0.4083, "cycle": 0.88}}, "src": "fallback-v4"}

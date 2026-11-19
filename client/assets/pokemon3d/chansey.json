@@ -1,0 +1,1 @@
+{"unit": 0.02341, "frames": 12, "modes": {"idle": {"file": "chansey-idle.png", "cell": 160, "scale": 3.8886, "foot": 0.6057, "cycle": 2.0}, "walk": {"file": "chansey-walk.png", "cell": 160, "scale": 3.9385, "foot": 0.6071, "cycle": 1.333}, "run": {"file": "chansey-run.png", "cell": 160, "scale": 3.7463, "foot": 0.5784, "cycle": 1.0}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01466, "frames": 12, "modes": {"idle": {"file": "nidoking-idle.png", "cell": 160, "scale": 2.345, "foot": 0.5967, "cycle": 2.0}, "walk": {"file": "nidoking-walk.png", "cell": 160, "scale": 2.345, "foot": 0.5967, "cycle": 1.0}, "run": {"file": "nidoking-run.png", "cell": 160, "scale": 2.345, "foot": 0.5967, "cycle": 0.556}}, "src": "fallback-v4"}

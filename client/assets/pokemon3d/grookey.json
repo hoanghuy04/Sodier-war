@@ -1,0 +1,1 @@
+{"unit": 0.03802, "frames": 12, "modes": {"idle": {"file": "grookey-idle.png", "cell": 160, "scale": 6.144, "foot": 0.8206, "cycle": 2.0}, "walk": {"file": "grookey-walk.png", "cell": 160, "scale": 6.0832, "foot": 0.8317, "cycle": 2.66}, "run": {"file": "grookey-run.png", "cell": 160, "scale": 6.0832, "foot": 0.8317, "cycle": 1.478}}, "src": "fallback-v4"}

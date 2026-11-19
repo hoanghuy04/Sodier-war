@@ -1,0 +1,1 @@
+{"unit": 0.03368, "frames": 12, "modes": {"idle": {"file": "stunfisk-idle.png", "cell": 160, "scale": 5.3895, "foot": 0.5034, "cycle": 2.0}, "walk": {"file": "stunfisk-walk.png", "cell": 160, "scale": 5.3895, "foot": 0.5034, "cycle": 2.0}, "run": {"file": "stunfisk-walk.png", "cell": 160, "scale": 5.3895, "foot": 0.5034, "cycle": 2.0}}, "src": "fallback-v4"}

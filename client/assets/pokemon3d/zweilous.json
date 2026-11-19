@@ -1,0 +1,1 @@
+{"unit": 0.01761, "frames": 12, "modes": {"idle": {"file": "zweilous-idle.png", "cell": 160, "scale": 2.8183, "foot": 0.6603, "cycle": 4.0}, "walk": {"file": "zweilous-walk.png", "cell": 160, "scale": 2.8183, "foot": 0.6559, "cycle": 1.0}, "run": {"file": "zweilous-run.png", "cell": 160, "scale": 2.871, "foot": 0.6678, "cycle": 0.556}}, "src": "fallback-v4"}

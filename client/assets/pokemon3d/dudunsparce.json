@@ -1,0 +1,1 @@
+{"unit": 0.01085, "frames": 12, "modes": {"idle": {"file": "dudunsparce-idle.png", "cell": 160, "scale": 1.8963, "foot": 0.4804, "cycle": 4.0}, "walk": {"file": "dudunsparce-walk.png", "cell": 160, "scale": 1.7455, "foot": 0.4111, "cycle": 4.0}, "run": {"file": "dudunsparce-run.png", "cell": 160, "scale": 1.7356, "foot": 0.3899, "cycle": 2.0}}, "src": "fallback-v4"}

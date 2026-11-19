@@ -1,0 +1,1 @@
+{"unit": 0.02286, "frames": 12, "modes": {"idle": {"file": "leafeon-idle.png", "cell": 160, "scale": 3.679, "foot": 0.8731, "cycle": 2.0}, "walk": {"file": "leafeon-walk.png", "cell": 160, "scale": 3.6571, "foot": 0.868, "cycle": 1.0}, "run": {"file": "leafeon-run.png", "cell": 160, "scale": 3.6571, "foot": 0.868, "cycle": 0.556}}, "src": "fallback-v4"}

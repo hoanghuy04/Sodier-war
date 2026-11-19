@@ -1,0 +1,1 @@
+{"unit": 0.04923, "frames": 12, "modes": {"idle": {"file": "cubone-idle.png", "cell": 160, "scale": 7.8769, "foot": 0.7634, "cycle": 2.0}, "walk": {"file": "cubone-walk.png", "cell": 160, "scale": 7.8769, "foot": 0.7634, "cycle": 1.0}, "run": {"file": "cubone-run.png", "cell": 160, "scale": 7.8769, "foot": 0.7634, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01362, "frames": 12, "modes": {"idle": {"file": "lopunny-idle.png", "cell": 160, "scale": 2.6483, "foot": 0.7872, "cycle": 4.0}, "walk": {"file": "lopunny-walk.png", "cell": 160, "scale": 2.5815, "foot": 0.7678, "cycle": 1.75}, "run": {"file": "lopunny-run.png", "cell": 160, "scale": 2.1787, "foot": 0.7635, "cycle": 1.5}}, "src": "fallback-v4"}

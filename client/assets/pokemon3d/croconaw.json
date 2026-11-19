@@ -1,0 +1,1 @@
+{"unit": 0.02207, "frames": 12, "modes": {"idle": {"file": "croconaw-idle.png", "cell": 160, "scale": 3.3717, "foot": 0.7228, "cycle": 4.0}, "walk": {"file": "croconaw-walk.png", "cell": 160, "scale": 3.4133, "foot": 0.7475, "cycle": 4.0}, "run": {"file": "croconaw-run.png", "cell": 160, "scale": 3.2149, "foot": 0.7403, "cycle": 4.0}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.04518, "frames": 12, "modes": {"idle": {"file": "darumaka-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.8082, "cycle": 2.667}, "walk": {"file": "darumaka-walk.png", "cell": 160, "scale": 8.0842, "foot": 0.8208, "cycle": 1.0}, "run": {"file": "darumaka-run.png", "cell": 160, "scale": 7.2282, "foot": 0.8377, "cycle": 0.75}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "durant-idle.png", "cell": 160, "scale": 5.6367, "foot": 0.7721, "cycle": 2.0}, "walk": {"file": "durant-walk.png", "cell": 160, "scale": 5.4857, "foot": 0.7006, "cycle": 0.5}, "run": {"file": "durant-run.png", "cell": 160, "scale": 5.4857, "foot": 0.7006, "cycle": 0.278}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01979, "frames": 12, "modes": {"idle": {"file": "mienshao-idle.png", "cell": 160, "scale": 3.167, "foot": 0.596, "cycle": 2.0}, "walk": {"file": "mienshao-walk.png", "cell": 160, "scale": 3.167, "foot": 0.596, "cycle": 1.0}, "run": {"file": "mienshao-run.png", "cell": 160, "scale": 3.167, "foot": 0.596, "cycle": 0.556}}, "src": "fallback-v4"}

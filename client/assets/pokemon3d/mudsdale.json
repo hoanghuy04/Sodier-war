@@ -1,0 +1,1 @@
+{"unit": 0.01518, "frames": 12, "modes": {"idle": {"file": "mudsdale-idle.png", "cell": 160, "scale": 2.56, "foot": 0.8336, "cycle": 4.0}, "walk": {"file": "mudsdale-walk.png", "cell": 160, "scale": 2.4478, "foot": 0.7979, "cycle": 2.0}, "run": {"file": "mudsdale-run.png", "cell": 160, "scale": 2.4285, "foot": 0.7994, "cycle": 1.0}}, "src": "fallback-v4"}

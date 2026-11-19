@@ -1,0 +1,1 @@
+{"unit": 0.04683, "frames": 12, "modes": {"idle": {"file": "chatot-idle.png", "cell": 160, "scale": 7.4927, "foot": 0.7037, "cycle": 2.0}, "walk": {"file": "chatot-walk.png", "cell": 160, "scale": 7.4927, "foot": 0.7037, "cycle": 1.0}, "run": {"file": "chatot-run.png", "cell": 160, "scale": 7.4927, "foot": 0.7037, "cycle": 0.556}}, "src": "fallback-v4"}

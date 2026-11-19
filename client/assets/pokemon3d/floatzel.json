@@ -1,0 +1,1 @@
+{"unit": 0.02157, "frames": 12, "modes": {"idle": {"file": "floatzel-idle.png", "cell": 160, "scale": 3.4517, "foot": 0.5723, "cycle": 2.0}, "walk": {"file": "floatzel-walk.png", "cell": 160, "scale": 3.4517, "foot": 0.5723, "cycle": 1.0}, "run": {"file": "floatzel-run.png", "cell": 160, "scale": 3.4517, "foot": 0.5723, "cycle": 0.556}}, "src": "fallback-v4"}

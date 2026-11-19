@@ -1,0 +1,1 @@
+{"unit": 0.03227, "frames": 12, "modes": {"idle": {"file": "carbink-idle.png", "cell": 160, "scale": 5.9077, "foot": 0.8729, "cycle": 3.077}, "walk": {"file": "carbink-walk.png", "cell": 160, "scale": 5.163, "foot": 0.8299, "cycle": 2.353}, "run": {"file": "carbink-walk.png", "cell": 160, "scale": 5.163, "foot": 0.8299, "cycle": 2.353}}, "src": "fallback-v4", "air": true}

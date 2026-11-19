@@ -1,0 +1,1 @@
+{"unit": 0.02194, "frames": 12, "modes": {"idle": {"file": "toxtricity-idle.png", "cell": 160, "scale": 3.531, "foot": 0.8443, "cycle": 2.0}, "walk": {"file": "toxtricity-walk.png", "cell": 160, "scale": 3.531, "foot": 0.8443, "cycle": 1.0}, "run": {"file": "toxtricity-run.png", "cell": 160, "scale": 3.5109, "foot": 0.8396, "cycle": 0.556}}, "src": "fallback-v4"}

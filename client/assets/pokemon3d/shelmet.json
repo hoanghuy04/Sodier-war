@@ -1,0 +1,1 @@
+{"unit": 0.04085, "frames": 12, "modes": {"idle": {"file": "shelmet-idle.png", "cell": 160, "scale": 6.5362, "foot": 0.7083, "cycle": 2.0}, "walk": {"file": "shelmet-walk.png", "cell": 160, "scale": 6.5362, "foot": 0.7083, "cycle": 1.0}, "run": {"file": "shelmet-run.png", "cell": 160, "scale": 6.5362, "foot": 0.7083, "cycle": 0.556}}, "src": "fallback-v4"}

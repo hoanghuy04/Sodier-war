@@ -1,0 +1,1442 @@
+{
+ "dan-quan": {
+  "name": "Dân quân",
+  "cls": "Bộ binh",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "kiem-si": {
+  "name": "Kiếm sĩ",
+  "cls": "Bộ binh",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "linh-giao": {
+  "name": "Lính giáo",
+  "cls": "Giáo",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "cung-thu": {
+  "name": "Cung thủ",
+  "cls": "Tầm xa",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "ky-binh": {
+  "name": "Kỵ binh",
+  "cls": "Kỵ",
+  "size": [
+   105,
+   114
+  ],
+  "anchor": [
+   53,
+   90
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "hiep-si": {
+  "name": "Hiệp sĩ",
+  "cls": "Kỵ",
+  "size": [
+   105,
+   114
+  ],
+  "anchor": [
+   53,
+   90
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "phap-su": {
+  "name": "Pháp sư",
+  "cls": "Phép",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "may-ban-da": {
+  "name": "Máy bắn đá lửa",
+  "cls": "Công thành",
+  "size": [
+   126,
+   114
+  ],
+  "anchor": [
+   63,
+   87
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "su-thuu": {
+  "name": "Sư thứu",
+  "cls": "Bay",
+  "size": [
+   126,
+   132
+  ],
+  "anchor": [
+   63,
+   108
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "rong": {
+  "name": "Rồng",
+  "cls": "Bay",
+  "size": [
+   174,
+   162
+  ],
+  "anchor": [
+   87,
+   126
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "thach-lam": {
+  "name": "Thạch Lâm",
+  "cls": "Anh hùng",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "kim-ha": {
+  "name": "Kim Hạ",
+  "cls": "Anh hùng",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "phong-vu": {
+  "name": "Phong Vũ",
+  "cls": "Anh hùng",
+  "size": [
+   105,
+   114
+  ],
+  "anchor": [
+   53,
+   90
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "lam-nguyet": {
+  "name": "Lam Nguyệt",
+  "cls": "Anh hùng",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ },
+ "hoa-ky": {
+  "name": "Hỏa Kỳ",
+  "cls": "Anh hùng",
+  "size": [
+   72,
+   84
+  ],
+  "anchor": [
+   36,
+   63
+  ],
+  "cols": 6,
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "walk": {
+    "row": 8,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "attack": {
+    "row": 16,
+    "frames": 6,
+    "fps": 10,
+    "loop": false,
+    "hitFrame": 3,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "victory": {
+    "row": 24,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   },
+   "death": {
+    "row": 32,
+    "frames": 6,
+    "fps": 8,
+    "loop": false,
+    "dirs": [
+     "S",
+     "SW",
+     "W",
+     "NW",
+     "N",
+     "NE",
+     "E",
+     "SE"
+    ]
+   }
+  }
+ }
+}

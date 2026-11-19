@@ -1,0 +1,1 @@
+{"unit": 0.02743, "frames": 12, "modes": {"idle": {"file": "swadloon-idle.png", "cell": 160, "scale": 4.3886, "foot": 0.6262, "cycle": 2.0}, "walk": {"file": "swadloon-idle.png", "cell": 160, "scale": 4.3886, "foot": 0.6262, "cycle": 2.0}, "run": {"file": "swadloon-idle.png", "cell": 160, "scale": 4.3886, "foot": 0.6262, "cycle": 2.0}}, "src": "fallback-v4"}

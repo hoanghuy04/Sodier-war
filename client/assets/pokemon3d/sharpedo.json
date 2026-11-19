@@ -1,0 +1,1 @@
+{"unit": 0.01901, "frames": 12, "modes": {"idle": {"file": "sharpedo-idle.png", "cell": 160, "scale": 3.6141, "foot": 0.7338, "cycle": 2.0}, "walk": {"file": "sharpedo-walk.png", "cell": 160, "scale": 3.0416, "foot": 0.7395, "cycle": 0.5}, "run": {"file": "sharpedo-run.png", "cell": 160, "scale": 3.0416, "foot": 0.7395, "cycle": 0.278}}, "src": "fallback-v4"}

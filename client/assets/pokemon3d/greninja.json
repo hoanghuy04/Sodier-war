@@ -1,0 +1,1 @@
+{"unit": 0.01306, "frames": 12, "modes": {"idle": {"file": "greninja-idle.png", "cell": 160, "scale": 3.3945, "foot": 0.7328, "cycle": 2.0}, "walk": {"file": "greninja-walk.png", "cell": 160, "scale": 2.0898, "foot": 0.4589, "cycle": 2.0}, "run": {"file": "greninja-run.png", "cell": 160, "scale": 2.0898, "foot": 0.4589, "cycle": 1.111}}, "src": "fallback-v4"}

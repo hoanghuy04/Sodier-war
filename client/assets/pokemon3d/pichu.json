@@ -1,0 +1,1 @@
+{"unit": 0.03398, "frames": 12, "modes": {"idle": {"file": "pichu-idle.png", "cell": 160, "scale": 5.7962, "foot": 0.8297, "cycle": 2.0}, "walk": {"file": "pichu-walk.png", "cell": 160, "scale": 5.6367, "foot": 0.825, "cycle": 1.0}, "run": {"file": "pichu-run.png", "cell": 160, "scale": 5.5855, "foot": 0.6606, "cycle": 0.5}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.0173, "frames": 12, "modes": {"idle": {"file": "crabrawler-idle.png", "cell": 160, "scale": 3.0118, "foot": 0.6101, "cycle": 2.0}, "walk": {"file": "crabrawler-walk.png", "cell": 160, "scale": 2.7676, "foot": 0.4844, "cycle": 0.5}, "run": {"file": "crabrawler-run.png", "cell": 160, "scale": 2.7676, "foot": 0.4844, "cycle": 0.278}}, "src": "fallback-v4"}

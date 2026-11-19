@@ -1,0 +1,1 @@
+{"unit": 0.01745, "frames": 12, "modes": {"idle": {"file": "palossand-idle.png", "cell": 160, "scale": 2.7927, "foot": 0.5759, "cycle": 2.0}, "walk": {"file": "palossand-walk.png", "cell": 160, "scale": 2.7927, "foot": 0.6327, "cycle": 2.0}, "run": {"file": "palossand-run.png", "cell": 160, "scale": 2.7927, "foot": 0.6327, "cycle": 1.111}}, "src": "fallback-v4"}

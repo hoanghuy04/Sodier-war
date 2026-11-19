@@ -1,0 +1,1 @@
+{"unit": 0.01247, "frames": 12, "modes": {"idle": {"file": "yanmega-idle.png", "cell": 160, "scale": 1.9948, "foot": 0.361, "cycle": 2.0}, "walk": {"file": "yanmega-walk.png", "cell": 160, "scale": 1.9948, "foot": 0.361, "cycle": 1.0}, "run": {"file": "yanmega-run.png", "cell": 160, "scale": 1.9948, "foot": 0.361, "cycle": 0.556}}, "src": "fallback-v4"}

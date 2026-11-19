@@ -1,0 +1,1 @@
+{"unit": 0.01027, "frames": 12, "modes": {"idle": {"file": "clawitzer-idle.png", "cell": 160, "scale": 1.6428, "foot": 0.5164, "cycle": 2.0}, "walk": {"file": "clawitzer-idle.png", "cell": 160, "scale": 1.6428, "foot": 0.5164, "cycle": 2.0}, "run": {"file": "clawitzer-idle.png", "cell": 160, "scale": 1.6428, "foot": 0.5164, "cycle": 2.0}}, "src": "fallback-v4"}

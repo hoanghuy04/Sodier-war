@@ -1,0 +1,1 @@
+{"unit": 0.01043, "frames": 12, "modes": {"idle": {"file": "arctovish-idle.png", "cell": 160, "scale": 1.7757, "foot": 0.6149, "cycle": 16.0}, "walk": {"file": "arctovish-walk.png", "cell": 160, "scale": 1.6696, "foot": 0.6184, "cycle": 8.0}, "run": {"file": "arctovish-run.png", "cell": 160, "scale": 1.6696, "foot": 0.6184, "cycle": 4.444}}, "src": "fallback-v4"}

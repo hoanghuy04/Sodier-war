@@ -1,0 +1,1 @@
+{"unit": 0.0263, "frames": 12, "modes": {"idle": {"file": "gorebyss-idle.png", "cell": 160, "scale": 4.2082, "foot": 0.7328, "cycle": 2.0}, "walk": {"file": "gorebyss-idle.png", "cell": 160, "scale": 4.2082, "foot": 0.7328, "cycle": 2.0}, "run": {"file": "gorebyss-idle.png", "cell": 160, "scale": 4.2082, "foot": 0.7328, "cycle": 2.0}}, "src": "fallback-v4"}

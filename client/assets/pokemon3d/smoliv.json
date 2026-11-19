@@ -1,0 +1,1 @@
+{"unit": 0.04987, "frames": 12, "modes": {"idle": {"file": "smoliv-idle.png", "cell": 160, "scale": 7.9792, "foot": 0.8354, "cycle": 2.0}, "walk": {"file": "smoliv-walk.png", "cell": 160, "scale": 7.9792, "foot": 0.8354, "cycle": 1.0}, "run": {"file": "smoliv-run.png", "cell": 160, "scale": 7.9792, "foot": 0.8354, "cycle": 0.556}}, "src": "fallback-v4"}

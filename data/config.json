@@ -1,0 +1,9 @@
+{
+ "invite": "b65678",
+ "botwatch": {
+  "enabled": true,
+  "threshold": 6,
+  "tgEnvFile": "/home/huy/.claude/channels/telegram/.env",
+  "chatId": "6640649039"
+ }
+}

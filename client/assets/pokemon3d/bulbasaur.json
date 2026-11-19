@@ -1,0 +1,1 @@
+{"unit": 0.04571, "frames": 12, "modes": {"idle": {"file": "bulbasaur-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.7703, "cycle": 1.0}, "walk": {"file": "bulbasaur-walk.png", "cell": 160, "scale": 7.3143, "foot": 0.7217, "cycle": 1.0}, "run": {"file": "bulbasaur-run.png", "cell": 160, "scale": 7.3143, "foot": 0.7217, "cycle": 0.556}}, "src": "fallback-v4"}

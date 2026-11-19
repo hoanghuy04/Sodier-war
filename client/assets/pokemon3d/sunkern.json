@@ -1,0 +1,1 @@
+{"unit": 0.0526, "frames": 12, "modes": {"idle": {"file": "sunkern-idle.png", "cell": 160, "scale": 11.1709, "foot": 0.8299, "cycle": 2.667}, "walk": {"file": "sunkern-walk.png", "cell": 160, "scale": 8.4164, "foot": 0.8538, "cycle": 1.0}, "run": {"file": "sunkern-run.png", "cell": 160, "scale": 8.4164, "foot": 0.8538, "cycle": 0.556}}, "src": "fallback-v4"}

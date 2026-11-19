@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "glimmora-idle.png", "cell": 160, "scale": 4.6545, "foot": 0.7429, "cycle": 2.0}, "walk": {"file": "glimmora-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.7608, "cycle": 2.0}, "run": {"file": "glimmora-run.png", "cell": 160, "scale": 4.5851, "foot": 0.7608, "cycle": 1.111}}, "src": "fallback-v4"}

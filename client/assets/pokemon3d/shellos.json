@@ -1,0 +1,1 @@
+{"unit": 0.03459, "frames": 12, "modes": {"idle": {"file": "shellos-idle.png", "cell": 160, "scale": 5.5855, "foot": 0.8264, "cycle": 2.0}, "walk": {"file": "shellos-walk.png", "cell": 160, "scale": 5.5351, "foot": 0.8191, "cycle": 1.0}, "run": {"file": "shellos-run.png", "cell": 160, "scale": 5.5351, "foot": 0.8191, "cycle": 0.556}}, "src": "fallback-v4"}

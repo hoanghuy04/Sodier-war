@@ -1,0 +1,1 @@
+{"unit": 0.01574, "frames": 12, "modes": {"idle": {"file": "toedscruel-idle.png", "cell": 160, "scale": 2.518, "foot": 0.7416, "cycle": 2.667}, "walk": {"file": "toedscruel-walk.png", "cell": 160, "scale": 2.518, "foot": 0.7416, "cycle": 2.667}, "run": {"file": "toedscruel-walk.png", "cell": 160, "scale": 2.518, "foot": 0.7416, "cycle": 2.667}}, "src": "fallback-v4"}

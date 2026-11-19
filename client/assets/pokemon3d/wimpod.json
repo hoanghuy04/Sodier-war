@@ -1,0 +1,1 @@
+{"unit": 0.02313, "frames": 12, "modes": {"idle": {"file": "wimpod-idle.png", "cell": 160, "scale": 3.7012, "foot": 0.5717, "cycle": 1.6}, "walk": {"file": "wimpod-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.725, "cycle": 1.583}, "run": {"file": "wimpod-run.png", "cell": 160, "scale": 4.5851, "foot": 0.725, "cycle": 0.88}}, "src": "fallback-v4"}

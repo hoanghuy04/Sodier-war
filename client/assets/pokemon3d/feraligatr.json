@@ -1,0 +1,1 @@
+{"unit": 0.01561, "frames": 12, "modes": {"idle": {"file": "feraligatr-idle.png", "cell": 160, "scale": 2.5135, "foot": 0.6303, "cycle": 4.0}, "walk": {"file": "feraligatr-walk.png", "cell": 160, "scale": 2.5365, "foot": 0.6795, "cycle": 4.0}, "run": {"file": "feraligatr-run.png", "cell": 160, "scale": 2.2478, "foot": 0.6501, "cycle": 4.0}}, "src": "fallback-v4"}

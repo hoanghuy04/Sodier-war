@@ -1,0 +1,1 @@
+{"unit": 0.0331, "frames": 12, "modes": {"idle": {"file": "primeape-idle.png", "cell": 160, "scale": 5.5855, "foot": 0.7566, "cycle": 1.0}, "walk": {"file": "primeape-walk.png", "cell": 160, "scale": 5.2966, "foot": 0.7847, "cycle": 1.0}, "run": {"file": "primeape-run.png", "cell": 160, "scale": 5.2966, "foot": 0.7847, "cycle": 0.556}}, "src": "fallback-v4"}

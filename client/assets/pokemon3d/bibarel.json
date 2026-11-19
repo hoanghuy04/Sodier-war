@@ -1,0 +1,1 @@
+{"unit": 0.01613, "frames": 12, "modes": {"idle": {"file": "bibarel-idle.png", "cell": 160, "scale": 2.5815, "foot": 0.4169, "cycle": 2.0}, "walk": {"file": "bibarel-walk.png", "cell": 160, "scale": 2.5815, "foot": 0.4169, "cycle": 1.0}, "run": {"file": "bibarel-run.png", "cell": 160, "scale": 2.5815, "foot": 0.4169, "cycle": 0.556}}, "src": "fallback-v4"}

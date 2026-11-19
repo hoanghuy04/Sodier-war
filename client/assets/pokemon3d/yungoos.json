@@ -1,0 +1,1 @@
+{"unit": 0.01422, "frames": 12, "modes": {"idle": {"file": "yungoos-idle.png", "cell": 160, "scale": 2.2756, "foot": 0.3805, "cycle": 2.0}, "walk": {"file": "yungoos-walk.png", "cell": 160, "scale": 2.2756, "foot": 0.3805, "cycle": 1.0}, "run": {"file": "yungoos-run.png", "cell": 160, "scale": 2.2756, "foot": 0.3805, "cycle": 0.556}}, "src": "fallback-v4"}

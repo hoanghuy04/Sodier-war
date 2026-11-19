@@ -1,0 +1,1 @@
+{"unit": 0.04465, "frames": 12, "modes": {"idle": {"file": "axew-idle.png", "cell": 160, "scale": 7.3728, "foot": 0.7619, "cycle": 2.0}, "walk": {"file": "axew-walk.png", "cell": 160, "scale": 6.8267, "foot": 0.7603, "cycle": 1.333}, "run": {"file": "axew-run.png", "cell": 160, "scale": 6.4298, "foot": 0.6971, "cycle": 0.667}}, "src": "fallback-v4"}

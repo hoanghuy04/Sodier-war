@@ -1,0 +1,1 @@
+{"unit": 0.03174, "frames": 12, "modes": {"idle": {"file": "bonsly-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.8806, "cycle": 1.333}, "walk": {"file": "bonsly-walk.png", "cell": 160, "scale": 5.0777, "foot": 0.8562, "cycle": 0.8}, "run": {"file": "bonsly-run.png", "cell": 160, "scale": 5.0777, "foot": 0.8562, "cycle": 0.444}}, "src": "fallback-v4"}

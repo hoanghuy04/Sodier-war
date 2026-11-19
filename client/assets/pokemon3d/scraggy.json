@@ -1,0 +1,1 @@
+{"unit": 0.0331, "frames": 12, "modes": {"idle": {"file": "scraggy-idle.png", "cell": 160, "scale": 5.2966, "foot": 0.6854, "cycle": 2.0}, "walk": {"file": "scraggy-walk.png", "cell": 160, "scale": 5.2966, "foot": 0.6854, "cycle": 1.0}, "run": {"file": "scraggy-run.png", "cell": 160, "scale": 5.2966, "foot": 0.6854, "cycle": 0.556}}, "src": "fallback-v4"}

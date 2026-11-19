@@ -1,0 +1,1 @@
+{"unit": 0.03048, "frames": 12, "modes": {"idle": {"file": "geodude-idle.png", "cell": 160, "scale": 4.8762, "foot": 0.4573, "cycle": 1.333}, "walk": {"file": "geodude-walk.png", "cell": 160, "scale": 7.4927, "foot": 0.6569, "cycle": 2.292}, "run": {"file": "geodude-run.png", "cell": 160, "scale": 7.1442, "foot": 0.7724, "cycle": 1.458}}}

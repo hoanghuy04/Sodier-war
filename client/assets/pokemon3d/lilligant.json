@@ -1,0 +1,1 @@
+{"unit": 0.02313, "frames": 12, "modes": {"idle": {"file": "lilligant-idle.png", "cell": 160, "scale": 3.7012, "foot": 0.8782, "cycle": 2.0}, "walk": {"file": "lilligant-idle.png", "cell": 160, "scale": 3.7012, "foot": 0.8782, "cycle": 2.0}, "run": {"file": "lilligant-idle.png", "cell": 160, "scale": 3.7012, "foot": 0.8782, "cycle": 2.0}}, "src": "fallback-v4"}

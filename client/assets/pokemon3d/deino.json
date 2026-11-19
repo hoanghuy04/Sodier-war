@@ -1,0 +1,1 @@
+{"unit": 0.032, "frames": 12, "modes": {"idle": {"file": "deino-idle.png", "cell": 160, "scale": 5.12, "foot": 0.8472, "cycle": 4.0}, "walk": {"file": "deino-walk.png", "cell": 160, "scale": 5.12, "foot": 0.8472, "cycle": 1.0}, "run": {"file": "deino-run.png", "cell": 160, "scale": 5.12, "foot": 0.8472, "cycle": 0.556}}, "src": "fallback-v4"}

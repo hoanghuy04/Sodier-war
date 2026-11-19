@@ -1,0 +1,1 @@
+{"unit": 0.032, "frames": 12, "modes": {"idle": {"file": "servine-idle.png", "cell": 160, "scale": 5.12, "foot": 0.8552, "cycle": 2.0}, "walk": {"file": "servine-walk.png", "cell": 160, "scale": 5.12, "foot": 0.8552, "cycle": 1.0}, "run": {"file": "servine-run.png", "cell": 160, "scale": 5.12, "foot": 0.8552, "cycle": 0.556}}, "src": "fallback-v4"}

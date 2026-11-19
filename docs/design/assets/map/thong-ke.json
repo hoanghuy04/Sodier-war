@@ -1,0 +1,119 @@
+{
+  "seed": 20261111,
+  "size": [
+    256,
+    256
+  ],
+  "biomes": {
+    "meadow": 22.8,
+    "steppe": 13.8,
+    "forest": 15,
+    "pine": 8.3,
+    "tundra": 8.3,
+    "desert": 12.3,
+    "badlands": 8.2,
+    "swamp": 7.4,
+    "ash": 1.6,
+    "core": 2
+  },
+  "obstacles": {
+    "NONE": 51977,
+    "TREE": 5498,
+    "PINE": 2983,
+    "BOULDER": 1477,
+    "CACTUS": 114,
+    "WATER": 1212,
+    "ICE": 191,
+    "CHASM": 326,
+    "HOUSE": 172,
+    "WELL": 8,
+    "PILLAR": 27,
+    "DEADTREE": 230,
+    "CHARRED": 16,
+    "PALM": 22,
+    "TOWER": 7,
+    "WALL": 6,
+    "MINE": 1270
+  },
+  "mines": {
+    "iron": 44,
+    "coal": 34,
+    "gold": 22,
+    "oil": 16,
+    "tar": 10,
+    "crystal": 8,
+    "diamond": 4
+  },
+  "spawns": 12,
+  "villages": 8,
+  "towers": 7,
+  "roadTiles": 2727,
+  "walkable": 79.6,
+  "carved": 137,
+  "crops": [
+    {
+      "name": "xuat-phat",
+      "title": "Khu xuất phát số 4",
+      "tx0": 216,
+      "ty0": 144,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "cao-nguyen-co",
+      "title": "Cao nguyên cổ ở tâm bản đồ",
+      "tx0": 108,
+      "ty0": 114,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "ho-dau-den",
+      "title": "Hố dầu đen giữa vùng tro cháy",
+      "tx0": 39,
+      "ty0": 101,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "hoang-mac-do",
+      "title": "Hoang mạc đá đỏ, khe nứt và mỏ",
+      "tx0": 101,
+      "ty0": 213,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "sa-mac",
+      "title": "Sa mạc và ốc đảo",
+      "tx0": 35,
+      "ty0": 72,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "rung",
+      "title": "Rừng và mỏ pha lê",
+      "tx0": 0,
+      "ty0": 73,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "lang-hoang",
+      "title": "Làng hoang và tháp canh",
+      "tx0": 159,
+      "ty0": 57,
+      "tw": 40,
+      "th": 24
+    },
+    {
+      "name": "dong-tuyet",
+      "title": "Đồng tuyết và hồ băng",
+      "tx0": 117,
+      "ty0": 24,
+      "tw": 40,
+      "th": 24
+    }
+  ]
+}

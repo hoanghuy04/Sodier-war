@@ -1,0 +1,1 @@
+{"unit": 0.01684, "frames": 12, "modes": {"idle": {"file": "donphan-idle.png", "cell": 160, "scale": 2.7676, "foot": 0.5623, "cycle": 4.0}, "walk": {"file": "donphan-walk.png", "cell": 160, "scale": 2.6947, "foot": 0.5438, "cycle": 2.0}, "run": {"file": "donphan-run.png", "cell": 160, "scale": 3.4133, "foot": 0.6568, "cycle": 0.571}}, "src": "fallback-v4"}

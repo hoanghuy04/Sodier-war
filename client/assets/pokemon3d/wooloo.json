@@ -1,0 +1,1 @@
+{"unit": 0.0422, "frames": 12, "modes": {"idle": {"file": "wooloo-idle.png", "cell": 160, "scale": 6.9034, "foot": 0.8225, "cycle": 2.0}, "walk": {"file": "wooloo-walk.png", "cell": 160, "scale": 6.7516, "foot": 0.8154, "cycle": 2.667}, "run": {"file": "wooloo-run.png", "cell": 160, "scale": 6.7516, "foot": 0.8154, "cycle": 1.481}}, "src": "fallback-v4"}

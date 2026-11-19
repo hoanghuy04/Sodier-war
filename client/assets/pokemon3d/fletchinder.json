@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "fletchinder-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.6406, "cycle": 2.0}, "walk": {"file": "fletchinder-walk.png", "cell": 160, "scale": 5.4857, "foot": 0.6406, "cycle": 1.0}, "run": {"file": "fletchinder-run.png", "cell": 160, "scale": 5.4857, "foot": 0.6406, "cycle": 0.556}}, "src": "fallback-v4"}

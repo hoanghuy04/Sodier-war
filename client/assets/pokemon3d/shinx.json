@@ -1,0 +1,1 @@
+{"unit": 0.02595, "frames": 12, "modes": {"idle": {"file": "shinx-idle.png", "cell": 160, "scale": 4.1514, "foot": 0.5675, "cycle": 2.0}, "walk": {"file": "shinx-walk.png", "cell": 160, "scale": 4.1514, "foot": 0.5675, "cycle": 1.0}, "run": {"file": "shinx-run.png", "cell": 160, "scale": 4.1514, "foot": 0.5675, "cycle": 0.556}}, "src": "fallback-v4"}

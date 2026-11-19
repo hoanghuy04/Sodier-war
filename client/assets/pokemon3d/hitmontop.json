@@ -1,0 +1,1 @@
+{"unit": 0.032, "frames": 12, "modes": {"idle": {"file": "hitmontop-idle.png", "cell": 160, "scale": 6.144, "foot": 0.7918, "cycle": 4.0}, "walk": {"file": "hitmontop-walk.png", "cell": 160, "scale": 6.144, "foot": 0.8206, "cycle": 4.0}, "run": {"file": "hitmontop-run.png", "cell": 160, "scale": 5.12, "foot": 0.7752, "cycle": 4.0}}, "src": "fallback-v4"}

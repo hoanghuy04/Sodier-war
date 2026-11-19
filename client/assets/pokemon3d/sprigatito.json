@@ -1,0 +1,1 @@
+{"unit": 0.03728, "frames": 12, "modes": {"idle": {"file": "sprigatito-idle.png", "cell": 160, "scale": 6.2694, "foot": 0.8664, "cycle": 2.0}, "walk": {"file": "sprigatito-walk.png", "cell": 160, "scale": 6.0832, "foot": 0.8412, "cycle": 0.667}, "run": {"file": "sprigatito-run.png", "cell": 160, "scale": 6.0235, "foot": 0.852, "cycle": 0.5}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.032, "frames": 12, "modes": {"idle": {"file": "arrokuda-idle.png", "cell": 160, "scale": 5.2068, "foot": 0.3894, "cycle": 4.0}, "walk": {"file": "arrokuda-walk.png", "cell": 160, "scale": 5.12, "foot": 0.6312, "cycle": 1.0}, "run": {"file": "arrokuda-run.png", "cell": 160, "scale": 5.12, "foot": 0.6312, "cycle": 0.556}}, "src": "fallback-v4"}

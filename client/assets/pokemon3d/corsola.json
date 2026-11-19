@@ -1,0 +1,1 @@
+{"unit": 0.03692, "frames": 12, "modes": {"idle": {"file": "corsola-idle.png", "cell": 160, "scale": 6.0235, "foot": 0.7014, "cycle": 4.0}, "walk": {"file": "corsola-walk.png", "cell": 160, "scale": 5.9077, "foot": 0.6975, "cycle": 2.0}, "run": {"file": "corsola-run.png", "cell": 160, "scale": 5.9077, "foot": 0.6975, "cycle": 1.111}}, "src": "fallback-v4"}

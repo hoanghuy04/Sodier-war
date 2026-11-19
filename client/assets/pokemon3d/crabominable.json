@@ -1,0 +1,1 @@
+{"unit": 0.00701, "frames": 12, "modes": {"idle": {"file": "crabominable-idle.png", "cell": 160, "scale": 1.2488, "foot": 0.603, "cycle": 2.0}, "walk": {"file": "crabominable-walk.png", "cell": 160, "scale": 1.1212, "foot": 0.5119, "cycle": 0.5}, "run": {"file": "crabominable-run.png", "cell": 160, "scale": 1.1212, "foot": 0.5119, "cycle": 0.278}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03174, "frames": 12, "modes": {"idle": {"file": "nuzleaf-idle.png", "cell": 160, "scale": 5.0777, "foot": 0.8959, "cycle": 2.0}, "walk": {"file": "nuzleaf-walk.png", "cell": 160, "scale": 5.0777, "foot": 0.8959, "cycle": 1.0}, "run": {"file": "nuzleaf-run.png", "cell": 160, "scale": 5.0777, "foot": 0.8959, "cycle": 0.556}}, "src": "fallback-v4"}

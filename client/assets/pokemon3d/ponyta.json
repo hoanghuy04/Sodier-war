@@ -1,0 +1,1 @@
+{"unit": 0.03227, "frames": 12, "modes": {"idle": {"file": "ponyta-idle.png", "cell": 160, "scale": 5.4857, "foot": 0.8463, "cycle": 4.0}, "walk": {"file": "ponyta-walk.png", "cell": 160, "scale": 5.2068, "foot": 0.7961, "cycle": 2.667}, "run": {"file": "ponyta-run.png", "cell": 160, "scale": 5.2068, "foot": 0.7961, "cycle": 1.481}}, "src": "fallback-v4"}

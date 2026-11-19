@@ -1,0 +1,1 @@
+{"unit": 0.03623, "frames": 12, "modes": {"idle": {"file": "toxel-idle.png", "cell": 160, "scale": 5.7962, "foot": 0.5398, "cycle": 2.0}, "walk": {"file": "toxel-walk.png", "cell": 160, "scale": 7.4024, "foot": 0.8458, "cycle": 2.0}, "run": {"file": "toxel-run.png", "cell": 160, "scale": 7.4024, "foot": 0.8458, "cycle": 1.111}}, "src": "fallback-v4"}

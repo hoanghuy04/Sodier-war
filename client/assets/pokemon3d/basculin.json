@@ -1,0 +1,1 @@
+{"unit": 0.02743, "frames": 12, "modes": {"idle": {"file": "basculin-idle.png", "cell": 160, "scale": 3.9497, "foot": 0.4545, "cycle": 2.0}, "walk": {"file": "basculin-walk.png", "cell": 160, "scale": 4.007, "foot": 0.4733, "cycle": 8.0}, "run": {"file": "basculin-run.png", "cell": 160, "scale": 4.007, "foot": 0.4733, "cycle": 4.444}}, "src": "fallback-v4"}

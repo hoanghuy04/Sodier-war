@@ -1,0 +1,1 @@
+{"unit": 0.00706, "frames": 12, "modes": {"idle": {"file": "copperajah-idle.png", "cell": 160, "scale": 1.2908, "foot": 0.5984, "cycle": 4.0}, "walk": {"file": "copperajah-walk.png", "cell": 160, "scale": 1.219, "foot": 0.5625, "cycle": 8.0}, "run": {"file": "copperajah-run.png", "cell": 160, "scale": 1.1294, "foot": 0.5226, "cycle": 4.0}}, "src": "fallback-v4"}

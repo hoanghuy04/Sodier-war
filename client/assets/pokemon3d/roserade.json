@@ -1,0 +1,1 @@
+{"unit": 0.02783, "frames": 12, "modes": {"idle": {"file": "roserade-idle.png", "cell": 160, "scale": 4.5511, "foot": 0.8335, "cycle": 4.0}, "walk": {"file": "roserade-walk.png", "cell": 160, "scale": 4.4522, "foot": 0.8158, "cycle": 1.333}, "run": {"file": "roserade-run.png", "cell": 160, "scale": 4.4522, "foot": 0.8158, "cycle": 0.741}}, "src": "fallback-v4"}

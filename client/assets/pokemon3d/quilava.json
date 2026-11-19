@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "quilava-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.5635, "cycle": 1.583}, "walk": {"file": "quilava-walk.png", "cell": 160, "scale": 4.3268, "foot": 0.5568, "cycle": 4.792}, "run": {"file": "quilava-run.png", "cell": 160, "scale": 4.3268, "foot": 0.5568, "cycle": 2.662}}, "src": "fallback-v4"}

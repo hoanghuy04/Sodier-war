@@ -1,0 +1,1 @@
+{"unit": 0.03959, "frames": 12, "modes": {"idle": {"file": "bellossom-idle.png", "cell": 160, "scale": 6.7516, "foot": 0.7943, "cycle": 1.0}, "walk": {"file": "bellossom-walk.png", "cell": 160, "scale": 6.334, "foot": 0.7959, "cycle": 2.0}, "run": {"file": "bellossom-run.png", "cell": 160, "scale": 6.334, "foot": 0.7959, "cycle": 1.111}}, "src": "fallback-v4"}

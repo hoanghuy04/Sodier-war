@@ -1,0 +1,1 @@
+{"unit": 0.02526, "frames": 12, "modes": {"idle": {"file": "pignite-idle.png", "cell": 160, "scale": 4.0421, "foot": 0.692, "cycle": 4.0}, "walk": {"file": "pignite-walk.png", "cell": 160, "scale": 4.3268, "foot": 0.7596, "cycle": 1.333}, "run": {"file": "pignite-run.png", "cell": 160, "scale": 4.3268, "foot": 0.7596, "cycle": 0.741}}, "src": "fallback-v4"}

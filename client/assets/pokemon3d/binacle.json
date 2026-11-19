@@ -1,0 +1,1 @@
+{"unit": 0.03072, "frames": 12, "modes": {"idle": {"file": "binacle-idle.png", "cell": 160, "scale": 4.9152, "foot": 0.8218, "cycle": 2.0}, "walk": {"file": "binacle-walk.png", "cell": 160, "scale": 4.9152, "foot": 0.8218, "cycle": 2.0}, "run": {"file": "binacle-walk.png", "cell": 160, "scale": 4.9152, "foot": 0.8218, "cycle": 2.0}}, "src": "fallback-v4"}

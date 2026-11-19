@@ -1,0 +1,1 @@
+{"unit": 0.01324, "frames": 12, "modes": {"idle": {"file": "sandaconda-idle.png", "cell": 160, "scale": 2.1186, "foot": 0.4285, "cycle": 2.0}, "walk": {"file": "sandaconda-walk.png", "cell": 160, "scale": 2.1186, "foot": 0.4285, "cycle": 2.0}, "run": {"file": "sandaconda-walk.png", "cell": 160, "scale": 2.1186, "foot": 0.4285, "cycle": 2.0}}, "src": "fallback-v4"}

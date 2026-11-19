@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "parasect-idle.png", "cell": 160, "scale": 4.8, "foot": 0.7055, "cycle": 1.0}, "walk": {"file": "parasect-walk.png", "cell": 160, "scale": 4.7262, "foot": 0.7097, "cycle": 1.0}, "run": {"file": "parasect-run.png", "cell": 160, "scale": 4.3268, "foot": 0.6312, "cycle": 0.25}}, "src": "fallback-v4"}

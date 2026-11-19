@@ -1,0 +1,1 @@
+{"unit": 0.02157, "frames": 12, "modes": {"idle": {"file": "purrloin-idle.png", "cell": 160, "scale": 3.84, "foot": 0.7364, "cycle": 2.0}, "walk": {"file": "purrloin-walk.png", "cell": 160, "scale": 3.4517, "foot": 0.6478, "cycle": 1.36}, "run": {"file": "purrloin-run.png", "cell": 160, "scale": 3.4517, "foot": 0.6478, "cycle": 0.756}}, "src": "fallback-v4"}

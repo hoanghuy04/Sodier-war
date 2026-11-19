@@ -1,0 +1,1 @@
+{"unit": 0.02043, "frames": 12, "modes": {"idle": {"file": "skwovet-idle.png", "cell": 160, "scale": 3.2681, "foot": 0.6757, "cycle": 2.0}, "walk": {"file": "skwovet-walk.png", "cell": 160, "scale": 3.2681, "foot": 0.6757, "cycle": 1.0}, "run": {"file": "skwovet-run.png", "cell": 160, "scale": 3.2681, "foot": 0.6757, "cycle": 0.556}}, "src": "fallback-v4"}

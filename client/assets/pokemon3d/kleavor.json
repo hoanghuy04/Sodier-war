@@ -1,0 +1,1 @@
+{"unit": 0.01123, "frames": 12, "modes": {"idle": {"file": "kleavor-idle.png", "cell": 160, "scale": 2.3631, "foot": 0.675, "cycle": 2.0}, "walk": {"file": "kleavor-walk.png", "cell": 160, "scale": 1.7965, "foot": 0.5208, "cycle": 2.0}, "run": {"file": "kleavor-run.png", "cell": 160, "scale": 2.048, "foot": 0.6133, "cycle": 1.0}}, "src": "fallback-v4"}

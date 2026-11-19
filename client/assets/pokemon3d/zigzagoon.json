@@ -1,0 +1,1 @@
+{"unit": 0.03765, "frames": 12, "modes": {"idle": {"file": "zigzagoon-idle.png", "cell": 160, "scale": 6.9818, "foot": 0.5698, "cycle": 4.0}, "walk": {"file": "zigzagoon-walk.png", "cell": 160, "scale": 6.9818, "foot": 0.5807, "cycle": 1.333}, "run": {"file": "zigzagoon-run.png", "cell": 160, "scale": 6.0235, "foot": 0.5602, "cycle": 1.333}}, "src": "fallback-v4"}

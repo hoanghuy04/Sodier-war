@@ -1,0 +1,1 @@
+{"unit": 0.02526, "frames": 12, "modes": {"idle": {"file": "huntail-idle.png", "cell": 160, "scale": 4.0421, "foot": 0.4773, "cycle": 2.0}, "walk": {"file": "huntail-idle.png", "cell": 160, "scale": 4.0421, "foot": 0.4773, "cycle": 2.0}, "run": {"file": "huntail-idle.png", "cell": 160, "scale": 4.0421, "foot": 0.4773, "cycle": 2.0}}, "src": "fallback-v4"}

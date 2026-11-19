@@ -1,0 +1,1 @@
+{"unit": 0.01116, "frames": 12, "modes": {"idle": {"file": "watchog-idle.png", "cell": 160, "scale": 2.8055, "foot": 0.8985, "cycle": 4.0}, "walk": {"file": "watchog-walk.png", "cell": 160, "scale": 2.8444, "foot": 0.8929, "cycle": 1.333}, "run": {"file": "watchog-run.png", "cell": 160, "scale": 1.786, "foot": 0.476, "cycle": 0.8}}, "src": "fallback-v4"}

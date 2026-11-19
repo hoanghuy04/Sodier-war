@@ -1,0 +1,1 @@
+{"unit": 0.01371, "frames": 12, "modes": {"idle": {"file": "darmanitan-idle.png", "cell": 160, "scale": 2.4, "foot": 0.6402, "cycle": 4.0}, "walk": {"file": "darmanitan-walk.png", "cell": 160, "scale": 2.2423, "foot": 0.603, "cycle": 1.25}, "run": {"file": "darmanitan-run.png", "cell": 160, "scale": 2.1943, "foot": 0.6659, "cycle": 1.0}}, "src": "fallback-v4"}

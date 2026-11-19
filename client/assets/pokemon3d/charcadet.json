@@ -1,0 +1,1 @@
+{"unit": 0.0331, "frames": 12, "modes": {"idle": {"file": "charcadet-idle.png", "cell": 160, "scale": 5.3895, "foot": 0.9328, "cycle": 2.0}, "walk": {"file": "charcadet-walk.png", "cell": 160, "scale": 5.4372, "foot": 0.9154, "cycle": 1.0}, "run": {"file": "charcadet-run.png", "cell": 160, "scale": 5.4372, "foot": 0.9154, "cycle": 0.556}}, "src": "fallback-v4"}

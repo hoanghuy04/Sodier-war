@@ -1,0 +1,1 @@
+{"unit": 0.0167, "frames": 12, "modes": {"idle": {"file": "bewear-idle.png", "cell": 160, "scale": 2.9681, "foot": 0.8891, "cycle": 1.583}, "walk": {"file": "bewear-walk.png", "cell": 160, "scale": 2.8444, "foot": 0.8662, "cycle": 1.0}, "run": {"file": "bewear-run.png", "cell": 160, "scale": 2.7066, "foot": 0.8844, "cycle": 1.333}}, "src": "fallback-v4"}

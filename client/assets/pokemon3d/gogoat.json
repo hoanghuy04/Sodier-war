@@ -1,0 +1,1 @@
+{"unit": 0.01627, "frames": 12, "modes": {"idle": {"file": "gogoat-idle.png", "cell": 160, "scale": 2.871, "foot": 0.7934, "cycle": 2.0}, "walk": {"file": "gogoat-walk.png", "cell": 160, "scale": 2.8313, "foot": 0.7915, "cycle": 1.0}, "run": {"file": "gogoat-run.png", "cell": 160, "scale": 2.6034, "foot": 0.7864, "cycle": 0.5}}, "src": "fallback-v4"}

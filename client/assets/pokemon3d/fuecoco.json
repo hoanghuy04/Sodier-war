@@ -1,0 +1,1 @@
+{"unit": 0.03523, "frames": 12, "modes": {"idle": {"file": "fuecoco-idle.png", "cell": 160, "scale": 5.12, "foot": 0.7032, "cycle": 4.0}, "walk": {"file": "fuecoco-walk.png", "cell": 160, "scale": 5.1679, "foot": 0.6934, "cycle": 1.0}, "run": {"file": "fuecoco-run.png", "cell": 160, "scale": 5.1679, "foot": 0.6934, "cycle": 0.556}}, "src": "fallback-v4"}

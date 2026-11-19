@@ -1,0 +1,1 @@
+{"unit": 0.01255, "frames": 12, "modes": {"idle": {"file": "ursaluna-idle.png", "cell": 160, "scale": 2.0344, "foot": 0.5585, "cycle": 2.0}, "walk": {"file": "ursaluna-walk.png", "cell": 160, "scale": 2.0078, "foot": 0.5609, "cycle": 2.0}, "run": {"file": "ursaluna-run.png", "cell": 160, "scale": 2.0211, "foot": 0.6055, "cycle": 0.667}}, "src": "fallback-v4"}

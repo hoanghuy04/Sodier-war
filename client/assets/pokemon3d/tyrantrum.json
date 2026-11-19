@@ -1,0 +1,1 @@
+{"unit": 0.00561, "frames": 12, "modes": {"idle": {"file": "tyrantrum-idle.png", "cell": 160, "scale": 1.0971, "foot": 0.6557, "cycle": 8.0}, "walk": {"file": "tyrantrum-walk.png", "cell": 160, "scale": 0.8982, "foot": 0.5236, "cycle": 4.0}, "run": {"file": "tyrantrum-run.png", "cell": 160, "scale": 0.9366, "foot": 0.5363, "cycle": 4.0}}, "src": "fallback-v4"}

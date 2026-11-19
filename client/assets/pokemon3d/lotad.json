@@ -1,0 +1,1 @@
+{"unit": 0.04364, "frames": 12, "modes": {"idle": {"file": "lotad-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.6607, "cycle": 2.0}, "walk": {"file": "lotad-walk.png", "cell": 160, "scale": 6.9818, "foot": 0.6571, "cycle": 2.0}, "run": {"file": "lotad-run.png", "cell": 160, "scale": 6.9818, "foot": 0.6571, "cycle": 1.111}}, "src": "fallback-v4"}

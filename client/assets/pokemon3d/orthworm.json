@@ -1,0 +1,1 @@
+{"unit": 0.01444, "frames": 12, "modes": {"idle": {"file": "orthworm-idle.png", "cell": 160, "scale": 2.3631, "foot": 0.4018, "cycle": 2.0}, "walk": {"file": "orthworm-walk.png", "cell": 160, "scale": 2.3098, "foot": 0.3426, "cycle": 2.0}, "run": {"file": "orthworm-run.png", "cell": 160, "scale": 2.3631, "foot": 0.4129, "cycle": 0.25}}, "src": "fallback-v4"}

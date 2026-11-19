@@ -1,0 +1,1 @@
+{"unit": 0.04518, "frames": 12, "modes": {"idle": {"file": "cubchoo-idle.png", "cell": 160, "scale": 7.2282, "foot": 0.8603, "cycle": 2.0}, "walk": {"file": "cubchoo-walk.png", "cell": 160, "scale": 7.2282, "foot": 0.8603, "cycle": 1.0}, "run": {"file": "cubchoo-run.png", "cell": 160, "scale": 7.3143, "foot": 0.8589, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03429, "frames": 12, "modes": {"idle": {"file": "sableye-idle.png", "cell": 160, "scale": 6.144, "foot": 0.8878, "cycle": 6.5}, "walk": {"file": "sableye-walk.png", "cell": 160, "scale": 5.4857, "foot": 0.8291, "cycle": 3.0}, "run": {"file": "sableye-run.png", "cell": 160, "scale": 5.4857, "foot": 0.8291, "cycle": 1.667}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02259, "frames": 12, "modes": {"idle": {"file": "vigoroth-idle.png", "cell": 160, "scale": 4.0421, "foot": 0.7867, "cycle": 2.0}, "walk": {"file": "vigoroth-walk.png", "cell": 160, "scale": 3.7012, "foot": 0.7221, "cycle": 1.0}, "run": {"file": "vigoroth-run.png", "cell": 160, "scale": 3.6141, "foot": 0.7056, "cycle": 0.556}}, "src": "fallback-v4"}

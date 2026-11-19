@@ -1,0 +1,1 @@
+{"unit": 0.0167, "frames": 12, "modes": {"idle": {"file": "espathra-idle.png", "cell": 160, "scale": 2.6843, "foot": 0.7557, "cycle": 2.0}, "walk": {"file": "espathra-walk.png", "cell": 160, "scale": 2.6974, "foot": 0.7677, "cycle": 1.0}, "run": {"file": "espathra-run.png", "cell": 160, "scale": 2.4042, "foot": 0.6939, "cycle": 0.5}}, "src": "fallback-v4"}

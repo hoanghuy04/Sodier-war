@@ -1,0 +1,1 @@
+{"unit": 0.0243, "frames": 12, "modes": {"idle": {"file": "meowstic-idle.png", "cell": 160, "scale": 3.8886, "foot": 0.6483, "cycle": 2.0}, "walk": {"file": "meowstic-walk.png", "cell": 160, "scale": 3.8886, "foot": 0.6483, "cycle": 1.0}, "run": {"file": "meowstic-run.png", "cell": 160, "scale": 3.8886, "foot": 0.6483, "cycle": 0.556}}, "src": "fallback-v4"}

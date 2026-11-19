@@ -1,0 +1,13 @@
+{
+  "name": "sodier-war",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "node tools/build-assets.mjs",
+    "start": "node server/main.js",
+    "sim": "node tools/headless.mjs"
+  },
+  "dependencies": {
+    "ws": "8.18.3"
+  }
+}

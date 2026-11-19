@@ -1,0 +1,1 @@
+{"unit": 0.05486, "frames": 12, "modes": {"idle": {"file": "joltik-idle.png", "cell": 160, "scale": 9.0353, "foot": 0.5762, "cycle": 2.0}, "walk": {"file": "joltik-walk.png", "cell": 160, "scale": 8.7771, "foot": 0.5603, "cycle": 1.0}, "run": {"file": "joltik-run.png", "cell": 160, "scale": 8.7771, "foot": 0.5603, "cycle": 0.556}}, "src": "fallback-v4"}

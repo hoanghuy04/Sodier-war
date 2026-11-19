@@ -1,0 +1,1 @@
+{"unit": 0.02667, "frames": 12, "modes": {"idle": {"file": "poochyena-idle.png", "cell": 160, "scale": 4.2667, "foot": 0.576, "cycle": 2.0}, "walk": {"file": "poochyena-walk.png", "cell": 160, "scale": 4.2667, "foot": 0.576, "cycle": 1.0}, "run": {"file": "poochyena-run.png", "cell": 160, "scale": 4.2667, "foot": 0.576, "cycle": 0.556}}, "src": "fallback-v4"}

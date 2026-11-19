@@ -1,0 +1,1 @@
+{"unit": 0.06621, "frames": 12, "modes": {"idle": {"file": "swinub-idle.png", "cell": 160, "scale": 9.8743, "foot": 0.5353, "cycle": 4.0}, "walk": {"file": "swinub-walk.png", "cell": 160, "scale": 9.5338, "foot": 0.5175, "cycle": 1.0}, "run": {"file": "swinub-run.png", "cell": 160, "scale": 9.5338, "foot": 0.5473, "cycle": 0.4}}, "src": "fallback-v4"}

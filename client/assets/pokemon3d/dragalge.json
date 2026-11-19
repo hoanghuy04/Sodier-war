@@ -1,0 +1,1 @@
+{"unit": 0.01627, "frames": 12, "modes": {"idle": {"file": "dragalge-idle.png", "cell": 160, "scale": 2.6034, "foot": 0.5423, "cycle": 2.0}, "walk": {"file": "dragalge-idle.png", "cell": 160, "scale": 2.6034, "foot": 0.5423, "cycle": 2.0}, "run": {"file": "dragalge-idle.png", "cell": 160, "scale": 2.6034, "foot": 0.5423, "cycle": 2.0}}, "src": "fallback-v4"}

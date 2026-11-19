@@ -1,0 +1,1 @@
+{"unit": 0.0331, "frames": 12, "modes": {"idle": {"file": "litleo-idle.png", "cell": 160, "scale": 5.3426, "foot": 0.8414, "cycle": 2.0}, "walk": {"file": "litleo-walk.png", "cell": 160, "scale": 5.2966, "foot": 0.8343, "cycle": 1.0}, "run": {"file": "litleo-run.png", "cell": 160, "scale": 5.2966, "foot": 0.8343, "cycle": 0.556}}, "src": "fallback-v4"}

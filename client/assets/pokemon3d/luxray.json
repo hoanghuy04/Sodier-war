@@ -1,0 +1,1 @@
+{"unit": 0.01333, "frames": 12, "modes": {"idle": {"file": "luxray-idle.png", "cell": 160, "scale": 2.1333, "foot": 0.5413, "cycle": 2.0}, "walk": {"file": "luxray-walk.png", "cell": 160, "scale": 2.1333, "foot": 0.5413, "cycle": 1.0}, "run": {"file": "luxray-run.png", "cell": 160, "scale": 2.1333, "foot": 0.5413, "cycle": 0.556}}, "src": "fallback-v4"}

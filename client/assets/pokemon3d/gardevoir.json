@@ -1,0 +1,1 @@
+{"unit": 0.0192, "frames": 12, "modes": {"idle": {"file": "gardevoir-idle.png", "cell": 160, "scale": 3.103, "foot": 0.6183, "cycle": 4.0}, "walk": {"file": "gardevoir-walk.png", "cell": 160, "scale": 3.072, "foot": 0.6123, "cycle": 8.0}, "run": {"file": "gardevoir-run.png", "cell": 160, "scale": 3.072, "foot": 0.6123, "cycle": 4.444}}, "src": "fallback-v4"}

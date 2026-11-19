@@ -1,0 +1,1 @@
+{"unit": 0.03959, "frames": 12, "modes": {"idle": {"file": "happiny-idle.png", "cell": 160, "scale": 5.8826, "foot": 0.759, "cycle": 4.0}, "walk": {"file": "happiny-walk.png", "cell": 160, "scale": 5.7006, "foot": 0.754, "cycle": 1.0}, "run": {"file": "happiny-run.png", "cell": 160, "scale": 5.8826, "foot": 0.7498, "cycle": 0.667}}, "src": "fallback-v4"}

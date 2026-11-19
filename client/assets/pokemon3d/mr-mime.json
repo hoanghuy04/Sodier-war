@@ -1,0 +1,1 @@
+{"unit": 0.02207, "frames": 12, "modes": {"idle": {"file": "mr-mime-idle.png", "cell": 160, "scale": 3.7463, "foot": 0.8477, "cycle": 2.0}, "walk": {"file": "mr-mime-walk.png", "cell": 160, "scale": 3.593, "foot": 0.8194, "cycle": 1.0}, "run": {"file": "mr-mime-run.png", "cell": 160, "scale": 3.7012, "foot": 0.8609, "cycle": 2.0}}, "src": "fallback-v4"}

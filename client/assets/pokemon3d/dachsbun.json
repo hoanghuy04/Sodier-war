@@ -1,0 +1,1 @@
+{"unit": 0.02043, "frames": 12, "modes": {"idle": {"file": "dachsbun-idle.png", "cell": 160, "scale": 3.2681, "foot": 0.7165, "cycle": 2.0}, "walk": {"file": "dachsbun-walk.png", "cell": 160, "scale": 3.2681, "foot": 0.7114, "cycle": 2.0}, "run": {"file": "dachsbun-run.png", "cell": 160, "scale": 3.2681, "foot": 0.7114, "cycle": 1.111}}, "src": "fallback-v4"}

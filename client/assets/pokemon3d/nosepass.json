@@ -1,0 +1,1 @@
+{"unit": 0.02977, "frames": 12, "modes": {"idle": {"file": "nosepass-idle.png", "cell": 160, "scale": 5.0777, "foot": 0.7769, "cycle": 3.0}, "walk": {"file": "nosepass-walk.png", "cell": 160, "scale": 4.7628, "foot": 0.782, "cycle": 1.5}, "run": {"file": "nosepass-run.png", "cell": 160, "scale": 5.0361, "foot": 0.81, "cycle": 0.75}}, "src": "fallback-v4"}

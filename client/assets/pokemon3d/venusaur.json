@@ -1,0 +1,1 @@
+{"unit": 0.01247, "frames": 12, "modes": {"idle": {"file": "venusaur-idle.png", "cell": 160, "scale": 2.6713, "foot": 0.6686, "cycle": 4.0}, "walk": {"file": "venusaur-walk.png", "cell": 160, "scale": 2.6483, "foot": 0.6713, "cycle": 2.0}, "run": {"file": "venusaur-run.png", "cell": 160, "scale": 1.9948, "foot": 0.6103, "cycle": 0.667}}, "src": "fallback-v4"}

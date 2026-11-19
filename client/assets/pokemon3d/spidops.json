@@ -1,0 +1,1 @@
+{"unit": 0.024, "frames": 12, "modes": {"idle": {"file": "spidops-idle.png", "cell": 160, "scale": 3.84, "foot": 0.7904, "cycle": 2.0}, "walk": {"file": "spidops-walk.png", "cell": 160, "scale": 3.84, "foot": 0.7904, "cycle": 1.0}, "run": {"file": "spidops-run.png", "cell": 160, "scale": 3.84, "foot": 0.7904, "cycle": 0.556}}, "src": "fallback-v4"}

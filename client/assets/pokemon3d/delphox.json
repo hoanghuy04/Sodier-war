@@ -1,0 +1,1 @@
+{"unit": 0.01223, "frames": 12, "modes": {"idle": {"file": "delphox-idle.png", "cell": 160, "scale": 1.9567, "foot": 0.744, "cycle": 8.0}, "walk": {"file": "delphox-walk.png", "cell": 160, "scale": 1.9948, "foot": 0.7518, "cycle": 1.5}, "run": {"file": "delphox-run.png", "cell": 160, "scale": 1.9948, "foot": 0.7518, "cycle": 0.833}}, "src": "fallback-v4"}

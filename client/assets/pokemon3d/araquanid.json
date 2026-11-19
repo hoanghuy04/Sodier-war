@@ -1,0 +1,1 @@
+{"unit": 0.01143, "frames": 12, "modes": {"idle": {"file": "araquanid-idle.png", "cell": 160, "scale": 2.0757, "foot": 0.6926, "cycle": 2.0}, "walk": {"file": "araquanid-walk.png", "cell": 160, "scale": 1.8732, "foot": 0.627, "cycle": 1.0}, "run": {"file": "araquanid-run.png", "cell": 160, "scale": 1.8286, "foot": 0.6126, "cycle": 0.556}}, "src": "fallback-v4"}

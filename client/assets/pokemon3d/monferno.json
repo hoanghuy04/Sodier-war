@@ -1,0 +1,1 @@
+{"unit": 0.02, "frames": 12, "modes": {"idle": {"file": "monferno-idle.png", "cell": 160, "scale": 4.4201, "foot": 0.8584, "cycle": 2.0}, "walk": {"file": "monferno-walk.png", "cell": 160, "scale": 3.9896, "foot": 0.7955, "cycle": 2.0}, "run": {"file": "monferno-run.png", "cell": 160, "scale": 3.2, "foot": 0.647, "cycle": 0.667}}, "src": "fallback-v4"}

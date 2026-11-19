@@ -1,0 +1,1 @@
+{"unit": 0.01079, "frames": 12, "modes": {"idle": {"file": "drapion-idle.png", "cell": 160, "scale": 1.7258, "foot": 0.5577, "cycle": 2.0}, "walk": {"file": "drapion-walk.png", "cell": 160, "scale": 1.7258, "foot": 0.5577, "cycle": 1.0}, "run": {"file": "drapion-run.png", "cell": 160, "scale": 1.7258, "foot": 0.5577, "cycle": 0.556}}, "src": "fallback-v4"}

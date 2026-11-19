@@ -1,0 +1,1 @@
+{"unit": 0.04465, "frames": 12, "modes": {"idle": {"file": "pincurchin-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.7166, "cycle": 2.0}, "walk": {"file": "pincurchin-walk.png", "cell": 160, "scale": 7.1442, "foot": 0.7166, "cycle": 1.0}, "run": {"file": "pincurchin-run.png", "cell": 160, "scale": 7.1442, "foot": 0.7166, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.04, "frames": 12, "modes": {"idle": {"file": "golett-idle.png", "cell": 160, "scale": 6.5362, "foot": 0.8615, "cycle": 2.0}, "walk": {"file": "golett-walk.png", "cell": 160, "scale": 6.4, "foot": 0.854, "cycle": 1.25}, "run": {"file": "golett-run.png", "cell": 160, "scale": 6.4, "foot": 0.854, "cycle": 0.694}}, "src": "fallback-v4"}

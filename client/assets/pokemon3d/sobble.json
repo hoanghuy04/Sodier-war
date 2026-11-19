@@ -1,0 +1,1 @@
+{"unit": 0.02783, "frames": 12, "modes": {"idle": {"file": "sobble-idle.png", "cell": 160, "scale": 4.4522, "foot": 0.795, "cycle": 2.0}, "walk": {"file": "sobble-walk.png", "cell": 160, "scale": 4.7628, "foot": 0.8044, "cycle": 2.0}, "run": {"file": "sobble-run.png", "cell": 160, "scale": 4.7628, "foot": 0.8044, "cycle": 1.111}}, "src": "fallback-v4"}

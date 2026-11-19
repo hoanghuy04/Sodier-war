@@ -1,0 +1,1 @@
+{"unit": 0.01882, "frames": 12, "modes": {"idle": {"file": "bastiodon-idle.png", "cell": 160, "scale": 3.167, "foot": 0.695, "cycle": 1.333}, "walk": {"file": "bastiodon-walk.png", "cell": 160, "scale": 3.1347, "foot": 0.7077, "cycle": 2.667}, "run": {"file": "bastiodon-run.png", "cell": 160, "scale": 3.0118, "foot": 0.7184, "cycle": 1.0}}, "src": "fallback-v4"}

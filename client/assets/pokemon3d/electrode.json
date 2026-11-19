@@ -1,0 +1,1 @@
+{"unit": 0.02909, "frames": 12, "modes": {"idle": {"file": "electrode-idle.png", "cell": 160, "scale": 5.0777, "foot": 0.7293, "cycle": 2.0}, "walk": {"file": "electrode-walk.png", "cell": 160, "scale": 4.7628, "foot": 0.7672, "cycle": 1.6}, "run": {"file": "electrode-run.png", "cell": 160, "scale": 4.7628, "foot": 0.7672, "cycle": 0.889}}, "src": "fallback-v4"}

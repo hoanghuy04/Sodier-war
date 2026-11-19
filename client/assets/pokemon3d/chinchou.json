@@ -1,0 +1,1 @@
+{"unit": 0.01794, "frames": 12, "modes": {"idle": {"file": "chinchou-idle.png", "cell": 160, "scale": 3.531, "foot": 0.5298, "cycle": 6.0}, "walk": {"file": "chinchou-walk.png", "cell": 160, "scale": 3.4517, "foot": 0.5237, "cycle": 0.792}, "run": {"file": "chinchou-run.png", "cell": 160, "scale": 2.871, "foot": 0.5601, "cycle": 1.0}}, "src": "fallback-v4"}

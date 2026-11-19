@@ -1,0 +1,1 @@
+{"unit": 0.02341, "frames": 12, "modes": {"idle": {"file": "wigglytuff-idle.png", "cell": 160, "scale": 3.9134, "foot": 0.8418, "cycle": 2.0}, "walk": {"file": "wigglytuff-walk.png", "cell": 160, "scale": 3.7926, "foot": 0.8164, "cycle": 1.0}, "run": {"file": "wigglytuff-run.png", "cell": 160, "scale": 3.7463, "foot": 0.8067, "cycle": 0.556}}, "src": "fallback-v4"}

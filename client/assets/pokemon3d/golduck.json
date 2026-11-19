@@ -1,0 +1,1 @@
+{"unit": 0.02931, "frames": 12, "modes": {"idle": {"file": "golduck-idle.png", "cell": 160, "scale": 4.9548, "foot": 0.836, "cycle": 2.667}, "walk": {"file": "golduck-walk.png", "cell": 160, "scale": 4.6901, "foot": 0.8071, "cycle": 1.0}, "run": {"file": "golduck-run.png", "cell": 160, "scale": 4.6901, "foot": 0.8071, "cycle": 0.556}}, "src": "fallback-v4"}

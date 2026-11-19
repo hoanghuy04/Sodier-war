@@ -1,0 +1,1 @@
+{"unit": 0.03282, "frames": 12, "modes": {"idle": {"file": "shiinotic-idle.png", "cell": 160, "scale": 5.2513, "foot": 0.8356, "cycle": 2.0}, "walk": {"file": "shiinotic-walk.png", "cell": 160, "scale": 5.2513, "foot": 0.8356, "cycle": 1.0}, "run": {"file": "shiinotic-run.png", "cell": 160, "scale": 5.2513, "foot": 0.8356, "cycle": 0.556}}, "src": "fallback-v4"}

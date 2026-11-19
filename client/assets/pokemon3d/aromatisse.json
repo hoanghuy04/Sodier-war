@@ -1,0 +1,1 @@
+{"unit": 0.03227, "frames": 12, "modes": {"idle": {"file": "aromatisse-idle.png", "cell": 160, "scale": 5.3895, "foot": 0.8318, "cycle": 2.0}, "walk": {"file": "aromatisse-walk.png", "cell": 160, "scale": 5.163, "foot": 0.8219, "cycle": 1.0}, "run": {"file": "aromatisse-run.png", "cell": 160, "scale": 5.163, "foot": 0.8219, "cycle": 0.556}}, "src": "fallback-v4"}

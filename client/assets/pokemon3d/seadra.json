@@ -1,0 +1,1 @@
+{"unit": 0.02182, "frames": 12, "modes": {"idle": {"file": "seadra-idle.png", "cell": 160, "scale": 3.4133, "foot": 0.5928, "cycle": 4.0}, "walk": {"file": "seadra-walk.png", "cell": 160, "scale": 3.1418, "foot": 0.5276, "cycle": 4.0}, "run": {"file": "seadra-run.png", "cell": 160, "scale": 3.1418, "foot": 0.5276, "cycle": 2.222}}, "src": "fallback-v4"}

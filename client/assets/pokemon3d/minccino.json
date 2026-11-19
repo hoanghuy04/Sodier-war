@@ -1,0 +1,1 @@
+{"unit": 0.03048, "frames": 12, "modes": {"idle": {"file": "minccino-idle.png", "cell": 160, "scale": 4.8762, "foot": 0.6935, "cycle": 2.0}, "walk": {"file": "minccino-walk.png", "cell": 160, "scale": 4.8762, "foot": 0.6935, "cycle": 1.0}, "run": {"file": "minccino-run.png", "cell": 160, "scale": 4.8762, "foot": 0.6935, "cycle": 0.556}}, "src": "fallback-v4"}

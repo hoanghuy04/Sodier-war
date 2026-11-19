@@ -1,0 +1,1 @@
+{"unit": 0.01263, "frames": 12, "modes": {"idle": {"file": "bouffalant-idle.png", "cell": 160, "scale": 2.345, "foot": 0.7506, "cycle": 2.0}, "walk": {"file": "bouffalant-walk.png", "cell": 160, "scale": 2.3814, "foot": 0.762, "cycle": 1.333}, "run": {"file": "bouffalant-run.png", "cell": 160, "scale": 2.0211, "foot": 0.6213, "cycle": 1.0}}, "src": "fallback-v4"}

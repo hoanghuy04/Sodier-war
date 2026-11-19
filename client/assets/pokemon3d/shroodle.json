@@ -1,0 +1,1 @@
+{"unit": 0.05333, "frames": 12, "modes": {"idle": {"file": "shroodle-idle.png", "cell": 160, "scale": 8.5333, "foot": 0.492, "cycle": 2.0}, "walk": {"file": "shroodle-walk.png", "cell": 160, "scale": 8.5333, "foot": 0.492, "cycle": 0.8}, "run": {"file": "shroodle-run.png", "cell": 160, "scale": 8.5333, "foot": 0.492, "cycle": 0.444}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01171, "frames": 12, "modes": {"idle": {"file": "naganadel-idle.png", "cell": 160, "scale": 1.8732, "foot": 0.8126, "cycle": 2.0}, "walk": {"file": "naganadel-walk.png", "cell": 160, "scale": 1.9443, "foot": 0.8123, "cycle": 2.0}, "run": {"file": "naganadel-run.png", "cell": 160, "scale": 1.9443, "foot": 0.8123, "cycle": 1.111}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03024, "frames": 12, "modes": {"idle": {"file": "tentacool-idle.png", "cell": 160, "scale": 4.8378, "foot": 0.8318, "cycle": 2.667}, "walk": {"file": "tentacool-idle.png", "cell": 160, "scale": 4.8378, "foot": 0.8318, "cycle": 2.667}, "run": {"file": "tentacool-idle.png", "cell": 160, "scale": 4.8378, "foot": 0.8318, "cycle": 2.667}}, "src": "fallback-v4"}

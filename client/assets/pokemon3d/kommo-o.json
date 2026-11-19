@@ -1,0 +1,1 @@
+{"unit": 0.00744, "frames": 12, "modes": {"idle": {"file": "kommo-o-idle.png", "cell": 160, "scale": 1.1907, "foot": 0.4457, "cycle": 2.0}, "walk": {"file": "kommo-o-walk.png", "cell": 160, "scale": 1.1907, "foot": 0.4457, "cycle": 1.0}, "run": {"file": "kommo-o-run.png", "cell": 160, "scale": 1.1907, "foot": 0.4457, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03227, "frames": 12, "modes": {"idle": {"file": "beheeyem-idle.png", "cell": 160, "scale": 5.3426, "foot": 0.975, "cycle": 4.0}, "walk": {"file": "beheeyem-walk.png", "cell": 160, "scale": 5.1892, "foot": 0.98, "cycle": 1.333}, "run": {"file": "beheeyem-run.png", "cell": 160, "scale": 5.1892, "foot": 0.98, "cycle": 0.741}}, "src": "fallback-v4"}

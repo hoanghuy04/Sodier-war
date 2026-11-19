@@ -1,0 +1,1 @@
+{"unit": 0.01352, "frames": 12, "modes": {"idle": {"file": "salazzle-idle.png", "cell": 160, "scale": 2.6034, "foot": 0.5626, "cycle": 2.0}, "walk": {"file": "salazzle-walk.png", "cell": 160, "scale": 2.1634, "foot": 0.5014, "cycle": 1.0}, "run": {"file": "salazzle-run.png", "cell": 160, "scale": 2.1634, "foot": 0.5014, "cycle": 0.556}}, "src": "fallback-v4"}

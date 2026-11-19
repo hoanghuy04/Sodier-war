@@ -1,0 +1,1 @@
+{"unit": 0.02526, "frames": 12, "modes": {"idle": {"file": "frogadier-idle.png", "cell": 160, "scale": 4.2082, "foot": 0.8643, "cycle": 2.0}, "walk": {"file": "frogadier-walk.png", "cell": 160, "scale": 4.0421, "foot": 0.8436, "cycle": 1.5}, "run": {"file": "frogadier-run.png", "cell": 160, "scale": 4.0421, "foot": 0.8436, "cycle": 0.833}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01627, "frames": 12, "modes": {"idle": {"file": "trevenant-idle.png", "cell": 160, "scale": 2.7801, "foot": 0.7993, "cycle": 4.0}, "walk": {"file": "trevenant-walk.png", "cell": 160, "scale": 2.6034, "foot": 0.7579, "cycle": 2.0}, "run": {"file": "trevenant-run.png", "cell": 160, "scale": 2.6034, "foot": 0.7579, "cycle": 1.111}}, "src": "fallback-v4"}

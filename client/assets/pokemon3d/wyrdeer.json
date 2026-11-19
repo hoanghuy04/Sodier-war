@@ -1,0 +1,1 @@
+{"unit": 0.02053, "frames": 12, "modes": {"idle": {"file": "wyrdeer-idle.png", "cell": 160, "scale": 3.679, "foot": 0.8788, "cycle": 4.0}, "walk": {"file": "wyrdeer-walk.png", "cell": 160, "scale": 3.4712, "foot": 0.8303, "cycle": 1.5}, "run": {"file": "wyrdeer-run.png", "cell": 160, "scale": 3.2856, "foot": 0.8383, "cycle": 1.167}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.048, "frames": 12, "modes": {"idle": {"file": "inkay-idle.png", "cell": 160, "scale": 6.912, "foot": 0.7155, "cycle": 2.0}, "walk": {"file": "inkay-idle.png", "cell": 160, "scale": 6.912, "foot": 0.7155, "cycle": 2.0}, "run": {"file": "inkay-idle.png", "cell": 160, "scale": 6.912, "foot": 0.7155, "cycle": 2.0}}, "src": "fallback-v4"}

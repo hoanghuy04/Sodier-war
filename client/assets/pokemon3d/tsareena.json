@@ -1,0 +1,1 @@
+{"unit": 0.02272, "frames": 12, "modes": {"idle": {"file": "tsareena-idle.png", "cell": 160, "scale": 3.6355, "foot": 0.88, "cycle": 2.0}, "walk": {"file": "tsareena-walk.png", "cell": 160, "scale": 3.6355, "foot": 0.88, "cycle": 1.0}, "run": {"file": "tsareena-run.png", "cell": 160, "scale": 3.6355, "foot": 0.88, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,388 @@
+{
+ "unitLvMult": [
+  1.7,
+  1.8,
+  1.9
+ ],
+ "bLvMult": [
+  2.3,
+  2.5,
+  2.7
+ ],
+ "barracks": [
+  500,
+  600,
+  700
+ ],
+ "unitCap": {
+  "dan-quan": [
+   2,
+   3,
+   4,
+   5,
+   5,
+   6,
+   7,
+   8
+  ],
+  "kiem-si": [
+   2,
+   3,
+   4,
+   5,
+   5,
+   6,
+   7,
+   8
+  ],
+  "linh-giao": [
+   2,
+   3,
+   4,
+   5,
+   5,
+   6,
+   7,
+   8
+  ],
+  "cung-thu": [
+   2,
+   3,
+   4,
+   5,
+   5,
+   6,
+   7,
+   8
+  ],
+  "ky-binh": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hiep-si": [
+   1,
+   2,
+   3,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "phap-su": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "may-ban-da": [
+   0,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "su-thuu": [
+   0,
+   0,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "rong": [
+   0,
+   0,
+   0,
+   0,
+   2,
+   2,
+   3,
+   4
+  ],
+  "cong-binh": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   3,
+   4
+  ],
+  "y-su": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   3
+  ],
+  "voi-chien": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ]
+ },
+ "newHousing": {
+  "cong-binh": 2,
+  "y-su": 5,
+  "voi-chien": 10
+ },
+ "newUnits": {
+  "cong-binh": {
+   "cls": "inf",
+   "hp": 135,
+   "atk": 450,
+   "cd": 1,
+   "armor": 0,
+   "sapper": true
+  },
+  "y-su": {
+   "cls": "magic",
+   "hp": 390,
+   "atk": 0,
+   "cd": 1,
+   "armor": 0.1,
+   "healer": true,
+   "heal": 36
+  },
+  "voi-chien": {
+   "cls": "siege",
+   "hp": 4800,
+   "atk": 105,
+   "cd": 1.6,
+   "armor": 0.35,
+   "aoe": 1.2,
+   "siegeMult": 2
+  }
+ },
+ "th": [
+  {
+   "hp": 13500,
+   "max": {
+    "thap-cung": 7,
+    "phao-da": 5,
+    "thap-phep": 4,
+    "tuong": 350,
+    "bom": 7,
+    "lo-xo": 3,
+    "bom-khi": 4,
+    "kho": 3,
+    "doanh-trai": 3,
+    "hoi-thanh": 1,
+    "coi-phao": 1,
+    "phong-khong": 1,
+    "be-vua": 1
+   }
+  },
+  {
+   "hp": 17000,
+   "max": {
+    "thap-cung": 7,
+    "phao-da": 5,
+    "thap-phep": 4,
+    "tuong": 400,
+    "bom": 8,
+    "lo-xo": 4,
+    "bom-khi": 4,
+    "kho": 4,
+    "doanh-trai": 3,
+    "hoi-thanh": 1,
+    "coi-phao": 2,
+    "phong-khong": 2,
+    "no-than": 1,
+    "cot-set": 2,
+    "be-vua": 1
+   }
+  },
+  {
+   "hp": 21000,
+   "max": {
+    "thap-cung": 8,
+    "phao-da": 6,
+    "thap-phep": 5,
+    "tuong": 450,
+    "bom": 8,
+    "lo-xo": 4,
+    "bom-khi": 5,
+    "kho": 4,
+    "doanh-trai": 3,
+    "hoi-thanh": 1,
+    "coi-phao": 2,
+    "phong-khong": 2,
+    "no-than": 2,
+    "cot-set": 3,
+    "phao-chum": 1,
+    "hoa-nguc": 1,
+    "be-vua": 1,
+    "be-nu-hoang": 1
+   }
+  }
+ ],
+ "castleMult": [
+  1,
+  1,
+  1,
+  1,
+  1,
+  1.2,
+  1.4,
+  1.6
+ ],
+ "newBuild": {
+  "coi-phao": {
+   "hp": 2520,
+   "armor": 0.2,
+   "atk": 280,
+   "cd": 5,
+   "aoe": 1.8,
+   "noFly": true,
+   "minRange": 4,
+   "lvMult": [
+    1,
+    1.25,
+    1.5
+   ],
+   "lvAt": {
+    "6": 2,
+    "7": 3,
+    "8": 3
+   }
+  },
+  "phong-khong": {
+   "hp": 2240,
+   "armor": 0.2,
+   "atk": 490,
+   "cd": 1,
+   "airOnly": true,
+   "lvMult": [
+    1,
+    1.25,
+    1.5
+   ],
+   "lvAt": {
+    "6": 2,
+    "7": 3,
+    "8": 3
+   }
+  },
+  "no-than": {
+   "hp": 3500,
+   "armor": 0.3,
+   "atk": 42,
+   "cd": 0.25,
+   "lvMult": [
+    1,
+    1.25,
+    1.5
+   ],
+   "lvAt": {
+    "7": 2,
+    "8": 3
+   }
+  },
+  "cot-set": {
+   "hp": 1260,
+   "armor": 0.1,
+   "atk": 112,
+   "cd": 1.6,
+   "chain": 2,
+   "hidden": true,
+   "lvMult": [
+    1,
+    1.25,
+    1.5
+   ],
+   "lvAt": {
+    "7": 2,
+    "8": 3
+   }
+  },
+  "phao-chum": {
+   "hp": 4200,
+   "armor": 0.3,
+   "atk": 350,
+   "cd": 4,
+   "cone": true,
+   "lvMult": [
+    1,
+    1.25,
+    1.5
+   ],
+   "lvAt": {
+    "8": 2
+   }
+  },
+  "hoa-nguc": {
+   "hp": 3080,
+   "armor": 0.25,
+   "atk": 84,
+   "cd": 1,
+   "ramp": 2.5,
+   "lvMult": [
+    1,
+    1.25,
+    1.5
+   ],
+   "lvAt": {
+    "8": 2
+   }
+  },
+  "be-vua": {
+   "hero": true,
+   "hp": 12600,
+   "armor": 0.3,
+   "atk": 308,
+   "cd": 1.4,
+   "aoe": 1,
+   "lvMult": [
+    1,
+    1.5,
+    2
+   ],
+   "lvAt": {
+    "6": 1,
+    "7": 2,
+    "8": 3
+   }
+  },
+  "be-nu-hoang": {
+   "hero": true,
+   "hp": 7000,
+   "armor": 0.2,
+   "atk": 252,
+   "cd": 0.9,
+   "lvMult": [
+    1,
+    1.5,
+    2
+   ],
+   "lvAt": {
+    "8": 1
+   }
+  }
+ }
+}

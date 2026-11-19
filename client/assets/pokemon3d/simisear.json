@@ -1,0 +1,1 @@
+{"unit": 0.01548, "frames": 12, "modes": {"idle": {"file": "simisear-idle.png", "cell": 160, "scale": 2.2297, "foot": 0.4813, "cycle": 2.0}, "walk": {"file": "simisear-walk.png", "cell": 160, "scale": 2.2297, "foot": 0.4813, "cycle": 1.0}, "run": {"file": "simisear-run.png", "cell": 160, "scale": 2.2297, "foot": 0.4813, "cycle": 0.556}}, "src": "fallback-v4"}

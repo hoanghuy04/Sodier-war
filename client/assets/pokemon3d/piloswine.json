@@ -1,0 +1,1 @@
+{"unit": 0.02667, "frames": 12, "modes": {"idle": {"file": "piloswine-idle.png", "cell": 160, "scale": 4.4201, "foot": 0.7203, "cycle": 2.0}, "walk": {"file": "piloswine-walk.png", "cell": 160, "scale": 4.4201, "foot": 0.7272, "cycle": 1.0}, "run": {"file": "piloswine-run.png", "cell": 160, "scale": 4.3268, "foot": 0.7393, "cycle": 1.0}}, "src": "fallback-v4"}

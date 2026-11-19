@@ -1,0 +1,1 @@
+{"unit": 0.01143, "frames": 12, "modes": {"idle": {"file": "xerneas-idle.png", "cell": 160, "scale": 1.8618, "foot": 0.9009, "cycle": 4.0}, "walk": {"file": "xerneas-walk.png", "cell": 160, "scale": 1.8286, "foot": 0.8851, "cycle": 2.667}, "run": {"file": "xerneas-run.png", "cell": 160, "scale": 1.8286, "foot": 0.8851, "cycle": 1.481}}, "src": "fallback-v4"}

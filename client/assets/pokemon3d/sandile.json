@@ -1,0 +1,1 @@
+{"unit": 0.04267, "frames": 12, "modes": {"idle": {"file": "sandile-idle.png", "cell": 160, "scale": 6.8267, "foot": 0.5683, "cycle": 4.0}, "walk": {"file": "sandile-walk.png", "cell": 160, "scale": 6.8267, "foot": 0.5789, "cycle": 1.0}, "run": {"file": "sandile-run.png", "cell": 160, "scale": 6.8267, "foot": 0.5789, "cycle": 0.556}}, "src": "fallback-v4"}

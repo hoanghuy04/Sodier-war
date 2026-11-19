@@ -1,0 +1,1 @@
+{"unit": 0.03692, "frames": 12, "modes": {"idle": {"file": "pansear-idle.png", "cell": 160, "scale": 5.9077, "foot": 0.836, "cycle": 2.0}, "walk": {"file": "pansear-walk.png", "cell": 160, "scale": 5.9077, "foot": 0.836, "cycle": 1.0}, "run": {"file": "pansear-run.png", "cell": 160, "scale": 5.9077, "foot": 0.836, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01574, "frames": 12, "modes": {"idle": {"file": "registeel-idle.png", "cell": 160, "scale": 2.518, "foot": 0.7258, "cycle": 2.0}, "walk": {"file": "registeel-walk.png", "cell": 160, "scale": 2.518, "foot": 0.7258, "cycle": 1.0}, "run": {"file": "registeel-run.png", "cell": 160, "scale": 2.518, "foot": 0.7258, "cycle": 0.556}}, "src": "fallback-v4"}

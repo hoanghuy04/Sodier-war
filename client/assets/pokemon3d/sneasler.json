@@ -1,0 +1,1 @@
+{"unit": 0.01939, "frames": 12, "modes": {"idle": {"file": "sneasler-idle.png", "cell": 160, "scale": 3.2, "foot": 0.872, "cycle": 2.667}, "walk": {"file": "sneasler-walk.png", "cell": 160, "scale": 3.1188, "foot": 0.8601, "cycle": 1.25}, "run": {"file": "sneasler-run.png", "cell": 160, "scale": 3.2337, "foot": 0.8507, "cycle": 0.5}}, "src": "fallback-v4"}

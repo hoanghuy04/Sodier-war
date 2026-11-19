@@ -1,0 +1,1 @@
+{"unit": 0.03227, "frames": 12, "modes": {"idle": {"file": "shieldon-idle.png", "cell": 160, "scale": 5.6889, "foot": 0.7169, "cycle": 2.0}, "walk": {"file": "shieldon-walk.png", "cell": 160, "scale": 5.5855, "foot": 0.7129, "cycle": 1.333}, "run": {"file": "shieldon-run.png", "cell": 160, "scale": 5.163, "foot": 0.7735, "cycle": 0.5}}, "src": "fallback-v4"}

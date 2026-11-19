@@ -1,0 +1,1 @@
+{"unit": 0.02021, "frames": 12, "modes": {"idle": {"file": "linoone-idle.png", "cell": 160, "scale": 3.3391, "foot": 0.4499, "cycle": 2.0}, "walk": {"file": "linoone-walk.png", "cell": 160, "scale": 3.2681, "foot": 0.3846, "cycle": 0.667}, "run": {"file": "linoone-run.png", "cell": 160, "scale": 3.2337, "foot": 0.5222, "cycle": 0.333}}, "src": "fallback-v4"}

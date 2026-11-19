@@ -1,0 +1,1 @@
+{"unit": 0.01613, "frames": 12, "modes": {"idle": {"file": "hariyama-idle.png", "cell": 160, "scale": 2.6483, "foot": 0.5306, "cycle": 2.0}, "walk": {"file": "hariyama-walk.png", "cell": 160, "scale": 2.5815, "foot": 0.5177, "cycle": 1.0}, "run": {"file": "hariyama-run.png", "cell": 160, "scale": 2.5815, "foot": 0.5218, "cycle": 0.556}}, "src": "fallback-v4"}

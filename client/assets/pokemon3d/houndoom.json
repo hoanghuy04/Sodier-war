@@ -1,0 +1,1 @@
+{"unit": 0.01512, "frames": 12, "modes": {"idle": {"file": "houndoom-idle.png", "cell": 160, "scale": 2.4189, "foot": 0.7056, "cycle": 2.0}, "walk": {"file": "houndoom-walk.png", "cell": 160, "scale": 2.4189, "foot": 0.7056, "cycle": 1.0}, "run": {"file": "houndoom-run.png", "cell": 160, "scale": 2.4189, "foot": 0.7056, "cycle": 0.556}}, "src": "fallback-v4"}

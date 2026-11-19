@@ -1,0 +1,1 @@
+{"unit": 0.01129, "frames": 12, "modes": {"idle": {"file": "aggron-idle.png", "cell": 160, "scale": 1.8071, "foot": 0.6367, "cycle": 2.0}, "walk": {"file": "aggron-walk.png", "cell": 160, "scale": 1.8071, "foot": 0.6367, "cycle": 1.0}, "run": {"file": "aggron-run.png", "cell": 160, "scale": 1.8071, "foot": 0.6367, "cycle": 0.556}}, "src": "fallback-v4"}

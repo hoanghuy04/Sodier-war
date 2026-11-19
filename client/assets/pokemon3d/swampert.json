@@ -1,0 +1,1 @@
+{"unit": 0.0162, "frames": 12, "modes": {"idle": {"file": "swampert-idle.png", "cell": 160, "scale": 2.6597, "foot": 0.803, "cycle": 2.0}, "walk": {"file": "swampert-walk.png", "cell": 160, "scale": 2.6034, "foot": 0.7864, "cycle": 1.0}, "run": {"file": "swampert-run.png", "cell": 160, "scale": 2.5924, "foot": 0.7831, "cycle": 0.556}}, "src": "fallback-v4"}

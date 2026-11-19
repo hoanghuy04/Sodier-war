@@ -1,0 +1,1 @@
+{"unit": 0.032, "frames": 12, "modes": {"idle": {"file": "impidimp-idle.png", "cell": 160, "scale": 4.6861, "foot": 0.6233, "cycle": 2.0}, "walk": {"file": "impidimp-walk.png", "cell": 160, "scale": 4.608, "foot": 0.6133, "cycle": 1.0}, "run": {"file": "impidimp-run.png", "cell": 160, "scale": 4.608, "foot": 0.6133, "cycle": 0.556}}, "src": "fallback-v4"}

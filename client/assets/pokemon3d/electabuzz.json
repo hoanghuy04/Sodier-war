@@ -1,0 +1,1 @@
+{"unit": 0.02494, "frames": 12, "modes": {"idle": {"file": "electabuzz-idle.png", "cell": 160, "scale": 3.9896, "foot": 0.6521, "cycle": 2.0}, "walk": {"file": "electabuzz-walk.png", "cell": 160, "scale": 4.2082, "foot": 0.7065, "cycle": 1.333}, "run": {"file": "electabuzz-run.png", "cell": 160, "scale": 4.2082, "foot": 0.7065, "cycle": 0.741}}, "src": "fallback-v4"}

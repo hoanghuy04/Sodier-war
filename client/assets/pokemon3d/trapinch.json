@@ -1,0 +1,1 @@
+{"unit": 0.02824, "frames": 12, "modes": {"idle": {"file": "trapinch-idle.png", "cell": 160, "scale": 4.5176, "foot": 0.6087, "cycle": 2.0}, "walk": {"file": "trapinch-walk.png", "cell": 160, "scale": 4.5176, "foot": 0.6087, "cycle": 1.0}, "run": {"file": "trapinch-run.png", "cell": 160, "scale": 4.5176, "foot": 0.6087, "cycle": 0.556}}, "src": "fallback-v4"}

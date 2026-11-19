@@ -1,0 +1,1 @@
+{"unit": 0.01208, "frames": 12, "modes": {"idle": {"file": "samurott-idle.png", "cell": 160, "scale": 2.0344, "foot": 0.6316, "cycle": 2.0}, "walk": {"file": "samurott-walk.png", "cell": 160, "scale": 1.9321, "foot": 0.6008, "cycle": 1.0}, "run": {"file": "samurott-run.png", "cell": 160, "scale": 1.9321, "foot": 0.6008, "cycle": 0.556}}, "src": "fallback-v4"}

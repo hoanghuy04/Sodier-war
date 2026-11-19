@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "ivysaur-idle.png", "cell": 160, "scale": 4.8, "foot": 0.6605, "cycle": 1.333}, "walk": {"file": "ivysaur-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.6461, "cycle": 1.333}, "run": {"file": "ivysaur-run.png", "cell": 160, "scale": 4.5851, "foot": 0.6461, "cycle": 0.741}}}

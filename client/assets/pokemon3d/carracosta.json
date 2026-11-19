@@ -1,0 +1,1 @@
+{"unit": 0.02286, "frames": 12, "modes": {"idle": {"file": "carracosta-idle.png", "cell": 160, "scale": 4.0689, "foot": 0.7791, "cycle": 4.0}, "walk": {"file": "carracosta-walk.png", "cell": 160, "scale": 3.6571, "foot": 0.7251, "cycle": 2.0}, "run": {"file": "carracosta-run.png", "cell": 160, "scale": 3.6571, "foot": 0.7251, "cycle": 1.111}}, "src": "fallback-v4"}

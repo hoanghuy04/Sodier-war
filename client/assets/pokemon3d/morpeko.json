@@ -1,0 +1,1 @@
+{"unit": 0.04085, "frames": 12, "modes": {"idle": {"file": "morpeko-idle.png", "cell": 160, "scale": 6.5362, "foot": 0.8309, "cycle": 2.0}, "walk": {"file": "morpeko-walk.png", "cell": 160, "scale": 6.5362, "foot": 0.8309, "cycle": 1.0}, "run": {"file": "morpeko-run.png", "cell": 160, "scale": 6.5362, "foot": 0.8309, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03148, "frames": 12, "modes": {"idle": {"file": "slurpuff-idle.png", "cell": 160, "scale": 5.12, "foot": 0.7912, "cycle": 2.0}, "walk": {"file": "slurpuff-walk.png", "cell": 160, "scale": 5.0777, "foot": 0.7848, "cycle": 1.0}, "run": {"file": "slurpuff-run.png", "cell": 160, "scale": 5.0361, "foot": 0.7786, "cycle": 0.556}}, "src": "fallback-v4"}

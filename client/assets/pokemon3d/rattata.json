@@ -1,0 +1,1 @@
+{"unit": 0.02909, "frames": 12, "modes": {"idle": {"file": "rattata-idle.png", "cell": 160, "scale": 6.9034, "foot": 0.8117, "cycle": 21.375}, "walk": {"file": "rattata-walk.png", "cell": 160, "scale": 4.6545, "foot": 0.6775, "cycle": 1.0}, "run": {"file": "rattata-run.png", "cell": 160, "scale": 4.6545, "foot": 0.6775, "cycle": 0.556}}, "src": "fallback-v4"}

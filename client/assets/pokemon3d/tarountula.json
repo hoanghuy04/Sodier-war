@@ -1,0 +1,1 @@
+{"unit": 0.03148, "frames": 12, "modes": {"idle": {"file": "tarountula-idle.png", "cell": 160, "scale": 5.0777, "foot": 0.8166, "cycle": 2.0}, "walk": {"file": "tarountula-walk.png", "cell": 160, "scale": 5.0361, "foot": 0.81, "cycle": 1.0}, "run": {"file": "tarountula-run.png", "cell": 160, "scale": 5.0777, "foot": 0.8166, "cycle": 0.556}}, "src": "fallback-v4"}

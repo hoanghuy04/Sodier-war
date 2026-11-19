@@ -1,0 +1,1 @@
+{"unit": 0.02341, "frames": 12, "modes": {"idle": {"file": "glameow-idle.png", "cell": 160, "scale": 3.7693, "foot": 0.8999, "cycle": 2.0}, "walk": {"file": "glameow-walk.png", "cell": 160, "scale": 3.7463, "foot": 0.8945, "cycle": 1.0}, "run": {"file": "glameow-run.png", "cell": 160, "scale": 3.7463, "foot": 0.8945, "cycle": 0.556}}, "src": "fallback-v4"}

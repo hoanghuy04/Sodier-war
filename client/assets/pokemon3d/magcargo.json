@@ -1,0 +1,1 @@
+{"unit": 0.02526, "frames": 12, "modes": {"idle": {"file": "magcargo-idle.png", "cell": 160, "scale": 4.1514, "foot": 0.6972, "cycle": 4.0}, "walk": {"file": "magcargo-walk.png", "cell": 160, "scale": 4.0421, "foot": 0.6857, "cycle": 2.0}, "run": {"file": "magcargo-run.png", "cell": 160, "scale": 4.0421, "foot": 0.6857, "cycle": 1.111}}, "src": "fallback-v4"}

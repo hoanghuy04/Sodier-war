@@ -1,0 +1,1 @@
+{"unit": 0.02207, "frames": 12, "modes": {"idle": {"file": "rapidash-idle.png", "cell": 160, "scale": 4.0157, "foot": 0.8507, "cycle": 2.0}, "walk": {"file": "rapidash-walk.png", "cell": 160, "scale": 3.7926, "foot": 0.8224, "cycle": 2.667}, "run": {"file": "rapidash-run.png", "cell": 160, "scale": 3.531, "foot": 0.7781, "cycle": 1.0}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "oinkologne-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.6379, "cycle": 4.0}, "walk": {"file": "oinkologne-walk.png", "cell": 160, "scale": 4.3268, "foot": 0.6447, "cycle": 1.333}, "run": {"file": "oinkologne-run.png", "cell": 160, "scale": 4.3268, "foot": 0.6447, "cycle": 0.741}}, "src": "fallback-v4"}

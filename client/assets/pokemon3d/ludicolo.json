@@ -1,0 +1,1 @@
+{"unit": 0.0256, "frames": 12, "modes": {"idle": {"file": "ludicolo-idle.png", "cell": 160, "scale": 4.2667, "foot": 0.776, "cycle": 2.0}, "walk": {"file": "ludicolo-walk.png", "cell": 160, "scale": 4.096, "foot": 0.7458, "cycle": 2.0}, "run": {"file": "ludicolo-run.png", "cell": 160, "scale": 4.096, "foot": 0.7458, "cycle": 1.111}}, "src": "fallback-v4"}

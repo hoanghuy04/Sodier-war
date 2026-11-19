@@ -1,0 +1,1 @@
+{"unit": 0.04683, "frames": 12, "modes": {"idle": {"file": "litwick-idle.png", "cell": 160, "scale": 7.9792, "foot": 0.7855, "cycle": 2.0}, "walk": {"file": "litwick-walk.png", "cell": 160, "scale": 7.4927, "foot": 0.7857, "cycle": 1.0}, "run": {"file": "litwick-run.png", "cell": 160, "scale": 7.4927, "foot": 0.7857, "cycle": 0.556}}, "src": "fallback-v4"}

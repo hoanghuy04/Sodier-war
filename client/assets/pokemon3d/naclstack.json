@@ -1,0 +1,1 @@
+{"unit": 0.03623, "frames": 12, "modes": {"idle": {"file": "naclstack-idle.png", "cell": 160, "scale": 6.5362, "foot": 0.5551, "cycle": 2.0}, "walk": {"file": "naclstack-walk.png", "cell": 160, "scale": 5.7962, "foot": 0.5036, "cycle": 1.333}, "run": {"file": "naclstack-run.png", "cell": 160, "scale": 5.7962, "foot": 0.5036, "cycle": 0.741}}, "src": "fallback-v4"}

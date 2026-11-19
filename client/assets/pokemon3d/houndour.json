@@ -1,0 +1,1 @@
+{"unit": 0.03623, "frames": 12, "modes": {"idle": {"file": "houndour-idle.png", "cell": 160, "scale": 5.8514, "foot": 0.8191, "cycle": 2.0}, "walk": {"file": "houndour-walk.png", "cell": 160, "scale": 5.7962, "foot": 0.8115, "cycle": 1.0}, "run": {"file": "houndour-run.png", "cell": 160, "scale": 5.7962, "foot": 0.8115, "cycle": 0.556}}, "src": "fallback-v4"}

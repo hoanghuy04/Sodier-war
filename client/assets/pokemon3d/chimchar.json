@@ -1,0 +1,1 @@
+{"unit": 0.03024, "frames": 12, "modes": {"idle": {"file": "chimchar-idle.png", "cell": 160, "scale": 5.2663, "foot": 0.7639, "cycle": 1.0}, "walk": {"file": "chimchar-walk.png", "cell": 160, "scale": 4.6467, "foot": 0.6981, "cycle": 2.0}, "run": {"file": "chimchar-run.png", "cell": 160, "scale": 4.4237, "foot": 0.7209, "cycle": 0.5}}, "src": "fallback-v4"}

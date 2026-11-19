@@ -1,0 +1,1 @@
+{"unit": 0.03491, "frames": 12, "modes": {"idle": {"file": "maushold-idle.png", "cell": 160, "scale": 5.0269, "foot": 0.5337, "cycle": 0.8}, "walk": {"file": "maushold-walk.png", "cell": 160, "scale": 5.0269, "foot": 0.6122, "cycle": 0.667}, "run": {"file": "maushold-run.png", "cell": 160, "scale": 5.0269, "foot": 0.6122, "cycle": 0.37}}, "src": "fallback-v4"}

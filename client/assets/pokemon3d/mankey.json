@@ -1,0 +1,1 @@
+{"unit": 0.03, "frames": 12, "modes": {"idle": {"file": "mankey-idle.png", "cell": 160, "scale": 5.2068, "foot": 0.8694, "cycle": 1.0}, "walk": {"file": "mankey-walk.png", "cell": 160, "scale": 4.8, "foot": 0.878, "cycle": 1.0}, "run": {"file": "mankey-run.png", "cell": 160, "scale": 4.8, "foot": 0.878, "cycle": 0.556}}, "src": "fallback-v4"}

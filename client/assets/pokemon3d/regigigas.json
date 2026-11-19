@@ -1,0 +1,1 @@
+{"unit": 0.00549, "frames": 12, "modes": {"idle": {"file": "regigigas-idle.png", "cell": 160, "scale": 0.8777, "foot": 0.6273, "cycle": 2.0}, "walk": {"file": "regigigas-walk.png", "cell": 160, "scale": 0.8777, "foot": 0.6273, "cycle": 1.0}, "run": {"file": "regigigas-run.png", "cell": 160, "scale": 0.8777, "foot": 0.6273, "cycle": 0.556}}, "src": "fallback-v4"}

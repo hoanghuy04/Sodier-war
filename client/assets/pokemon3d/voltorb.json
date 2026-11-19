@@ -1,0 +1,1 @@
+{"unit": 0.05333, "frames": 12, "modes": {"idle": {"file": "voltorb-idle.png", "cell": 160, "scale": 9.0353, "foot": 0.7598, "cycle": 1.333}, "walk": {"file": "voltorb-walk.png", "cell": 160, "scale": 8.6535, "foot": 0.7826, "cycle": 1.6}, "run": {"file": "voltorb-run.png", "cell": 160, "scale": 8.6535, "foot": 0.7826, "cycle": 0.889}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.0078, "frames": 12, "modes": {"idle": {"file": "regieleki-idle.png", "cell": 160, "scale": 1.2488, "foot": 0.4313, "cycle": 1.5}, "walk": {"file": "regieleki-walk.png", "cell": 160, "scale": 1.259, "foot": 0.4347, "cycle": 1.0}, "run": {"file": "regieleki-run.png", "cell": 160, "scale": 1.2694, "foot": 0.446, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.02954, "frames": 12, "modes": {"idle": {"file": "numel-idle.png", "cell": 160, "scale": 4.7262, "foot": 0.7245, "cycle": 2.0}, "walk": {"file": "numel-walk.png", "cell": 160, "scale": 4.7262, "foot": 0.7319, "cycle": 2.0}, "run": {"file": "numel-run.png", "cell": 160, "scale": 4.9152, "foot": 0.7988, "cycle": 0.667}}, "src": "fallback-v4"}

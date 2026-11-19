@@ -1,0 +1,1 @@
+{"unit": 0.02182, "frames": 12, "modes": {"idle": {"file": "overqwil-idle.png", "cell": 160, "scale": 3.4909, "foot": 0.8949, "cycle": 2.0}, "walk": {"file": "overqwil-idle.png", "cell": 160, "scale": 3.4909, "foot": 0.8949, "cycle": 2.0}, "run": {"file": "overqwil-idle.png", "cell": 160, "scale": 3.4909, "foot": 0.8949, "cycle": 2.0}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.01855, "frames": 12, "modes": {"idle": {"file": "ceruledge-idle.png", "cell": 160, "scale": 2.9971, "foot": 0.8508, "cycle": 2.0}, "walk": {"file": "ceruledge-walk.png", "cell": 160, "scale": 2.9825, "foot": 0.856, "cycle": 1.0}, "run": {"file": "ceruledge-run.png", "cell": 160, "scale": 2.9825, "foot": 0.856, "cycle": 0.556}}, "src": "fallback-v4"}

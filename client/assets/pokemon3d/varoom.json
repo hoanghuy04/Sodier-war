@@ -1,0 +1,1 @@
+{"unit": 0.02704, "frames": 12, "modes": {"idle": {"file": "varoom-idle.png", "cell": 160, "scale": 4.3268, "foot": 0.4824, "cycle": 4.0}, "walk": {"file": "varoom-walk.png", "cell": 160, "scale": 4.3886, "foot": 0.4822, "cycle": 4.0}, "run": {"file": "varoom-run.png", "cell": 160, "scale": 4.5851, "foot": 0.5172, "cycle": 4.0}}, "src": "fallback-v4"}

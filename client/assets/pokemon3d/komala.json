@@ -1,0 +1,1 @@
+{"unit": 0.032, "frames": 12, "modes": {"idle": {"file": "komala-idle.png", "cell": 160, "scale": 5.12, "foot": 0.6552, "cycle": 2.0}, "walk": {"file": "komala-walk.png", "cell": 160, "scale": 5.12, "foot": 0.6552, "cycle": 1.0}, "run": {"file": "komala-run.png", "cell": 160, "scale": 5.12, "foot": 0.6552, "cycle": 0.556}}, "src": "fallback-v4"}

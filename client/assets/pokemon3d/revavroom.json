@@ -1,0 +1,1 @@
+{"unit": 0.01829, "frames": 12, "modes": {"idle": {"file": "revavroom-idle.png", "cell": 160, "scale": 2.9257, "foot": 0.5841, "cycle": 4.0}, "walk": {"file": "revavroom-walk.png", "cell": 160, "scale": 3.0416, "foot": 0.5827, "cycle": 4.0}, "run": {"file": "revavroom-run.png", "cell": 160, "scale": 3.0416, "foot": 0.6112, "cycle": 63.542}}, "src": "fallback-v4"}

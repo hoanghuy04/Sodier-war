@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "scrafty-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.8109, "cycle": 2.0}, "walk": {"file": "scrafty-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.8109, "cycle": 1.0}, "run": {"file": "scrafty-run.png", "cell": 160, "scale": 4.5851, "foot": 0.8109, "cycle": 0.556}}, "src": "fallback-v4"}

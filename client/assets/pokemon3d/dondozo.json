@@ -1,0 +1,1 @@
+{"unit": 0.00429, "frames": 12, "modes": {"idle": {"file": "dondozo-idle.png", "cell": 160, "scale": 0.7111, "foot": 0.3329, "cycle": 4.0}, "walk": {"file": "dondozo-walk.png", "cell": 160, "scale": 0.6857, "foot": 0.326, "cycle": 1.5}, "run": {"file": "dondozo-run.png", "cell": 160, "scale": 0.6857, "foot": 0.326, "cycle": 0.833}}, "src": "fallback-v4"}

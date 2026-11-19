@@ -1,0 +1,1 @@
+{"unit": 0.04923, "frames": 12, "modes": {"idle": {"file": "omanyte-idle.png", "cell": 160, "scale": 8.0842, "foot": 0.6061, "cycle": 4.0}, "walk": {"file": "omanyte-walk.png", "cell": 160, "scale": 7.8769, "foot": 0.5911, "cycle": 1.333}, "run": {"file": "omanyte-run.png", "cell": 160, "scale": 7.8769, "foot": 0.5911, "cycle": 0.741}}, "src": "fallback-v4"}

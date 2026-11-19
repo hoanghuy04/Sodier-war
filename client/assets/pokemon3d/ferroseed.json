@@ -1,0 +1,1 @@
+{"unit": 0.04085, "frames": 12, "modes": {"idle": {"file": "ferroseed-idle.png", "cell": 160, "scale": 6.8267, "foot": 0.8029, "cycle": 2.0}, "walk": {"file": "ferroseed-walk.png", "cell": 160, "scale": 6.5362, "foot": 0.7594, "cycle": 1.0}, "run": {"file": "ferroseed-run.png", "cell": 160, "scale": 6.5362, "foot": 0.7594, "cycle": 0.556}}, "src": "fallback-v4"}

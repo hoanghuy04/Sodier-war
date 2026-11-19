@@ -1,0 +1,1 @@
+{"unit": 0.01892, "frames": 12, "modes": {"idle": {"file": "malamar-idle.png", "cell": 160, "scale": 3.0266, "foot": 0.8258, "cycle": 2.0}, "walk": {"file": "malamar-walk.png", "cell": 160, "scale": 3.0266, "foot": 0.8258, "cycle": 1.0}, "run": {"file": "malamar-run.png", "cell": 160, "scale": 3.0266, "foot": 0.8258, "cycle": 0.556}}, "src": "fallback-v4"}

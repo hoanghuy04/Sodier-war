@@ -1,0 +1,1 @@
+{"unit": 0.02098, "frames": 12, "modes": {"idle": {"file": "scorbunny-idle.png", "cell": 160, "scale": 4.6545, "foot": 0.8738, "cycle": 1.0}, "walk": {"file": "scorbunny-walk.png", "cell": 160, "scale": 3.3574, "foot": 0.8247, "cycle": 1.667}, "run": {"file": "scorbunny-run.png", "cell": 160, "scale": 3.3574, "foot": 0.8247, "cycle": 0.926}}, "src": "fallback-v4"}

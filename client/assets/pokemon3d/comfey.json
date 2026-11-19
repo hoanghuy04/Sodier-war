@@ -1,0 +1,1 @@
+{"unit": 0.01882, "frames": 12, "modes": {"idle": {"file": "comfey-idle.png", "cell": 160, "scale": 3.103, "foot": 0.8171, "cycle": 2.0}, "walk": {"file": "comfey-walk.png", "cell": 160, "scale": 3.0118, "foot": 0.7607, "cycle": 2.0}, "run": {"file": "comfey-run.png", "cell": 160, "scale": 3.0118, "foot": 0.7607, "cycle": 1.111}}, "src": "fallback-v4"}

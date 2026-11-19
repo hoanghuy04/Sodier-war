@@ -1,0 +1,1 @@
+{"unit": 0.0512, "frames": 12, "modes": {"idle": {"file": "igglybuff-idle.png", "cell": 160, "scale": 8.192, "foot": 0.7931, "cycle": 2.0}, "walk": {"file": "igglybuff-walk.png", "cell": 160, "scale": 8.192, "foot": 0.7931, "cycle": 1.0}, "run": {"file": "igglybuff-run.png", "cell": 160, "scale": 8.192, "foot": 0.7931, "cycle": 0.556}}, "src": "fallback-v4"}

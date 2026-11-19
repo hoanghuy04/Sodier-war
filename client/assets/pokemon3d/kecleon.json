@@ -1,0 +1,1 @@
+{"unit": 0.02844, "frames": 12, "modes": {"idle": {"file": "kecleon-idle.png", "cell": 160, "scale": 4.7262, "foot": 0.791, "cycle": 4.0}, "walk": {"file": "kecleon-walk.png", "cell": 160, "scale": 4.8, "foot": 0.8405, "cycle": 1.25}, "run": {"file": "kecleon-run.png", "cell": 160, "scale": 4.8, "foot": 0.8405, "cycle": 0.694}}, "src": "fallback-v4"}

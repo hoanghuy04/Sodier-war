@@ -1,0 +1,1 @@
+{"unit": 0.02087, "frames": 12, "modes": {"idle": {"file": "octillery-idle.png", "cell": 160, "scale": 3.3391, "foot": 0.4812, "cycle": 2.0}, "walk": {"file": "octillery-walk.png", "cell": 160, "scale": 3.3391, "foot": 0.4812, "cycle": 1.0}, "run": {"file": "octillery-run.png", "cell": 160, "scale": 3.3391, "foot": 0.4812, "cycle": 0.556}}, "src": "fallback-v4"}

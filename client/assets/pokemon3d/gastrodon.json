@@ -1,0 +1,1 @@
+{"unit": 0.0199, "frames": 12, "modes": {"idle": {"file": "gastrodon-idle.png", "cell": 160, "scale": 3.3032, "foot": 0.7756, "cycle": 2.0}, "walk": {"file": "gastrodon-walk.png", "cell": 160, "scale": 3.2337, "foot": 0.7749, "cycle": 1.0}, "run": {"file": "gastrodon-run.png", "cell": 160, "scale": 3.2856, "foot": 0.7562, "cycle": 0.333}}, "src": "fallback-v4"}

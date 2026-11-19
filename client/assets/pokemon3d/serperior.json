@@ -1,0 +1,1 @@
+{"unit": 0.00649, "frames": 12, "modes": {"idle": {"file": "serperior-idle.png", "cell": 160, "scale": 2.3631, "foot": 0.562, "cycle": 4.0}, "walk": {"file": "serperior-walk.png", "cell": 160, "scale": 1.0667, "foot": 0.338, "cycle": 4.0}, "run": {"file": "serperior-run.png", "cell": 160, "scale": 1.0378, "foot": 0.3067, "cycle": 2.0}}, "src": "fallback-v4"}

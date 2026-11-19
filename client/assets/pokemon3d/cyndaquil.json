@@ -1,0 +1,1 @@
+{"unit": 0.0256, "frames": 12, "modes": {"idle": {"file": "cyndaquil-idle.png", "cell": 160, "scale": 4.2082, "foot": 0.5815, "cycle": 1.333}, "walk": {"file": "cyndaquil-walk.png", "cell": 160, "scale": 4.096, "foot": 0.5666, "cycle": 1.0}, "run": {"file": "cyndaquil-run.png", "cell": 160, "scale": 4.3886, "foot": 0.5782, "cycle": 1.333}}, "src": "fallback-v4"}

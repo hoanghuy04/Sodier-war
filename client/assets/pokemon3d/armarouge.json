@@ -1,0 +1,1 @@
+{"unit": 0.016, "frames": 12, "modes": {"idle": {"file": "armarouge-idle.png", "cell": 160, "scale": 2.9538, "foot": 0.8757, "cycle": 2.0}, "walk": {"file": "armarouge-walk.png", "cell": 160, "scale": 2.7552, "foot": 0.8397, "cycle": 1.0}, "run": {"file": "armarouge-run.png", "cell": 160, "scale": 2.56, "foot": 0.7616, "cycle": 0.5}}, "src": "fallback-v4"}

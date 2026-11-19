@@ -1,0 +1,508 @@
+{
+ "soi-con": {
+  "v": 565428412,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "dung": 4,
+   "di": 6,
+   "bien-hinh": 6,
+   "trung": 2,
+   "vui": 6,
+   "nghi": 6
+  },
+  "big": {
+   "chien-dung": 4,
+   "chien-chay": 6,
+   "chien-danh": 6,
+   "chien-trung": 2,
+   "chieu": 6,
+   "chien-guc": 6
+  }
+ },
+ "ty-huu": {
+  "v": 566671414,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "cuu-vi-ho": {
+  "v": 566723671,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "huyen-vu": {
+  "v": 566741976,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "tien-hac": {
+  "v": 569602390,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "chu-tuoc": {
+  "v": 569601573,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "bach-ho": {
+  "v": 566796789,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "thanh-long": {
+  "v": 569600822,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "rong-con": {
+  "v": 569600226,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "tho-ngoc": {
+  "v": 566873071,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "dai-bang": {
+  "v": 569598796,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "cao-lua": {
+  "v": 566909702,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "rua-da": {
+  "v": 566927827,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "gau-truc": {
+  "v": 566946311,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "meo-than-tai": {
+  "v": 566964278,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "phuong-hoang": {
+  "v": 569604465,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 6,
+   "chieu": 1
+  }
+ },
+ "thao-thiet": {
+  "v": 567166099,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "bach-trach": {
+  "v": 567189912,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "ung-long": {
+  "v": 569603918,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "con-bang": {
+  "v": 569603178,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "ky-lan": {
+  "v": 567264978,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ },
+ "lac-da-vang": {
+  "v": 567385932,
+  "cell": {
+   "small": 128,
+   "big": 192
+  },
+  "small": {
+   "vui": 1,
+   "trung": 1,
+   "dung": 1,
+   "nghi": 1,
+   "bien-hinh": 1,
+   "di": 1
+  },
+  "big": {
+   "chien-danh": 1,
+   "chien-dung": 1,
+   "chien-guc": 1,
+   "chien-trung": 1,
+   "chien-chay": 1,
+   "chieu": 1
+  }
+ }
+}

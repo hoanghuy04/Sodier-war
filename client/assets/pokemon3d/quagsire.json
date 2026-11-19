@@ -1,0 +1,1 @@
+{"unit": 0.03, "frames": 12, "modes": {"idle": {"file": "quagsire-idle.png", "cell": 160, "scale": 4.8, "foot": 0.7205, "cycle": 2.0}, "walk": {"file": "quagsire-walk.png", "cell": 160, "scale": 4.8, "foot": 0.7205, "cycle": 1.0}, "run": {"file": "quagsire-run.png", "cell": 160, "scale": 4.8, "foot": 0.7205, "cycle": 0.556}}, "src": "fallback-v4"}

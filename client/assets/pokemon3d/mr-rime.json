@@ -1,0 +1,1 @@
+{"unit": 0.01829, "frames": 12, "modes": {"idle": {"file": "mr-rime-idle.png", "cell": 160, "scale": 2.9257, "foot": 0.799, "cycle": 2.0}, "walk": {"file": "mr-rime-walk.png", "cell": 160, "scale": 2.9257, "foot": 0.799, "cycle": 1.0}, "run": {"file": "mr-rime-run.png", "cell": 160, "scale": 2.9257, "foot": 0.799, "cycle": 0.556}}, "src": "fallback-v4"}

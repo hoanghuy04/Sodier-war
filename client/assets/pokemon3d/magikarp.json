@@ -1,0 +1,1 @@
+{"unit": 0.03254, "frames": 12, "modes": {"idle": {"file": "magikarp-idle.png", "cell": 160, "scale": 5.6889, "foot": 0.7791, "cycle": 1.583}, "walk": {"file": "magikarp-walk.png", "cell": 160, "scale": 5.2068, "foot": 0.6985, "cycle": 8.0}, "run": {"file": "magikarp-run.png", "cell": 160, "scale": 5.2068, "foot": 0.6985, "cycle": 4.444}}, "src": "fallback-v4"}

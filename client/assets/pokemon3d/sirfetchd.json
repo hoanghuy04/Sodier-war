@@ -1,0 +1,1 @@
+{"unit": 0.0167, "frames": 12, "modes": {"idle": {"file": "sirfetchd-idle.png", "cell": 160, "scale": 2.6713, "foot": 0.8398, "cycle": 2.0}, "walk": {"file": "sirfetchd-walk.png", "cell": 160, "scale": 2.683, "foot": 0.8433, "cycle": 1.0}, "run": {"file": "sirfetchd-run.png", "cell": 160, "scale": 2.683, "foot": 0.8433, "cycle": 0.556}}, "src": "fallback-v4"}

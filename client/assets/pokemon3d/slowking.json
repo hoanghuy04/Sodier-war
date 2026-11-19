@@ -1,0 +1,1 @@
+{"unit": 0.02494, "frames": 12, "modes": {"idle": {"file": "slowking-idle.png", "cell": 160, "scale": 4.0157, "foot": 0.8382, "cycle": 2.667}, "walk": {"file": "slowking-walk.png", "cell": 160, "scale": 4.0421, "foot": 0.8499, "cycle": 1.333}, "run": {"file": "slowking-run.png", "cell": 160, "scale": 4.0421, "foot": 0.8499, "cycle": 0.741}}, "src": "fallback-v4"}

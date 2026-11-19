@@ -1,0 +1,1 @@
+{"unit": 0.0331, "frames": 12, "modes": {"idle": {"file": "venonat-idle.png", "cell": 160, "scale": 5.9077, "foot": 0.8268, "cycle": 2.0}, "walk": {"file": "venonat-walk.png", "cell": 160, "scale": 5.3895, "foot": 0.8571, "cycle": 1.0}, "run": {"file": "venonat-run.png", "cell": 160, "scale": 5.3895, "foot": 0.8571, "cycle": 0.556}}, "src": "fallback-v4"}

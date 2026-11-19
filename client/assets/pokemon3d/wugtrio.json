@@ -1,0 +1,1 @@
+{"unit": 0.02286, "frames": 12, "modes": {"idle": {"file": "wugtrio-idle.png", "cell": 160, "scale": 3.6571, "foot": 0.6794, "cycle": 2.0}, "walk": {"file": "wugtrio-idle.png", "cell": 160, "scale": 3.6571, "foot": 0.6794, "cycle": 2.0}, "run": {"file": "wugtrio-idle.png", "cell": 160, "scale": 3.6571, "foot": 0.6794, "cycle": 2.0}}, "src": "fallback-v4"}

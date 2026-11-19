@@ -1,0 +1,1 @@
+{"unit": 0.02866, "frames": 12, "modes": {"idle": {"file": "snivy-idle.png", "cell": 160, "scale": 5.3895, "foot": 0.8149, "cycle": 2.0}, "walk": {"file": "snivy-walk.png", "cell": 160, "scale": 4.5851, "foot": 0.7464, "cycle": 1.0}, "run": {"file": "snivy-run.png", "cell": 160, "scale": 4.5851, "foot": 0.7464, "cycle": 0.556}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03491, "frames": 12, "modes": {"idle": {"file": "krabby-idle.png", "cell": 160, "scale": 6.144, "foot": 0.4654, "cycle": 4.0}, "walk": {"file": "krabby-walk.png", "cell": 160, "scale": 5.5855, "foot": 0.4599, "cycle": 0.5}, "run": {"file": "krabby-run.png", "cell": 160, "scale": 5.5855, "foot": 0.4599, "cycle": 0.278}}, "src": "fallback-v4"}

@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#1b1726">
+<title>Sodier War</title>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/brand/favicon-16.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/brand/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Sodier War">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;600;700&family=Be+Vietnam+Pro:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<canvas id="game"></canvas>
+
+<div id="hud" class="hidden">
+  <div id="resbar"></div>
+  <div id="matchbar"></div>
+  <div id="bossbar" class="hidden"><b></b><div class="bb"><i></i></div><span></span></div>
+  <div id="invpanel" class="panel hidden"></div>
+  <div id="sysfeed"></div>
+  <div id="alerts"></div>
+  <button id="logoutbtn" class="panel" title="Đăng xuất">Đăng xuất</button>
+  <div id="minimap-wrap"><canvas id="minimap" width="220" height="220"></canvas><div id="mmlegend"><span><i style="background:#3EE06B"></i>mỏ của bạn</span><span><i style="background:none;width:auto;height:auto;color:#e8283c;font-size:11px;line-height:1">♛</i>boss</span><span><i style="background:none;width:auto;height:auto;color:#2a9aff;font-size:11px;line-height:1">♛</i>boss hồi sinh</span><span><i style="background:#4aa8ff;transform:rotate(45deg)"></i>bãi quái</span><span><i style="background:#fff;transform:rotate(45deg)"></i>bạn</span></div></div>
+  <div id="rail" role="toolbar" aria-label="Lối tắt"></div>
+  <button id="m-openbtn" type="button" aria-label="Mở menu"></button>
+  <div id="m-drawer" class="panel hidden">
+    <div id="m-res"></div>
+    <div id="m-match"></div>
+    <div id="m-grid"></div>
+  </div>
+  <div id="rankpanel" class="panel hidden"></div>
+  <div id="info" class="panel hidden"></div>
+  <div id="herobox" class="panel">
+    <div id="portrait"></div>
+    <div class="hb-right">
+      <div id="heroname"></div>
+      <div class="bar"><div id="herohp"></div><span id="herohptext"></span></div>
+      <div id="herosub"></div>
+      <button id="swapbtn" title="Đổi nhân vật chính ngay tại chỗ (giữ quân, mỏ, tài nguyên, trang bị)">⇄ Đổi tướng</button>
+    </div>
+  </div>
+  <div id="armybox" class="panel">
+    <div id="armylist"></div>
+    <div id="slots"></div>
+    <button id="holdbtn" title="Cất binh (C): bấm 1 lần cất tất cả lính vào căn cứ giữ nhà, bấm lần nữa xuất binh (lính ra quanh tướng). Đang đánh nhau vẫn cất / xuất được">C · Cất binh</button>
+    <button id="regroupbtn" title="Tập hợp (T): lính bị kẹt? Cả đội xuất hiện ngay quanh tướng theo đội hình. Hồi chiêu 15 giây">T · Tập hợp</button>
+    <button id="atkbtn" title="Đánh (E): cả đội đánh quái / boss / lính canh gần tướng nhất">E · Đánh</button>
+    <button id="pullbtn" title="Rút quân (R): cả đội bỏ mục tiêu đang đánh, về đội hình quanh tướng trong 4 giây">R · Rút quân</button>
+    <button id="modebtn" title="Đổi cách xếp đội hình (G)">G</button>
+    <button id="recallbtn" title="Về thành (V): sau 8 giây tướng và cả đội về Thành trì. Bị tấn công là hủy. Bấm lại để hủy">V · Về thành</button>
+    <button id="callbtn" class="hidden" title="Gọi viện binh: lính trong Hội thành tới đánh cùng tướng 3 phút rồi tự về (hồi chiêu 5 phút)">📯 Viện binh</button>
+    <div id="recallbar" class="hidden"><div class="fill"></div><span></span></div>
+  </div>
+  <div id="skillbox">
+    <button id="skillbtn" class="panel"><span class="key">Q</span><span id="skillname"></span><div id="skillcd"></div></button>
+  </div>
+  <div id="queuebox"></div>
+  <div id="m-ctxbar" class="panel hidden">
+    <span id="m-ctxtxt"></span>
+    <button id="m-ctxok" type="button">✓</button>
+    <button id="m-ctxcancel" type="button">✕</button>
+  </div>
+  <button id="m-recenter" class="hidden" type="button" title="Quay về vị trí tướng">⌖ Về tướng</button>
+  <div id="joy-wrap" aria-label="Nút di chuyển">
+    <div id="joy-base">
+      <i class="jd jn"></i><i class="jd je"></i><i class="jd js"></i><i class="jd jw"></i>
+      <div id="joy-glow"></div>
+      <div id="joy-knob"></div>
+    </div>
+  </div>
+  <div id="moba-pad" aria-label="Kỹ năng và điều binh">
+    <button id="m-hold" class="mb-sub" type="button" data-pos="0" title="Cất binh / Xuất binh">
+      <span class="mb-ic" id="m-hold-ic"></span>
+      <span class="mb-lbl" id="m-hold-lbl">Cất binh</span>
+    </button>
+    <button id="m-pull" class="mb-sub" type="button" data-pos="1" title="Rút quân về đội hình">
+      <span class="mb-ic" id="m-pull-ic"></span>
+      <i class="mb-sweep" id="m-pull-sw"></i>
+      <b class="mb-cd" id="m-pull-cd"></b>
+      <span class="mb-lbl">Rút quân</span>
+    </button>
+    <button id="m-regroup" class="mb-sub" type="button" data-pos="2" title="Tập hợp quanh tướng (hồi 15s)">
+      <span class="mb-ic" id="m-regroup-ic"></span>
+      <i class="mb-sweep" id="m-regroup-sw"></i>
+      <b class="mb-cd" id="m-regroup-cd"></b>
+      <span class="mb-lbl">Tập hợp</span>
+    </button>
+    <button id="m-mode" class="mb-sub" type="button" data-pos="3" title="Đổi cách xếp đội hình">
+      <span class="mb-ic" id="m-mode-ic"></span>
+      <span class="mb-lbl" id="m-mode-lbl">Binh chủng</span>
+    </button>
+    <button id="m-skill" class="mb-main" type="button" title="Kỹ năng nhân vật chính">
+      <span class="mb-ic" id="m-skill-ic"></span>
+      <i class="mb-sweep" id="m-skill-sw"></i>
+      <b class="mb-cd" id="m-skill-cd"></b>
+      <span class="mb-lbl" id="m-skill-lbl">Kỹ năng</span>
+    </button>
+  </div>
+  <div id="tip" class="hidden"></div>
+  <div id="chatbox" class="hidden">
+    <input id="chatin" maxlength="140" placeholder="Nhắn cho cả server, Enter để gửi">
+    <button id="chatsend" type="button">Gửi</button>
+    <button id="chatclose" type="button">✕</button>
+  </div>
+  <div id="chatpanel">
+    <div class="cp-tabs"><button type="button" data-ch="all" class="on">Server<i></i></button><button type="button" data-ch="party">Đội<i></i></button><button type="button" data-ch="ai" title="Trợ lý AI: hỏi về luật chơi và tài khoản của bạn (30 câu/ngày)">🤖 Trợ lý<i></i></button></div>
+    <div id="cplog"></div>
+    <div class="cp-in"><input id="cpin" maxlength="140" placeholder="Nhắn cho cả server, Enter để gửi" autocomplete="off"><button id="cpsend" type="button">Gửi</button></div>
+  </div>
+</div>
+
+<div id="shop" class="modal hidden">
+  <div class="modal-box">
+    <div class="modal-head"><b>CỬA HÀNG</b><div id="shopres"></div><span class="hint">Phím 1–0 để mua · Shift: mua 5</span><button id="buymult" type="button" class="multbtn">×1</button><button class="x" data-close="shop">✕</button></div>
+    <div id="shoptabs" class="hidden"><button data-st="army" class="on">⚔ Quân</button><button data-st="build">🏰 Công trình</button><button data-st="deco">🌸 Trang trí</button><button data-st="pet">🐾 Thú cưng</button></div>
+    <div id="shopgrid"></div>
+    <div id="bshopgrid" class="hidden"></div>
+    <div id="dshopgrid" class="hidden"></div>
+    <div id="pshopgrid" class="hidden"></div>
+    <div id="shopfoot"></div>
+  </div>
+</div>
+
+<div id="castledlg" class="modal hidden">
+  <div class="modal-box">
+    <div class="modal-head"><b>HỘI THÀNH</b><span id="castlecap" class="hint"></span><span class="hint">Shift: gửi / rút 5</span><button class="x" data-close="castledlg">✕</button></div>
+    <div id="castlebar"><i></i><em></em></div>
+    <div id="castlegrid"></div>
+    <div id="castlefoot"></div>
+  </div>
+</div>
+
+<div id="campdlg" class="modal hidden">
+  <div class="modal-box">
+    <div class="modal-head"><b>DOANH TRẠI</b><span id="campcap" class="hint"></span><button class="x" data-close="campdlg">✕</button></div>
+    <div id="campbar"><i></i><em></em></div>
+    <div id="campgrid"></div>
+    <div id="campfoot"></div>
+  </div>
+</div>
+
+<div id="craftdlg" class="modal hidden">
+  <div class="modal-box craft-box">
+    <div class="modal-head"><b id="crafttitle"></b><span id="craftcap" class="hint"></span><span id="crafttools"></span><button class="x" data-close="craftdlg">✕</button></div>
+    <div id="craftbody"></div>
+  </div>
+</div>
+
+<div id="dlogdlg" class="modal hidden">
+  <div class="modal-box dl-box">
+    <div class="modal-head"><b id="dltitle">NHẬT KÝ PHÒNG THỦ</b><span class="qtabs"><button data-dt="def" class="on">Phòng thủ</button><button data-dt="atk">Tấn công</button></span><span id="dlhint" class="hint"></span><button class="x" data-close="dlogdlg">✕</button></div>
+    <div id="dlbody"></div>
+  </div>
+</div>
+
+<div id="keysdlg" class="modal hidden">
+  <div class="modal-box keys-box">
+    <div class="modal-head"><b>CÀI ĐẶT</b><span class="hint">Màu viền lưu theo tài khoản · phím tắt lưu trên trình duyệt này</span><button class="x" data-close="keysdlg">✕</button></div>
+    <div id="keysbody"></div>
+  </div>
+</div>
+
+<div id="questdlg" class="modal hidden">
+  <div class="modal-box q-box">
+    <div class="modal-head"><b>NHIỆM VỤ</b><span class="qtabs"><button data-qt="day" class="on">Hằng ngày</button><button data-qt="ach">Thành tựu</button></span><span id="qhint" class="hint"></span><button class="x" data-close="questdlg">✕</button></div>
+    <div id="qbody"></div>
+  </div>
+</div>
+
+<div id="checkin" class="modal hidden">
+  <div class="modal-box ci-box">
+    <div class="modal-head"><b>ĐIỂM DANH HẰNG NGÀY</b><span class="hint">Mỗi ngày một lần · quà mỗi ngày trong tháng, cuối tháng có trang bị Huyền thoại</span><button class="x" data-close="checkin">✕</button></div>
+    <div id="cidays"></div>
+    <div id="cifoot"></div>
+  </div>
+</div>
+
+<div id="heroswap" class="modal hidden">
+  <div class="modal-box">
+    <div class="modal-head"><b>ĐỔI NHÂN VẬT CHÍNH</b><span class="hint" id="swaphint">Giữ nguyên quân, mỏ, tài nguyên và trang bị. Máu giữ đúng tỉ lệ %.</span><button class="x" data-close="heroswap">✕</button></div>
+    <div id="swapcards"></div>
+  </div>
+</div>
+
+<div id="board" class="modal hidden"><div class="modal-box"><div class="modal-head"><b>BẢNG XẾP HẠNG</b></div><table id="boardtbl"></table></div></div>
+
+<div id="login" class="screen">
+  <div class="screen-box">
+    <h1 class="logo"><img src="/assets/brand/logo@4x.png" alt="Sodier War" width="444" height="144"></h1>
+    <p class="sub">Chiếm mỏ · Gây quân · Đánh tay đôi</p>
+    <input id="nameinput" maxlength="18" placeholder="Tên của bạn" autocomplete="username">
+    <input id="pwinput" type="password" maxlength="64" placeholder="Mật khẩu" autocomplete="current-password">
+    <input id="inviteinput" maxlength="16" placeholder="Mã mời (chỉ cần khi tạo tên mới)" autocomplete="off">
+    <div id="loginerr"></div>
+    <button id="loginbtn" class="big">Vào trận</button>
+    <button id="installbtn" type="button" class="hidden" title="Cài Sodier War như một app: icon trên màn hình chính, mở toàn màn hình">Thêm vào màn hình chính</button><div id="installhelp" class="hidden"></div>
+    <p class="help">Tên mới: nhập mã mời (hỏi người mở server). Mật khẩu nhập lần đầu sẽ thành mật khẩu của tên đó.</p>
+    <p class="help help-pc">W A S D (giữ phím): đi theo hướng · Chuột phải: đi / chiếm mỏ / tấn công · E: đánh mục tiêu gần nhất · Chuột trái: xem thông tin · Giữ chuột trái (hoặc giữa) và kéo: kéo bản đồ · Lăn chuột: phóng to</p>
+    <p class="help help-mob">Nút tròn trái dưới: kéo để di chuyển · Cụm 5 nút phải dưới: kỹ năng tướng &amp; điều binh · Chạm bản đồ: xem thông tin / nhặt đồ · Kéo 2 ngón: phóng to</p>
+  </div>
+</div>
+
+<div id="home" class="screen hidden">
+  <div class="home-box">
+    <div class="home-top">
+      <img src="/assets/brand/logo@4x.png" alt="Sodier War" width="222" height="72">
+      <div class="home-user"><span id="home-name"></span><button id="home-ci" class="ghost cibtn" title="Điểm danh hằng ngày">📅 Điểm danh</button><button id="helpbtn" class="qbtn" title="Hướng dẫn chơi">?</button><button id="home-logout" class="ghost">Đăng xuất</button></div>
+    </div>
+    <div class="modes">
+      <div class="mode-card endless">
+        <div class="mode-ic" id="ic-endless"></div>
+        <h3>Thế giới mở</h3>
+        <p>Chơi mãi không hết ván. Chiếm mỏ, gây quân, săn boss. <b>Chết thì bắt đầu lại</b>. Không có bo. Boss hồi sinh 10 phút sau khi bị hạ.</p>
+        <div class="mode-meta" id="endless-meta"></div>
+        <button id="go-endless" class="big">VÀO THẾ GIỚI</button>
+      </div>
+      <div class="mode-card rooms">
+        <div class="mode-ic" id="ic-rooms"></div>
+        <h3>Đấu theo ván</h3>
+        <p>Tạo phòng, chờ bạn bè vào rồi bấm Bắt đầu. Mỗi ván tối đa 20 phút, <b>bo thu hẹp</b>, chỉ một mạng, đội còn sống cuối cùng thắng.</p>
+        <div id="roomlist"></div>
+        <div class="newroom"><input id="roomname" maxlength="24" placeholder="Tên phòng (tùy chọn)"><button id="createroom">+ Tạo phòng</button></div>
+      </div>
+    </div>
+    <div class="home-foot" id="home-foot"></div>
+  </div>
+</div>
+
+<div id="help" class="modal hidden">
+  <div class="modal-box help-box">
+    <div class="modal-head"><b>HƯỚNG DẪN CHƠI</b><span class="hint">Bấm ? bất cứ lúc nào để mở lại</span><button class="x" data-close="help">✕</button></div>
+    <div class="help-wrap"><div id="helptabs"></div><div id="helpbody"></div></div>
+  </div>
+</div>
+
+<div id="pick" class="screen hidden">
+  <div class="screen-box wide">
+    <img class="logo-sm" src="/assets/brand/logo@4x.png" alt="Sodier War" width="222" height="72">
+    <h2>Hàng chờ</h2>
+    <div id="joinstatus"></div>
+    <div id="lobbyplayers"></div>
+    <div class="lobby-sub">Chọn nhân vật cho ván tới</div>
+    <div id="herocards"></div>
+    <div class="lobby-actions">
+      <button id="gobtn" class="big">BẮT ĐẦU</button>
+      <button id="lobbyleave" class="big secondary">Rời phòng</button>
+      <button id="lobbydelete" class="big danger hidden">Xoá phòng</button>
+    </div>
+    <div class="lobby-links"><a id="lobbywatch" href="#">Xem bản đồ</a></div>
+  </div>
+</div>
+
+<div id="defeat" class="screen hidden">
+  <div class="screen-box">
+    <h1 class="defeat-title">THẤT BẠI</h1>
+    <p id="defeat-who"></p>
+    <div id="defeat-stats"></div>
+    <button id="againbtn" class="big pulse">BẮT ĐẦU LẠI ⏎</button>
+    <a id="watchbtn" href="#">← Về trang chủ</a>
+  </div>
+</div>
+
+<div id="results" class="screen hidden">
+  <div class="screen-box">
+    <h1 class="win-title">KẾT THÚC VÁN</h1>
+    <p id="res-winner"></p>
+    <table id="res-table"></table>
+    <p id="res-next"></p>
+    <button id="res-close" class="big">Về hàng chờ</button>
+    <div class="lobby-links"><a id="res-stay" href="#">Ở lại xem bản đồ</a> · <a id="res-leave" href="#">Rời phòng</a></div>
+  </div>
+</div>
+
+<div id="deadbanner" class="hidden"></div>
+
+<div id="offline" class="screen hidden"><div class="screen-box"><h2>Đang kết nối lại…</h2></div></div>
+
+<div id="rotate-lock" aria-live="polite">
+  <div class="rot-box">
+    <img class="rot-logo" src="/assets/brand/logo@4x.png" alt="Sodier War" width="222" height="72">
+    <div class="rot-anim" aria-hidden="true">
+      <div class="rot-phone"><i></i></div>
+      <span class="rot-arr">↻</span>
+    </div>
+    <h2>XOAY NGANG ĐIỆN THOẠI</h2>
+    <p>Sodier War bắt buộc màn hình <b>nằm ngang</b> để điều khiển tướng và đội quân.</p>
+    <small>Hãy tắt khoá xoay màn hình rồi xoay ngang thiết bị của bạn.</small>
+  </div>
+</div>
+
+<script type="module" src="/main.js"></script>
+</body>
+</html>

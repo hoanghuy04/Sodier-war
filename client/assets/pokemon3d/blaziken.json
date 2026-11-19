@@ -1,0 +1,1 @@
+{"unit": 0.01315, "frames": 12, "modes": {"idle": {"file": "blaziken-idle.png", "cell": 160, "scale": 2.5924, "foot": 0.8277, "cycle": 8.0}, "walk": {"file": "blaziken-walk.png", "cell": 160, "scale": 2.4478, "foot": 0.8056, "cycle": 1.0}, "run": {"file": "blaziken-run.png", "cell": 160, "scale": 2.1041, "foot": 0.6065, "cycle": 0.5}}, "src": "fallback-v4"}

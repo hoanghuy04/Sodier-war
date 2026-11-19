@@ -1,0 +1,1 @@
+{"unit": 0.01745, "frames": 12, "modes": {"idle": {"file": "smeargle-idle.png", "cell": 160, "scale": 3.3758, "foot": 0.6182, "cycle": 2.0}, "walk": {"file": "smeargle-walk.png", "cell": 160, "scale": 3.531, "foot": 0.6732, "cycle": 1.0}, "run": {"file": "smeargle-run.png", "cell": 160, "scale": 2.7927, "foot": 0.5977, "cycle": 0.5}}, "src": "fallback-v4"}

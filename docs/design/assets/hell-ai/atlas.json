@@ -1,0 +1,971 @@
+{
+ "quy-tro": {
+  "size": [
+   84,
+   57
+  ],
+  "anchor": [
+   42,
+   50
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "quy-tro.jpg",
+  "artScale": 2.25,
+  "teamRecolor": false
+ },
+ "doi-than": {
+  "size": [
+   90,
+   63
+  ],
+  "anchor": [
+   45,
+   54
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "doi-than.jpg",
+  "artScale": 2.1,
+  "teamRecolor": false
+ },
+ "quy-vuong-nham": {
+  "size": [
+   188,
+   156
+  ],
+  "anchor": [
+   94,
+   152
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "skill": {
+    "row": 24,
+    "frames": 1
+   },
+   "hit": {
+    "row": 32,
+    "frames": 1
+   },
+   "roar": {
+    "row": 40,
+    "frames": 1
+   },
+   "death": {
+    "row": 48,
+    "frames": 1
+   }
+  },
+  "source": "boss-quy-vuong-nham.jpg",
+  "artScale": 1.04,
+  "teamRecolor": false
+ },
+ "sau-dung-nham": {
+  "size": [
+   90,
+   57
+  ],
+  "anchor": [
+   45,
+   53
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "sau-dung-nham.jpg",
+  "artScale": 2.27,
+  "teamRecolor": false
+ },
+ "cot-than": {
+  "size": [
+   56,
+   57
+  ],
+  "anchor": [
+   28,
+   53
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "cot-than.jpg",
+  "artScale": 2.77,
+  "teamRecolor": false
+ },
+ "nhay-dung-nham": {
+  "size": [
+   70,
+   55
+  ],
+  "anchor": [
+   35,
+   44
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "nhay-dung-nham.jpg",
+  "artScale": 2.9,
+  "teamRecolor": false
+ },
+ "qua-lua": {
+  "size": [
+   94,
+   54
+  ],
+  "anchor": [
+   47,
+   49
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "qua-lua.jpg",
+  "artScale": 2.33,
+  "teamRecolor": false
+ },
+ "bo-luu-huynh": {
+  "size": [
+   56,
+   50
+  ],
+  "anchor": [
+   28,
+   46
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "bo-luu-huynh.jpg",
+  "artScale": 3.17,
+  "teamRecolor": false
+ },
+ "den-oan-hon": {
+  "size": [
+   60,
+   53
+  ],
+  "anchor": [
+   30,
+   45
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "den-oan-hon.jpg",
+  "artScale": 3.2,
+  "teamRecolor": false
+ },
+ "khuyen-bazan": {
+  "size": [
+   104,
+   62
+  ],
+  "anchor": [
+   52,
+   58
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "khuyen-bazan.jpg",
+  "artScale": 2.24,
+  "teamRecolor": false
+ },
+ "ke-keo-xich": {
+  "size": [
+   104,
+   60
+  ],
+  "anchor": [
+   52,
+   56
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "ke-keo-xich.jpg",
+  "artScale": 2.54,
+  "teamRecolor": false
+ },
+ "thay-cung-sung": {
+  "size": [
+   96,
+   61
+  ],
+  "anchor": [
+   48,
+   57
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "thay-cung-sung.jpg",
+  "artScale": 2.58,
+  "teamRecolor": false
+ },
+ "ve-binh-nguc": {
+  "size": [
+   76,
+   59
+  ],
+  "anchor": [
+   38,
+   55
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "ve-binh-nguc.jpg",
+  "artScale": 2.6,
+  "teamRecolor": false
+ },
+ "cu-nham": {
+  "size": [
+   102,
+   81
+  ],
+  "anchor": [
+   51,
+   75
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "cu-nham.jpg",
+  "artScale": 1.92,
+  "teamRecolor": false
+ },
+ "hoa-te": {
+  "size": [
+   128,
+   83
+  ],
+  "anchor": [
+   64,
+   75
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "hoa-te.jpg",
+  "artScale": 1.86,
+  "teamRecolor": false
+ },
+ "cai-nguc": {
+  "size": [
+   154,
+   104
+  ],
+  "anchor": [
+   77,
+   94
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "cai-nguc.jpg",
+  "artScale": 1.65,
+  "teamRecolor": false
+ },
+ "phu-thuy-huyet": {
+  "size": [
+   108,
+   96
+  ],
+  "anchor": [
+   54,
+   85
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "phu-thuy-huyet.jpg",
+  "artScale": 1.75,
+  "teamRecolor": false
+ },
+ "lo-ren-song": {
+  "size": [
+   124,
+   88
+  ],
+  "anchor": [
+   62,
+   84
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "lo-ren-song.jpg",
+  "artScale": 1.81,
+  "teamRecolor": false
+ },
+ "ret-dung-nham": {
+  "size": [
+   118,
+   89
+  ],
+  "anchor": [
+   59,
+   85
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "hit": {
+    "row": 24,
+    "frames": 1
+   },
+   "death": {
+    "row": 32,
+    "frames": 1
+   }
+  },
+  "source": "ret-dung-nham.jpg",
+  "artScale": 1.77,
+  "teamRecolor": false
+ },
+ "mau-hau-tro": {
+  "size": [
+   206,
+   169
+  ],
+  "anchor": [
+   103,
+   143
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "skill": {
+    "row": 24,
+    "frames": 1
+   },
+   "hit": {
+    "row": 32,
+    "frames": 1
+   },
+   "roar": {
+    "row": 40,
+    "frames": 1
+   },
+   "death": {
+    "row": 48,
+    "frames": 1
+   }
+  },
+  "source": "boss-mau-hau-tro.jpg",
+  "artScale": 1.03,
+  "teamRecolor": false
+ },
+ "nguc-chu": {
+  "size": [
+   170,
+   144
+  ],
+  "anchor": [
+   85,
+   140
+  ],
+  "dirs": [
+   "S",
+   "SW",
+   "W",
+   "NW",
+   "N",
+   "NE",
+   "E",
+   "SE"
+  ],
+  "states": {
+   "idle": {
+    "row": 0,
+    "frames": 1
+   },
+   "walk": {
+    "row": 8,
+    "frames": 1
+   },
+   "attack": {
+    "row": 16,
+    "frames": 1
+   },
+   "skill": {
+    "row": 24,
+    "frames": 1
+   },
+   "hit": {
+    "row": 32,
+    "frames": 1
+   },
+   "roar": {
+    "row": 40,
+    "frames": 1
+   },
+   "death": {
+    "row": 48,
+    "frames": 1
+   }
+  },
+  "source": "boss-nguc-chu.jpg",
+  "artScale": 1.08,
+  "teamRecolor": false
+ }
+}

@@ -1,0 +1,1 @@
+{"unit": 0.04465, "frames": 12, "modes": {"idle": {"file": "politoed-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.8282, "cycle": 2.0}, "walk": {"file": "politoed-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.8282, "cycle": 2.0}, "run": {"file": "politoed-idle.png", "cell": 160, "scale": 7.1442, "foot": 0.8282, "cycle": 2.0}}, "src": "fallback-v4"}

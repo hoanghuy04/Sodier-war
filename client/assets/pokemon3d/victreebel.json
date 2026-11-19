@@ -1,0 +1,1 @@
+{"unit": 0.01043, "frames": 12, "modes": {"idle": {"file": "victreebel-idle.png", "cell": 160, "scale": 1.9321, "foot": 0.5163, "cycle": 4.0}, "walk": {"file": "victreebel-walk.png", "cell": 160, "scale": 1.6696, "foot": 0.5089, "cycle": 1.333}, "run": {"file": "victreebel-run.png", "cell": 160, "scale": 1.6696, "foot": 0.5089, "cycle": 0.741}}, "src": "fallback-v4"}

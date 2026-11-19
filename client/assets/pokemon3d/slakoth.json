@@ -1,0 +1,1 @@
+{"unit": 0.02824, "frames": 12, "modes": {"idle": {"file": "slakoth-idle.png", "cell": 160, "scale": 4.5851, "foot": 0.3667, "cycle": 2.0}, "walk": {"file": "slakoth-walk.png", "cell": 160, "scale": 4.5176, "foot": 0.4111, "cycle": 1.0}, "run": {"file": "slakoth-run.png", "cell": 160, "scale": 4.5176, "foot": 0.4322, "cycle": 0.556}}, "src": "fallback-v4"}

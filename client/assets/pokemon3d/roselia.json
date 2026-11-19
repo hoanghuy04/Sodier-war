@@ -1,0 +1,1 @@
+{"unit": 0.02494, "frames": 12, "modes": {"idle": {"file": "roselia-idle.png", "cell": 160, "scale": 4.0421, "foot": 0.6288, "cycle": 4.0}, "walk": {"file": "roselia-walk.png", "cell": 160, "scale": 3.9896, "foot": 0.6209, "cycle": 1.333}, "run": {"file": "roselia-run.png", "cell": 160, "scale": 3.9896, "foot": 0.6209, "cycle": 0.741}}, "src": "fallback-v4"}

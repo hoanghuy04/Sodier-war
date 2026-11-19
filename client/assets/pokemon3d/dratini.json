@@ -1,0 +1,1 @@
+{"unit": 0.01032, "frames": 12, "modes": {"idle": {"file": "dratini-idle.png", "cell": 160, "scale": 3.0416, "foot": 0.5827, "cycle": 4.0}, "walk": {"file": "dratini-walk.png", "cell": 160, "scale": 1.6516, "foot": 0.3565, "cycle": 4.0}, "run": {"file": "dratini-run.png", "cell": 160, "scale": 1.6696, "foot": 0.3654, "cycle": 4.0}}, "src": "fallback-v4"}

@@ -1,0 +1,1 @@
+{"unit": 0.03623, "frames": 12, "modes": {"idle": {"file": "panpour-idle.png", "cell": 160, "scale": 5.7962, "foot": 0.8387, "cycle": 2.0}, "walk": {"file": "panpour-walk.png", "cell": 160, "scale": 5.7962, "foot": 0.8387, "cycle": 1.0}, "run": {"file": "panpour-run.png", "cell": 160, "scale": 5.7962, "foot": 0.8387, "cycle": 0.556}}, "src": "fallback-v4"}
